@@ -1,0 +1,1384 @@
+vendor_id,vendor_name,tax_id,country,city,vendor_type,created_date
+V100001,Sterling Oilfield Supply Inc,FRN-886458747,United States,,Agent,2013-06-30
+V100002,Falcon Well Technologies Sdn Bhd,FRN-622998950,Malaysia,,Distributor,2019-06-13
+V100003,Keystone Tubulars Pte Ltd,FRN-875073435,Singapore,,Agent,2016-12-03
+V100004,CV Garuda Petro Supply,249450210781644,Indonesia,Bekasi,Distributor,2010-11-09
+V100005,Keystone Well Technologies Ltd,FRN-799249566,United Kingdom,,Distributor,2009-02-12
+V100006,PT Borneo Graha Oilfield,654549245885983,Indonesia,Jakarta,Distributor,2010-10-28
+V100007,Lumen Well Technologies FZE,FRN-969318190,United Arab Emirates,,Distributor,2011-02-24
+V100008,"Corvex Tubulars Co., Ltd",FRN-267966135,South Korea,,Distributor,2019-12-17
+V100009,PT Megah Jaya Oilfield Supply,598506979348510,Indonesia,Jakarta,Distributor,2009-07-30
+V100010,Bluefin Drilling Products Pte Ltd,FRN-990464944,Singapore,,Distributor,2011-06-03
+V100011,Corvex Tubulars Sdn Bhd,FRN-603190584,Malaysia,,Distributor,2010-04-05
+V100012,Ironbridge Tubulars Inc,FRN-612583114,United States,,Distributor,2017-05-30
+V100013,PT Mandiri Makmur Oilfield Supply,177882986478693,Indonesia,Balikpapan,Manufacturer,2010-01-20
+V100014,Vanguard Tubulars Inc,FRN-175522251,United States,,Manufacturer,2010-06-12
+V100015,Falcon Oilfield Supply Pte Ltd,FRN-771652823,Singapore,,Manufacturer,2016-02-16
+V100016,PT Sinar Karya Oilfield,305983467046546,Indonesia,Jakarta,Manufacturer,2013-04-04
+V100017,Summit Well Technologies Inc,FRN-280782377,United States,,Agent,2013-10-31
+V100018,PT Arta Bumi Oilfield Supply,109110559341437,Indonesia,Tangerang,Manufacturer,2017-01-29
+V100019,PT Bumi Gemilang Oilfield Supply,321024239585695,Indonesia,Palembang,Distributor,2015-04-13
+V100020,"Westgate Oilfield Supply Co., Ltd",FRN-609496899,China,,Distributor,2019-04-14
+V100021,Redwater Completion Systems FZE,FRN-832365475,United Arab Emirates,,Manufacturer,2015-09-16
+V100022,Meridian Drilling Products Pte Ltd,FRN-887760371,Singapore,,Distributor,2009-07-28
+V100023,PT Sentosa Sriwijaya Oilfield Supply,035986911353761,Indonesia,Jakarta,Agent,2012-03-21
+V100024,PT Jaya Tirta Tubular,686937785703101,Indonesia,Samarinda,Distributor,2010-10-08
+V100025,PT Borneo Sarana Oilfield,216194873663915,Indonesia,Jakarta,Distributor,2018-09-25
+V100026,PT Arta Rekayasa Oilfield,987261453864314,Indonesia,Jakarta,Distributor,2013-05-28
+V100027,PT Rekayasa Bahari Oilfield Supply,176128384162951,Indonesia,Jakarta,Distributor,2014-07-20
+V100028,Meridian Completion Systems Sdn Bhd,FRN-763699896,Malaysia,,Agent,2018-01-14
+V100029,PT Patra Sriwijaya Petro Supply,021820242606500,Indonesia,Jakarta,Distributor,2019-01-05
+V100030,"Crestline Completion Systems Co., Ltd",FRN-455109055,China,,Agent,2015-06-18
+V100031,Falcon Drilling Products Inc,FRN-334432614,United States,,Manufacturer,2017-12-19
+V100032,Bluefin Drilling Products Inc,FRN-573588765,United States,,Distributor,2008-10-29
+V100033,Corvex Oilfield Supply FZE,FRN-895463057,United Arab Emirates,,Manufacturer,2016-11-04
+V100034,CV Kencana Oilfield Supply,699024812877168,Indonesia,Batam,Distributor,2014-03-17
+V100035,Lumen Completion Systems Inc,FRN-167117758,United States,,Manufacturer,2014-05-18
+V100036,PT Yasa Mandiri Tubular,534101164502354,Indonesia,Jakarta,Agent,2019-08-14
+V100037,Apex Oilfield Supply Inc,FRN-386830580,United States,,Distributor,2018-06-29
+V100038,PT Sentosa Lestari Petro Supply,548217366124894,Indonesia,Tangerang,Distributor,2010-04-01
+V100039,PT Sinar Patra Oilfield Supply,239112336065790,Indonesia,Balikpapan,Distributor,2016-08-07
+V100040,"Sterling Oilfield Supply Co., Ltd",FRN-820054178,China,,Distributor,2013-02-04
+V100041,PT Prima Makmur Tubular,318009757831927,Indonesia,Jakarta,Distributor,2017-05-25
+V100042,Orion Tubulars Sdn Bhd,FRN-547554093,Malaysia,,Distributor,2009-10-30
+V100043,Redwater Completion Systems Pte Ltd,FRN-378538155,Singapore,,Distributor,2008-10-12
+V100044,PT Baja Utama Oilfield,849207123290767,Indonesia,Batam,Distributor,2011-06-05
+V100045,Bluefin Well Technologies Ltd,FRN-859999690,United Kingdom,,Agent,2013-01-02
+V100046,Apex Well Technologies Inc,FRN-907555540,United States,,Distributor,2019-10-04
+V100047,Redwater Oilfield Supply Inc,FRN-030612553,United States,,Distributor,2016-04-09
+V100048,Crestline Oilfield Supply Pte Ltd,FRN-371987846,Singapore,,Distributor,2020-03-02
+V100049,PT Nusa Jaya Oilfield,066639060218955,Indonesia,Batam,Distributor,2008-11-22
+V100050,Falcon Well Technologies Pte Ltd,FRN-719940051,Singapore,,Distributor,2009-08-19
+V100051,PT Andalan Borneo Drilling Supply,032778274231602,Indonesia,Jakarta,Distributor,2014-05-19
+V100052,PT Utama Andalan Drilling Supply,136636359639250,Indonesia,Jakarta,Distributor,2014-02-02
+V100053,PT Tirta Dirgantara Petro Supply,677558268895886,Indonesia,Palembang,Distributor,2014-10-19
+V100054,"Sterling Tubulars Co., Ltd",FRN-053839253,China,,Distributor,2013-11-01
+V100055,PT Sentosa Mandiri Petro Supply,484100121669643,Indonesia,Palembang,Agent,2011-04-10
+V100056,PT Bahari Samudra Oilfield,178310249995971,Indonesia,Batam,Manufacturer,2015-07-03
+V100057,"Crestline Well Technologies Co., Ltd",FRN-443001625,Japan,,Manufacturer,2011-09-05
+V100058,"Granite Tubulars Co., Ltd",FRN-374656388,China,,Distributor,2008-06-11
+V100059,Northstar Completion Systems Inc,FRN-406527829,United States,,Distributor,2017-03-05
+V100060,Sterling Drilling Products Sdn Bhd,FRN-938296339,Malaysia,,Distributor,2013-07-27
+V100061,Halcyon Completion Systems Sdn Bhd,FRN-431384655,Malaysia,,Distributor,2009-01-08
+V100062,Bluefin Drilling Products Sdn Bhd,FRN-704007550,Malaysia,,Manufacturer,2018-01-14
+V100063,Granite Drilling Products Sdn Bhd,FRN-020179951,Malaysia,,Distributor,2008-02-17
+V100064,Trident Tubulars Inc,FRN-141997057,United States,,Manufacturer,2012-09-15
+V100065,"Halcyon Drilling Products Co., Ltd",FRN-584941691,Japan,,Agent,2019-09-24
+V100066,PT Dirgantara Tubular,277427513760140,Indonesia,Surabaya,Manufacturer,2012-07-04
+V100067,Redwater Tubulars Pte Ltd,FRN-305156437,Singapore,,Manufacturer,2016-12-18
+V100068,Strata Tubulars Pte Ltd,FRN-949562959,Singapore,,Manufacturer,2016-09-30
+V100069,"Orion Oilfield Supply Co., Ltd",FRN-914897219,China,,Distributor,2015-01-04
+V100070,PT Perkasa Eka Tubular,092632986560854,Indonesia,Tangerang,Distributor,2015-03-20
+V100071,Delta Rho Drilling Products Pte Ltd,FRN-829557576,Singapore,,Distributor,2017-09-22
+V100072,PT Harapan Karya Oilfield Supply,164763114622900,Indonesia,Jakarta,Manufacturer,2011-11-12
+V100073,PT Wahana Eka Tubular,733444403325579,Indonesia,Batam,Manufacturer,2011-05-11
+V100074,"Lumen Drilling Products Co., Ltd",FRN-587142796,China,,Manufacturer,2009-11-25
+V100075,Lumen Drilling Products FZE,FRN-662846035,United Arab Emirates,,Distributor,2016-08-14
+V100076,Granite Drilling Products Pte Ltd,FRN-108235326,Singapore,,Distributor,2010-07-23
+V100077,Atlas Drilling Products GmbH,FRN-729790522,Germany,,Agent,2015-07-05
+V100078,Bluefin Well Technologies Pte Ltd,FRN-767000766,Singapore,,Distributor,2019-06-28
+V100079,"Atlas Oilfield Supply Co., Ltd",FRN-407549041,China,,Manufacturer,2011-10-09
+V100080,PT Kurnia Kencana Oilfield,930143012208029,Indonesia,Bekasi,Distributor,2008-10-08
+V100081,PT Energi Petro Supply,915909407778403,Indonesia,Jakarta,Distributor,2011-08-31
+V100082,PT Citra Abadi Tubular,578101485151885,Indonesia,Palembang,Manufacturer,2017-02-04
+V100083,Meridian Well Technologies Inc,FRN-432903980,United States,,Agent,2014-02-11
+V100084,PT Yasa Makmur Oilfield Supply,271188973299318,Indonesia,Balikpapan,Manufacturer,2011-05-21
+V100085,CV Tama Tubular,771711711249765,Indonesia,Jakarta,Distributor,2009-02-07
+V100086,PT Kencana Arta Oilfield Supply,234582718337716,Indonesia,Jakarta,Manufacturer,2010-02-14
+V100087,PT Jaya Samudra Oilfield Supply,105300124756321,Indonesia,Jakarta,Agent,2017-01-10
+V100088,Westgate Oilfield Supply Pte Ltd,FRN-087179018,Singapore,,Distributor,2013-05-06
+V100089,Summit Tubulars Pte Ltd,FRN-234508690,Singapore,,Distributor,2019-07-09
+V100090,Bluefin Tubulars Pte Ltd,FRN-091286215,Singapore,,Distributor,2008-10-04
+V100091,PT Yasa Andalan Drilling Supply,791128563487432,Indonesia,Surabaya,Distributor,2019-06-02
+V100092,Cobalt Completion Systems Pte Ltd,FRN-621142961,Singapore,,Distributor,2010-03-08
+V100093,CV Lestari Drilling Supply,442970630305345,Indonesia,Surabaya,Agent,2015-06-02
+V100094,"Redwater Tubulars Co., Ltd",FRN-598638407,China,,Agent,2018-05-01
+V100095,PT Borneo Buana Drilling Supply,021358983603593,Indonesia,Batam,Manufacturer,2010-09-02
+V100096,PT Sejahtera Kencana Tubular,924806843796007,Indonesia,Jakarta,Distributor,2012-07-09
+V100097,PT Bumi Tubular,810496891621417,Indonesia,Surabaya,Distributor,2008-02-09
+V100098,PT Graha Sentosa Oilfield,729326169412682,Indonesia,Batam,Distributor,2015-07-18
+V100099,PT Eka Tama Oilfield Supply,313155021143459,Indonesia,Samarinda,Distributor,2014-11-07
+V100100,Pacific Oilfield Supply Pte Ltd,FRN-157430917,Singapore,,Distributor,2012-09-30
+V100101,Westgate Well Technologies Sdn Bhd,FRN-510623477,Malaysia,,Manufacturer,2011-02-13
+V100102,PT Mitra Yasa Oilfield Supply,362790673959180,Indonesia,Jakarta,Distributor,2008-09-13
+V100103,PT Harapan Bumi Oilfield Supply,147036760901793,Indonesia,Surabaya,Distributor,2011-08-22
+V100104,PT Tirta Teknik Drilling Supply,347261063578689,Indonesia,Jakarta,Agent,2008-09-01
+V100105,PT Yasa Nusantara Oilfield,620226235439439,Indonesia,Jakarta,Agent,2016-05-17
+V100106,Lumen Completion Systems Pte Ltd,FRN-059573534,Singapore,,Manufacturer,2015-07-20
+V100107,CV Bahari Tubular,632434716651320,Indonesia,Jakarta,Distributor,2009-07-19
+V100108,CV Andalan Oilfield,441856600782589,Indonesia,Balikpapan,Agent,2011-04-06
+V100109,Halcyon Completion Systems Pte Ltd,FRN-642915832,Singapore,,Manufacturer,2015-07-31
+V100110,Lumen Well Technologies Inc,FRN-934149232,United States,,Manufacturer,2018-07-08
+V100111,Corvex Well Technologies Inc,FRN-583555546,United States,,Manufacturer,2017-05-26
+V100112,"Delta Rho Drilling Products Co., Ltd",FRN-334737618,Japan,,Distributor,2019-10-17
+V100113,CV Nusantara Petro Supply,575131784428160,Indonesia,Balikpapan,Agent,2008-06-07
+V100114,Westgate Drilling Products Inc,FRN-350985592,United States,,Distributor,2014-07-22
+V100115,Crestline Well Technologies Pte Ltd,FRN-827923132,Singapore,,Distributor,2015-01-22
+V100116,Orion Drilling Products Sdn Bhd,FRN-434109219,Malaysia,,Agent,2008-11-04
+V100117,Orion Oilfield Supply GmbH,FRN-272872854,Germany,,Agent,2017-02-01
+V100118,"Pacific Drilling Products Co., Ltd",FRN-585791263,South Korea,,Agent,2012-02-11
+V100119,Crestline Drilling Products GmbH,FRN-931601618,Germany,,Distributor,2013-06-15
+V100120,Crestline Oilfield Supply Sdn Bhd,FRN-868338932,Malaysia,,Distributor,2009-10-04
+V100121,CV Mandiri Petro Supply,071837303962080,Indonesia,Batam,Agent,2011-10-18
+V100122,Northstar Tubulars Sdn Bhd,FRN-225907172,Malaysia,,Distributor,2008-06-19
+V100123,PT Andalan Cipta Oilfield Supply,273870491832352,Indonesia,Batam,Agent,2009-12-20
+V100124,Bluefin Oilfield Supply Pte Ltd,FRN-693973678,Singapore,,Distributor,2011-06-23
+V100125,Keystone Oilfield Supply Inc,FRN-714664023,United States,,Distributor,2020-01-12
+V100126,PT Garuda Kencana Petro Supply,716627641288774,Indonesia,Jakarta,Distributor,2009-07-28
+V100127,"Orion Tubulars Co., Ltd",FRN-000314122,China,,Agent,2013-02-16
+V100128,Delta Rho Completion Systems Pte Ltd,FRN-721264426,Singapore,,Manufacturer,2015-09-15
+V100129,Westgate Tubulars Pte Ltd,FRN-836447689,Singapore,,Manufacturer,2010-06-17
+V100130,Crestline Completion Systems GmbH,FRN-975512150,Germany,,Manufacturer,2019-01-05
+V100131,PT Andalan Energi Petro Supply,093158932445456,Indonesia,Jakarta,Distributor,2008-08-21
+V100132,PT Petro Lintas Oilfield,213959316242419,Indonesia,Jakarta,Agent,2011-01-14
+V100133,Pacific Well Technologies Pte Ltd,FRN-262938083,Singapore,,Agent,2010-12-14
+V100134,Sterling Tubulars Pte Ltd,FRN-241036931,Singapore,,Distributor,2015-09-15
+V100135,"Trident Drilling Products Co., Ltd",FRN-669602737,China,,Manufacturer,2018-06-07
+V100136,PT Sarana Rekayasa Drilling Supply,634714091613152,Indonesia,Surabaya,Distributor,2015-01-27
+V100137,Corvex Well Technologies GmbH,FRN-036702505,Germany,,Agent,2010-05-02
+V100138,Corvex Tubulars Inc,FRN-894694681,United States,,Distributor,2008-11-23
+V100139,Summit Well Technologies Pte Ltd,FRN-173890817,Singapore,,Distributor,2016-06-12
+V100140,Trident Tubulars FZE,FRN-589829304,United Arab Emirates,,Agent,2020-06-05
+V100141,Halcyon Drilling Products Inc,FRN-215045898,United States,,Distributor,2019-07-18
+V100142,Strata Completion Systems Pte Ltd,FRN-648116972,Singapore,,Distributor,2019-07-11
+V100143,"Meridian Well Technologies Co., Ltd",FRN-554326166,China,,Manufacturer,2012-11-04
+V100144,PT Jaya Tubular,302239540120474,Indonesia,Samarinda,Manufacturer,2020-03-05
+V100145,PT Tirta Rajawali Oilfield,990050982530317,Indonesia,Surabaya,Distributor,2014-09-04
+V100146,CV Baja Drilling Supply,540600110924794,Indonesia,Balikpapan,Distributor,2019-10-05
+V100147,Vanguard Well Technologies Pte Ltd,FRN-891638294,Singapore,,Manufacturer,2009-12-15
+V100148,PT Utama Wahana Oilfield,011663410335721,Indonesia,Jakarta,Distributor,2011-08-25
+V100149,Halcyon Drilling Products Pte Ltd,FRN-409462065,Singapore,,Distributor,2010-11-15
+V100150,"Falcon Tubulars Co., Ltd",FRN-019797210,China,,Distributor,2014-12-25
+V100151,PT Sriwijaya Arta Tubular,191269398273441,Indonesia,Balikpapan,Distributor,2012-11-13
+V100152,CV Lintas Drilling Supply,775816715311677,Indonesia,Balikpapan,Distributor,2014-05-28
+V100153,PT Dirgantara Makmur Drilling Supply,784149011719323,Indonesia,Jakarta,Distributor,2016-08-07
+V100154,CV Dirgantara Oilfield,451862989293689,Indonesia,Palembang,Agent,2012-10-31
+V100155,PT Daya Patra Oilfield Supply,760887270538370,Indonesia,Jakarta,Manufacturer,2014-02-10
+V100156,Ironbridge Oilfield Supply Sdn Bhd,FRN-063202042,Malaysia,,Distributor,2017-11-17
+V100157,PT Baja Bumi Drilling Supply,339701054909777,Indonesia,Jakarta,Agent,2018-09-12
+V100158,PT Buana Samudra Oilfield,147133555721767,Indonesia,Jakarta,Distributor,2015-08-27
+V100159,Granite Tubulars Pte Ltd,FRN-470556639,Singapore,,Distributor,2017-06-01
+V100160,PT Mandiri Borneo Drilling Supply,933646456422910,Indonesia,Palembang,Agent,2019-02-15
+V100161,PT Borneo Makmur Petro Supply,365072922218434,Indonesia,Jakarta,Distributor,2015-02-25
+V100162,PT Wahana Bumi Drilling Supply,753497079031850,Indonesia,Jakarta,Manufacturer,2008-02-09
+V100163,PT Nusantara Citra Oilfield,328286597641017,Indonesia,Jakarta,Distributor,2013-06-18
+V100164,PT Prima Bahari Drilling Supply,702656313519587,Indonesia,Bekasi,Agent,2020-02-14
+V100165,"Westgate Drilling Products Co., Ltd",FRN-372858791,South Korea,,Agent,2015-01-15
+V100166,PT Mitra Daya Tubular,154368977731399,Indonesia,Jakarta,Agent,2019-06-09
+V100167,"Ironbridge Process Systems Co., Ltd",FRN-620364901,China,,Distributor,2013-06-20
+V100168,PT Prima Energi Industri,087029666775835,Indonesia,Samarinda,Distributor,2017-04-04
+V100169,Summit Industrial Sdn Bhd,FRN-585212734,Malaysia,,Manufacturer,2013-11-20
+V100170,PT Megah Tirta Instrumentasi,779972295274477,Indonesia,Surabaya,Distributor,2010-01-20
+V100171,Bluefin Industrial Ltd,FRN-451856500,United Kingdom,,Distributor,2011-11-02
+V100172,PT Sinar Makmur Pompa Indonesia,850317126120004,Indonesia,Jakarta,Distributor,2011-01-13
+V100173,Sterling Process Systems Ltd,FRN-090524771,United Kingdom,,Distributor,2010-02-25
+V100174,PT Megah Kurnia Teknik,203260062325101,Indonesia,Jakarta,Agent,2009-10-30
+V100175,Corvex Pumps Inc,FRN-071184866,United States,,Distributor,2020-02-22
+V100176,PT Pilar Daya Teknik,317992045865729,Indonesia,Jakarta,Manufacturer,2016-03-01
+V100177,Orion Industrial Pte Ltd,FRN-307238899,Singapore,,Agent,2008-08-05
+V100178,Atlas Instruments Sdn Bhd,FRN-475149111,Malaysia,,Manufacturer,2008-06-29
+V100179,Summit Flow Control Sdn Bhd,FRN-791929579,Malaysia,,Agent,2008-08-21
+V100180,"Bluefin Process Systems Co., Ltd",FRN-289752844,China,,Distributor,2010-10-10
+V100181,PT Andalan Sriwijaya Pompa Indonesia,965686542727043,Indonesia,Jakarta,Agent,2009-05-17
+V100182,Corvex Pumps FZE,FRN-994618151,United Arab Emirates,,Agent,2018-05-03
+V100183,PT Buana Karya Pompa Indonesia,826856515736821,Indonesia,Jakarta,Manufacturer,2013-01-12
+V100184,"Trident Flow Control Co., Ltd",FRN-562657400,Japan,,Distributor,2015-07-22
+V100185,Northstar Process Systems Inc,FRN-100469243,United States,,Distributor,2014-06-02
+V100186,Crestline Process Systems Pte Ltd,FRN-230207939,Singapore,,Distributor,2014-04-23
+V100187,Lumen Industrial Sdn Bhd,FRN-098877761,Malaysia,,Distributor,2011-11-05
+V100188,"Delta Rho Flow Control Co., Ltd",FRN-121023316,China,,Distributor,2015-01-04
+V100189,PT Dirgantara Nusantara Pompa Indonesia,994393815182546,Indonesia,Jakarta,Manufacturer,2017-05-14
+V100190,"Westgate Valve & Controls Co., Ltd",FRN-201573640,China,,Manufacturer,2009-09-30
+V100191,PT Mulia Dirgantara Valve Indonesia,753938802143220,Indonesia,Palembang,Agent,2012-07-14
+V100192,PT Tama Energi Industri,272093931571277,Indonesia,Batam,Distributor,2016-07-29
+V100193,PT Nusa Pilar Instrumentasi,700211228777600,Indonesia,Jakarta,Agent,2009-07-19
+V100194,Vanguard Process Systems Pte Ltd,FRN-621722394,Singapore,,Agent,2008-02-10
+V100195,Pacific Industrial FZE,FRN-711813078,United Arab Emirates,,Manufacturer,2013-05-24
+V100196,PT Tirta Eka Pompa Indonesia,177489335807772,Indonesia,Jakarta,Distributor,2009-07-19
+V100197,CV Daya Teknik,345948443292507,Indonesia,Palembang,Agent,2013-08-06
+V100198,PT Lestari Inti Industri,819577229317289,Indonesia,Jakarta,Manufacturer,2017-07-30
+V100199,PT Patra Nusa Teknik,939487737777543,Indonesia,Jakarta,Distributor,2014-05-30
+V100200,"Strata Valve & Controls Co., Ltd",FRN-777823125,China,,Distributor,2011-02-25
+V100201,PT Patra Megah Teknik,147371111653955,Indonesia,Batam,Manufacturer,2011-10-02
+V100202,PT Mulia Jaya Engineering,979866687214335,Indonesia,Jakarta,Manufacturer,2019-12-16
+V100203,"Redwater Flow Control Co., Ltd",FRN-577436515,South Korea,,Distributor,2013-03-10
+V100204,Granite Flow Control GmbH,FRN-706062461,Germany,,Manufacturer,2012-10-21
+V100205,PT Lestari Prima Instrumentasi,251936407429128,Indonesia,Jakarta,Agent,2012-05-18
+V100206,Redwater Valve & Controls Pte Ltd,FRN-955383251,Singapore,,Manufacturer,2019-02-28
+V100207,Northstar Pumps Pte Ltd,FRN-591958722,Singapore,,Distributor,2010-04-13
+V100208,"Meridian Valve & Controls Co., Ltd",FRN-117016502,South Korea,,Distributor,2018-07-22
+V100209,"Pacific Process Systems Co., Ltd",FRN-438267497,South Korea,,Distributor,2012-06-30
+V100210,CV Borneo Industri,138004943245204,Indonesia,Balikpapan,Distributor,2014-07-10
+V100211,Corvex Valve & Controls Pte Ltd,FRN-167157848,Singapore,,Distributor,2016-02-12
+V100212,Atlas Process Systems Inc,FRN-056172722,United States,,Distributor,2014-10-12
+V100213,CV Dirgantara Industri,191074846323449,Indonesia,Balikpapan,Distributor,2020-04-16
+V100214,PT Inti Karya Pompa Indonesia,401423068163749,Indonesia,Tangerang,Agent,2017-11-10
+V100215,PT Energi Daya Instrumentasi,136647152475594,Indonesia,Balikpapan,Distributor,2014-03-16
+V100216,PT Prima Mulia Instrumentasi,979659284017321,Indonesia,Bekasi,Agent,2011-04-20
+V100217,PT Megah Buana Industri,979987106429456,Indonesia,Jakarta,Agent,2014-02-18
+V100218,PT Prima Borneo Pompa Indonesia,816735489527173,Indonesia,Jakarta,Distributor,2013-07-10
+V100219,PT Lintas Wahana Instrumentasi,891154644383341,Indonesia,Jakarta,Distributor,2011-07-05
+V100220,PT Jaya Energi Engineering,640987985879343,Indonesia,Jakarta,Distributor,2010-12-01
+V100221,"Westgate Pumps Co., Ltd",FRN-705146607,South Korea,,Distributor,2013-01-16
+V100222,PT Mandiri Baja Engineering,030108153730949,Indonesia,Balikpapan,Manufacturer,2016-04-18
+V100223,Crestline Valve & Controls Pte Ltd,FRN-670011708,Singapore,,Manufacturer,2019-04-20
+V100224,PT Daya Bumi Industri,911534242159022,Indonesia,Balikpapan,Distributor,2013-04-21
+V100225,PT Kencana Rajawali Instrumentasi,464534810038446,Indonesia,Jakarta,Manufacturer,2010-07-05
+V100226,PT Nusa Rekayasa Teknik,379418824743464,Indonesia,Balikpapan,Agent,2011-01-22
+V100227,PT Bahari Kurnia Teknik,869163444496822,Indonesia,Jakarta,Manufacturer,2013-11-11
+V100228,Delta Rho Valve & Controls Pte Ltd,FRN-142813402,Singapore,,Distributor,2020-07-28
+V100229,Ironbridge Flow Control Inc,FRN-508663884,United States,,Distributor,2019-11-23
+V100230,Ironbridge Industrial FZE,FRN-052191326,United Arab Emirates,,Agent,2015-04-02
+V100231,PT Cipta Samudra Engineering,559441344617300,Indonesia,Jakarta,Manufacturer,2016-11-14
+V100232,Cobalt Valve & Controls Inc,FRN-601361717,United States,,Distributor,2010-08-02
+V100233,Vanguard Pumps Pte Ltd,FRN-496318844,Singapore,,Manufacturer,2015-09-07
+V100234,PT Nusa Dirgantara Teknik,723427980008279,Indonesia,Jakarta,Distributor,2020-02-09
+V100235,Orion Flow Control Sdn Bhd,FRN-428795534,Malaysia,,Distributor,2014-11-14
+V100236,PT Tama Graha Teknik,697197765474200,Indonesia,Jakarta,Agent,2010-03-04
+V100237,PT Baja Gemilang Pompa Indonesia,860694451377188,Indonesia,Jakarta,Distributor,2008-03-13
+V100238,"Orion Flow Control Co., Ltd",FRN-991720489,Japan,,Distributor,2009-09-07
+V100239,PT Perkasa Buana Instrumentasi,350606917543572,Indonesia,Surabaya,Agent,2015-01-12
+V100240,CV Megah Engineering,783833279063049,Indonesia,Jakarta,Agent,2017-03-12
+V100241,PT Arta Makmur Pompa Indonesia,513343934089169,Indonesia,Balikpapan,Distributor,2012-06-03
+V100242,PT Pratama Lestari Teknik,503990176691524,Indonesia,Jakarta,Manufacturer,2012-09-18
+V100243,PT Sarana Baja Engineering,261171489496355,Indonesia,Balikpapan,Agent,2009-11-21
+V100244,CV Utama Engineering,962845712401001,Indonesia,Jakarta,Manufacturer,2011-07-05
+V100245,CV Nusa Instrumentasi,061661933794731,Indonesia,Palembang,Manufacturer,2013-02-13
+V100246,PT Graha Lestari Instrumentasi,866281715626543,Indonesia,Balikpapan,Manufacturer,2008-05-17
+V100247,PT Nusa Inti Pompa Indonesia,830865181130259,Indonesia,Balikpapan,Distributor,2014-02-13
+V100248,Vanguard Industrial Pte Ltd,FRN-360881667,Singapore,,Manufacturer,2018-05-31
+V100249,CV Megah Teknik,115676482833583,Indonesia,Bekasi,Manufacturer,2017-01-17
+V100250,Atlas Valve & Controls Inc,FRN-713218973,United States,,Distributor,2011-03-20
+V100251,PT Energi Prima Teknik,269434557771559,Indonesia,Jakarta,Manufacturer,2015-07-27
+V100252,"Redwater Instruments Co., Ltd",FRN-286037386,South Korea,,Agent,2016-11-05
+V100253,Westgate Instruments Ltd,FRN-447235862,United Kingdom,,Distributor,2011-01-27
+V100254,PT Makmur Industri,722348215311622,Indonesia,Jakarta,Agent,2012-05-20
+V100255,"Delta Rho Instruments Co., Ltd",FRN-343952701,China,,Distributor,2015-07-24
+V100256,PT Kencana Tirta Teknik,502212602724721,Indonesia,Jakarta,Distributor,2011-04-03
+V100257,Delta Rho Industrial Inc,FRN-919638116,United States,,Manufacturer,2014-03-05
+V100258,Delta Rho Industrial Ltd,FRN-947670439,United Kingdom,,Manufacturer,2011-06-03
+V100259,Summit Pumps Pte Ltd,FRN-946801817,Singapore,,Manufacturer,2013-03-09
+V100260,PT Nusantara Bahari Valve Indonesia,412529643931048,Indonesia,Jakarta,Distributor,2010-11-11
+V100261,PT Kurnia Karya Instrumentasi,849580900895471,Indonesia,Palembang,Agent,2015-10-11
+V100262,PT Petro Rekayasa Instrumentasi,793561231209311,Indonesia,Jakarta,Manufacturer,2013-08-25
+V100263,PT Persada Nusa Industri,349035675490217,Indonesia,Jakarta,Distributor,2013-08-24
+V100264,Vanguard Valve & Controls FZE,FRN-317169826,United Arab Emirates,,Distributor,2015-01-30
+V100265,PT Buana Sriwijaya Teknik,667780995597822,Indonesia,Tangerang,Distributor,2016-04-17
+V100266,Northstar Valve & Controls Inc,FRN-964727087,United States,,Manufacturer,2012-03-07
+V100267,CV Megah Industri,871059400847771,Indonesia,Bekasi,Distributor,2019-09-01
+V100268,"Northstar Flow Control Co., Ltd",FRN-249313598,China,,Agent,2016-12-10
+V100269,CV Daya Engineering,362272016748092,Indonesia,Surabaya,Distributor,2014-12-25
+V100270,PT Bahari Persada Valve Indonesia,608456673854909,Indonesia,Jakarta,Agent,2014-07-04
+V100271,PT Rekayasa Sentosa Engineering,920588006280076,Indonesia,Jakarta,Agent,2016-01-07
+V100272,CV Andalan Pompa Indonesia,686426534847862,Indonesia,Palembang,Agent,2008-02-27
+V100273,CV Kurnia Teknik,973947985871166,Indonesia,Jakarta,Agent,2011-07-10
+V100274,"Pacific Instruments Co., Ltd",FRN-063175821,China,,Manufacturer,2009-08-02
+V100275,Westgate Industrial FZE,FRN-765512911,United Arab Emirates,,Agent,2012-03-12
+V100276,PT Yasa Sentosa Industri,269785164346580,Indonesia,Jakarta,Distributor,2013-01-08
+V100277,Apex Industrial FZE,FRN-423417825,United Arab Emirates,,Distributor,2009-07-14
+V100278,Trident Valve & Controls Inc,FRN-518986871,United States,,Distributor,2011-02-08
+V100279,PT Graha Tirta Pompa Indonesia,045842047739476,Indonesia,Bekasi,Distributor,2015-09-16
+V100280,PT Rekayasa Indo Instrumentasi,045149931321024,Indonesia,Palembang,Manufacturer,2018-05-17
+V100281,Trident Valve & Controls Pte Ltd,FRN-329713769,Singapore,,Manufacturer,2011-09-29
+V100282,CV Teknik Valve Indonesia,146720445972479,Indonesia,Batam,Agent,2012-06-04
+V100283,Keystone Valve & Controls Pte Ltd,FRN-629379749,Singapore,,Manufacturer,2010-10-25
+V100284,Falcon Industrial Sdn Bhd,FRN-362176359,Malaysia,,Agent,2014-09-11
+V100285,PT Tirta Wahana Engineering,478878598643497,Indonesia,Jakarta,Manufacturer,2019-12-16
+V100286,"Orion Pumps Co., Ltd",FRN-801186874,China,,Agent,2013-01-21
+V100287,"Trident Pumps Co., Ltd",FRN-863809936,Japan,,Agent,2012-05-17
+V100288,Ironbridge Instruments FZE,FRN-573827145,United Arab Emirates,,Distributor,2019-06-02
+V100289,PT Inti Tama Pompa Indonesia,730198140474897,Indonesia,Jakarta,Manufacturer,2011-03-21
+V100290,Falcon Industrial Pte Ltd,FRN-888869104,Singapore,,Distributor,2017-06-22
+V100291,Corvex Process Systems Pte Ltd,FRN-505342431,Singapore,,Distributor,2011-07-01
+V100292,Lumen Instruments GmbH,FRN-091315179,Germany,,Distributor,2014-09-01
+V100293,PT Graha Perkasa Pompa Indonesia,349652729304748,Indonesia,Balikpapan,Manufacturer,2016-01-23
+V100294,Harbor Pumps Pte Ltd,FRN-893534627,Singapore,,Distributor,2016-05-24
+V100295,"Bluefin Valve & Controls Co., Ltd",FRN-686384500,China,,Agent,2014-06-17
+V100296,Vanguard Instruments Pte Ltd,FRN-276298885,Singapore,,Agent,2013-01-09
+V100297,Bluefin Flow Control Pte Ltd,FRN-637767663,Singapore,,Manufacturer,2015-03-09
+V100298,Redwater Industrial GmbH,FRN-480909991,Germany,,Distributor,2012-02-19
+V100299,CV Sinar Industri,469593939754372,Indonesia,Jakarta,Distributor,2012-01-06
+V100300,Corvex Industrial Inc,FRN-274696492,United States,,Distributor,2019-10-19
+V100301,Bluefin Valve & Controls Sdn Bhd,FRN-446051808,Malaysia,,Manufacturer,2019-12-21
+V100302,PT Andalan Citra Pompa Indonesia,680570879614561,Indonesia,Jakarta,Distributor,2020-03-13
+V100303,PT Sentosa Andalan Valve Indonesia,211154137592980,Indonesia,Jakarta,Manufacturer,2012-01-30
+V100304,CV Lestari Teknik,642287047078084,Indonesia,Jakarta,Distributor,2013-05-29
+V100305,Trident Process Systems Inc,FRN-528528641,United States,,Distributor,2008-12-16
+V100306,Falcon Flow Control Sdn Bhd,FRN-419577962,Malaysia,,Distributor,2009-03-01
+V100307,Bluefin Instruments Ltd,FRN-759273687,United Kingdom,,Manufacturer,2015-07-20
+V100308,CV Nusantara Industri,834769107490102,Indonesia,Surabaya,Distributor,2018-08-25
+V100309,"Crestline Pumps Co., Ltd",FRN-743147389,South Korea,,Agent,2019-07-31
+V100310,Corvex Flow Control Ltd,FRN-307444772,United Kingdom,,Agent,2019-01-24
+V100311,CV Rekayasa Instrumentasi,062329744668611,Indonesia,Balikpapan,Distributor,2010-05-15
+V100312,Meridian Process Systems Pte Ltd,FRN-705022590,Singapore,,Agent,2019-07-06
+V100313,Sterling Process Systems Sdn Bhd,FRN-852887958,Malaysia,,Distributor,2009-12-13
+V100314,Orion Process Systems Pte Ltd,FRN-012690216,Singapore,,Manufacturer,2017-09-20
+V100315,Keystone Pumps Sdn Bhd,FRN-248224182,Malaysia,,Distributor,2008-03-22
+V100316,PT Nusantara Samudra Teknik,997707815406316,Indonesia,Jakarta,Agent,2018-05-17
+V100317,Apex Instruments Ltd,FRN-711061721,United Kingdom,,Distributor,2019-04-01
+V100318,Apex Flow Control Pte Ltd,FRN-152530263,Singapore,,Distributor,2011-06-07
+V100319,Lumen Instruments FZE,FRN-427350102,United Arab Emirates,,Distributor,2014-09-22
+V100320,Trident Flow Control Pte Ltd,FRN-072270965,Singapore,,Distributor,2011-05-12
+V100321,"Vanguard Industrial Co., Ltd",FRN-817630604,Japan,,Distributor,2017-07-12
+V100322,"Sterling Process Systems Co., Ltd",FRN-438121652,Japan,,Distributor,2015-12-19
+V100323,Orion Pumps Pte Ltd,FRN-066355942,Singapore,,Manufacturer,2020-06-30
+V100324,Trident Valve & Controls Ltd,FRN-960326414,United Kingdom,,Manufacturer,2019-12-11
+V100325,PT Andalan Jaya Engineering,825898610354109,Indonesia,Jakarta,Distributor,2017-12-09
+V100326,CV Kencana Industri,003505197947847,Indonesia,Bekasi,Manufacturer,2012-02-12
+V100327,CV Mulia Engineering,137922008973102,Indonesia,Jakarta,Agent,2016-01-03
+V100328,PT Indo Petro Teknik,323046865323735,Indonesia,Surabaya,Agent,2019-04-24
+V100329,Northstar Pumps Ltd,FRN-042652917,United Kingdom,,Distributor,2011-08-05
+V100330,PT Garuda Samudra Teknik,335086116371088,Indonesia,Jakarta,Distributor,2015-09-26
+V100331,PT Persada Sriwijaya Engineering,938933108909231,Indonesia,Bekasi,Agent,2009-01-07
+V100332,PT Prima Lestari Instrumentasi,959973367133829,Indonesia,Jakarta,Distributor,2015-07-15
+V100333,Keystone Pumps Pte Ltd,FRN-186816841,Singapore,,Manufacturer,2011-12-16
+V100334,PT Persada Eka Valve Indonesia,162860015397645,Indonesia,Surabaya,Distributor,2017-05-24
+V100335,PT Lintas Energi Industri,583638509431011,Indonesia,Balikpapan,Distributor,2008-06-09
+V100336,PT Persada Mitra Pompa Indonesia,777640939166812,Indonesia,Jakarta,Manufacturer,2014-12-16
+V100337,PT Eka Pompa Indonesia,271179175434397,Indonesia,Palembang,Manufacturer,2018-09-03
+V100338,Harbor Flow Control Inc,FRN-402393926,United States,,Agent,2019-11-18
+V100339,"Strata Flow Control Co., Ltd",FRN-398763497,China,,Distributor,2017-06-27
+V100340,PT Sakti Teknik Industri,925343275641462,Indonesia,Balikpapan,Agent,2019-01-18
+V100341,Summit Flow Control Inc,FRN-755184798,United States,,Distributor,2016-07-02
+V100342,CV Citra Instrumentasi,300972497492272,Indonesia,Balikpapan,Distributor,2019-07-25
+V100343,"Atlas Pumps Co., Ltd",FRN-933647106,China,,Agent,2015-03-08
+V100344,CV Baja Industri,021281626659982,Indonesia,Jakarta,Distributor,2008-03-25
+V100345,PT Cipta Perkasa Instrumentasi,144468146494854,Indonesia,Jakarta,Manufacturer,2015-11-03
+V100346,PT Sentosa Abadi Industri,096221108820333,Indonesia,Jakarta,Distributor,2011-04-15
+V100347,PT Abadi Dirgantara Instrumentasi,585145935838645,Indonesia,Tangerang,Distributor,2014-02-06
+V100348,PT Gemilang Arta Engineering,469787270857206,Indonesia,Jakarta,Manufacturer,2016-05-19
+V100349,PT Indo Tama Pompa Indonesia,203511271616277,Indonesia,Surabaya,Agent,2008-11-14
+V100350,PT Graha Baja Industri,730768360920919,Indonesia,Palembang,Manufacturer,2018-12-17
+V100351,PT Bumi Petro Valve Indonesia,078323803616427,Indonesia,Jakarta,Agent,2020-06-04
+V100352,CV Tirta Engineering,853119065604120,Indonesia,Surabaya,Agent,2018-06-01
+V100353,PT Sarana Pilar Instrumentasi,454631283806037,Indonesia,Surabaya,Distributor,2010-05-19
+V100354,PT Wahana Gemilang Teknik,781256366127051,Indonesia,Jakarta,Distributor,2014-08-22
+V100355,"Northstar Industrial Co., Ltd",FRN-153308358,China,,Manufacturer,2008-07-21
+V100356,"Halcyon Valve & Controls Co., Ltd",FRN-184750882,China,,Distributor,2020-01-19
+V100357,PT Inti Cipta Engineering,561469264120619,Indonesia,Batam,Agent,2014-06-28
+V100358,PT Sejahtera Borneo Pompa Indonesia,084085955199508,Indonesia,Balikpapan,Distributor,2019-12-06
+V100359,PT Graha Lintas Pompa Indonesia,594069085101111,Indonesia,Jakarta,Manufacturer,2009-06-29
+V100360,Cobalt Process Systems Pte Ltd,FRN-827236749,Singapore,,Manufacturer,2008-02-23
+V100361,PT Garuda Petro Teknik,495236421402356,Indonesia,Palembang,Distributor,2012-10-05
+V100362,PT Mitra Sriwijaya Valve Indonesia,105550615102897,Indonesia,Balikpapan,Distributor,2011-11-30
+V100363,PT Borneo Nusa Engineering,503679050780805,Indonesia,Batam,Distributor,2018-06-21
+V100364,CV Tirta Valve Indonesia,363237731468392,Indonesia,Jakarta,Agent,2011-06-11
+V100365,CV Bumi Teknik,299106838606796,Indonesia,Palembang,Distributor,2013-04-10
+V100366,PT Persada Kencana Engineering,508500413920127,Indonesia,Jakarta,Distributor,2020-01-31
+V100367,PT Lestari Sriwijaya Instrumentasi,242729757292206,Indonesia,Balikpapan,Manufacturer,2011-02-19
+V100368,PT Baja Tirta Engineering,128673543587171,Indonesia,Jakarta,Distributor,2016-03-25
+V100369,CV Sakti Pompa Indonesia,271696836946662,Indonesia,Bekasi,Distributor,2014-08-04
+V100370,PT Jaya Pilar Industri,686035668917008,Indonesia,Jakarta,Manufacturer,2011-12-27
+V100371,Westgate Industrial Pte Ltd,FRN-937462323,Singapore,,Manufacturer,2010-04-29
+V100372,PT Jaya Indo Pompa Indonesia,727614093964933,Indonesia,Batam,Agent,2015-01-01
+V100373,Granite Valve & Controls Inc,FRN-817718722,United States,,Distributor,2012-05-08
+V100374,PT Tama Kurnia Instrumentasi,701506798370032,Indonesia,Samarinda,Distributor,2014-10-31
+V100375,Northstar Industrial Pte Ltd,FRN-358736136,Singapore,,Distributor,2020-01-20
+V100376,Harbor Industrial Ltd,FRN-676945485,United Kingdom,,Agent,2009-03-10
+V100377,PT Sentosa Sejahtera Industri,317276242441419,Indonesia,Surabaya,Distributor,2010-11-01
+V100378,Falcon Instruments Pte Ltd,FRN-725959416,Singapore,,Manufacturer,2013-10-12
+V100379,PT Sarana Harapan Engineering,107714897869318,Indonesia,Balikpapan,Agent,2018-03-26
+V100380,PT Graha Rekayasa Industri,615412141667041,Indonesia,Palembang,Distributor,2011-06-06
+V100381,"Crestline Industrial Co., Ltd",FRN-199835519,Japan,,Distributor,2019-08-10
+V100382,Keystone Process Systems Sdn Bhd,FRN-193644244,Malaysia,,Distributor,2008-02-22
+V100383,CV Prima Engineering,711585667615844,Indonesia,Balikpapan,Agent,2020-07-10
+V100384,PT Kencana Andalan Valve Indonesia,802064290875519,Indonesia,Jakarta,Manufacturer,2010-03-29
+V100385,CV Energi Pompa Indonesia,547487131681800,Indonesia,Jakarta,Distributor,2008-01-03
+V100386,PT Sentosa Abadi Engineering,678926036730287,Indonesia,Palembang,Distributor,2015-04-05
+V100387,Lumen Flow Control GmbH,FRN-687687684,Germany,,Manufacturer,2008-01-16
+V100388,PT Kurnia Mulia Instrumentasi,927692614126151,Indonesia,Batam,Manufacturer,2015-06-24
+V100389,PT Bahari Nusa Valve Indonesia,094228321149261,Indonesia,Palembang,Distributor,2009-09-18
+V100390,PT Teknik Megah Industri,076229568283379,Indonesia,Balikpapan,Manufacturer,2017-02-24
+V100391,Keystone Instruments Pte Ltd,FRN-983032857,Singapore,,Distributor,2015-07-19
+V100392,CV Sentosa Engineering,973984802216738,Indonesia,Jakarta,Distributor,2016-01-05
+V100393,PT Andalan Buana Teknik,636178224287737,Indonesia,Palembang,Manufacturer,2014-08-29
+V100394,Falcon Valve & Controls GmbH,FRN-350978307,Germany,,Agent,2016-04-06
+V100395,"Northstar Pumps Co., Ltd",FRN-802272677,China,,Distributor,2018-08-14
+V100396,Sterling Instruments Inc,FRN-443825234,United States,,Distributor,2018-03-19
+V100397,PT Mulia Prima Industri,000998062616445,Indonesia,Palembang,Distributor,2008-10-22
+V100398,CV Bahari Pompa Indonesia,760885014063896,Indonesia,Jakarta,Manufacturer,2018-08-24
+V100399,PT Karya Nusa Instrumentasi,120249073653280,Indonesia,Surabaya,Distributor,2013-09-27
+V100400,CV Patra Teknik,778483796295832,Indonesia,Jakarta,Agent,2011-10-29
+V100401,PT Samudra Megah Instrumentasi,510995121658645,Indonesia,Jakarta,Distributor,2017-12-10
+V100402,CV Tama Pompa Indonesia,472412348866262,Indonesia,Jakarta,Distributor,2014-10-09
+V100403,PT Sentosa Teknik,841590886466273,Indonesia,Jakarta,Agent,2016-02-13
+V100404,Northstar Flow Control Ltd,FRN-457377889,United Kingdom,,Manufacturer,2015-04-03
+V100405,CV Mulia Pompa Indonesia,102669698446028,Indonesia,Jakarta,Distributor,2012-04-22
+V100406,PT Citra Inti Instrumentasi,766612313802157,Indonesia,Palembang,Distributor,2012-08-08
+V100407,PT Nusa Cipta Engineering,054626516515443,Indonesia,Jakarta,Agent,2010-07-13
+V100408,PT Abadi Eka Industri,069377741447875,Indonesia,Jakarta,Manufacturer,2018-04-02
+V100409,PT Baja Harapan Industri,490416232749802,Indonesia,Jakarta,Manufacturer,2013-03-13
+V100410,PT Abadi Sentosa Valve Indonesia,970439220294101,Indonesia,Jakarta,Distributor,2011-11-29
+V100411,PT Pratama Yasa Teknik,960485244666307,Indonesia,Bekasi,Distributor,2009-12-14
+V100412,PT Persada Sarana Pompa Indonesia,289978775675139,Indonesia,Jakarta,Agent,2018-08-11
+V100413,Meridian Process Systems Inc,FRN-028562177,United States,,Distributor,2010-01-29
+V100414,PT Pratama Andalan Engineering,387911257627346,Indonesia,Jakarta,Distributor,2012-06-19
+V100415,PT Kurnia Lestari Teknik,733681544830594,Indonesia,Jakarta,Agent,2018-05-01
+V100416,Pacific Flow Control Inc,FRN-918273224,United States,,Distributor,2012-09-20
+V100417,PT Nusantara Energi Industri,471256951920755,Indonesia,Jakarta,Manufacturer,2008-09-22
+V100418,Pacific Process Systems Pte Ltd,FRN-272556094,Singapore,,Distributor,2015-01-08
+V100419,PT Tama Petro Valve Indonesia,431020096480523,Indonesia,Batam,Distributor,2018-08-18
+V100420,PT Pratama Cipta Instrumentasi,758202957548044,Indonesia,Palembang,Manufacturer,2016-10-07
+V100421,PT Energi Abadi Pompa Indonesia,576515840809975,Indonesia,Balikpapan,Distributor,2009-09-26
+V100422,Trident Process Systems Pte Ltd,FRN-117032186,Singapore,,Manufacturer,2017-12-04
+V100423,PT Wahana Nusa Instrumentasi,138596746436966,Indonesia,Jakarta,Agent,2010-02-11
+V100424,Corvex Valve & Controls Sdn Bhd,FRN-668076785,Malaysia,,Agent,2020-01-30
+V100425,PT Persada Daya Industri,427878453714059,Indonesia,Surabaya,Manufacturer,2009-03-05
+V100426,PT Patra Harapan Engineering,066956952746243,Indonesia,Palembang,Manufacturer,2010-01-15
+V100427,PT Borneo Sriwijaya Valve Indonesia,200969921463448,Indonesia,Bekasi,Manufacturer,2012-02-10
+V100428,PT Garuda Eka Teknik,021727939425460,Indonesia,Jakarta,Agent,2010-03-03
+V100429,PT Wahana Tama Pompa Indonesia,074283928357324,Indonesia,Surabaya,Distributor,2014-12-05
+V100430,PT Tama Garuda Industri,465336664512521,Indonesia,Jakarta,Manufacturer,2008-11-27
+V100431,PT Bumi Megah Instrumentasi,741384235773259,Indonesia,Batam,Distributor,2013-07-17
+V100432,"Granite Pumps Co., Ltd",FRN-537153060,China,,Distributor,2012-03-29
+V100433,Redwater Instruments Pte Ltd,FRN-882589749,Singapore,,Distributor,2019-01-28
+V100434,"Summit Valve & Controls Co., Ltd",FRN-397711358,China,,Agent,2017-12-22
+V100435,Falcon Valve & Controls Pte Ltd,FRN-560980405,Singapore,,Manufacturer,2016-01-12
+V100436,"Cobalt Valve & Controls Co., Ltd",FRN-789599820,China,,Agent,2019-06-06
+V100437,PT Tama Petro Pompa Indonesia,081997347823426,Indonesia,Jakarta,Distributor,2012-06-15
+V100438,PT Pilar Cipta Teknik,851096388411309,Indonesia,Jakarta,Manufacturer,2014-09-30
+V100439,Granite Valve & Controls Ltd,FRN-819079003,United Kingdom,,Agent,2013-08-02
+V100440,PT Nusantara Megah Teknik,321667077178303,Indonesia,Jakarta,Distributor,2009-12-25
+V100441,PT Pilar Tirta Teknik,845913718738694,Indonesia,Jakarta,Manufacturer,2010-10-07
+V100442,PT Wahana Pratama Instrumentasi,037686924070970,Indonesia,Jakarta,Agent,2016-09-18
+V100443,CV Makmur Engineering,367220142053126,Indonesia,Palembang,Agent,2016-10-20
+V100444,Crestline Instruments Inc,FRN-822907198,United States,,Agent,2008-12-04
+V100445,PT Megah Daya Valve Indonesia,670212536877939,Indonesia,Jakarta,Manufacturer,2014-08-21
+V100446,Lumen Flow Control Pte Ltd,FRN-139552847,Singapore,,Agent,2015-11-09
+V100447,PT Utama Energi Valve Indonesia,608461939920819,Indonesia,Jakarta,Distributor,2015-12-04
+V100448,PT Indo Sarana Engineering,282749253810961,Indonesia,Tangerang,Distributor,2011-07-12
+V100449,Granite Valve & Controls Pte Ltd,FRN-413382806,Singapore,,Manufacturer,2008-05-23
+V100450,Apex Instruments Sdn Bhd,FRN-691655067,Malaysia,,Distributor,2010-06-17
+V100451,PT Nusa Energi Instrumentasi,044263892570939,Indonesia,Jakarta,Manufacturer,2019-01-05
+V100452,Trident Pumps Pte Ltd,FRN-622874574,Singapore,,Manufacturer,2013-10-02
+V100453,PT Persada Gemilang Pompa Indonesia,567273248544734,Indonesia,Samarinda,Agent,2019-04-01
+V100454,Halcyon Valve & Controls Sdn Bhd,FRN-785088086,Malaysia,,Distributor,2009-07-23
+V100455,PT Rekayasa Kurnia Instrumentasi,403934565791891,Indonesia,Palembang,Agent,2017-02-08
+V100456,Meridian Industrial FZE,FRN-895130134,United Arab Emirates,,Agent,2014-06-30
+V100457,PT Wahana Teknik Instrumentasi,161615205267567,Indonesia,Surabaya,Manufacturer,2009-01-22
+V100458,Meridian Process Systems GmbH,FRN-406001037,Germany,,Manufacturer,2015-06-25
+V100459,"Redwater Pumps Co., Ltd",FRN-980225386,Japan,,Agent,2012-05-14
+V100460,Granite Industrial Inc,FRN-559143379,United States,,Agent,2013-10-12
+V100461,PT Rajawali Wahana Engineering,171046318750522,Indonesia,Jakarta,Distributor,2011-06-16
+V100462,Keystone Flow Control Inc,FRN-925795549,United States,,Distributor,2009-07-25
+V100463,Atlas Process Systems Pte Ltd,FRN-885166754,Singapore,,Distributor,2013-04-28
+V100464,PT Mandiri Graha Industri,574928570154512,Indonesia,Jakarta,Distributor,2019-06-07
+V100465,"Halcyon Flow Control Co., Ltd",FRN-448211565,China,,Distributor,2009-04-14
+V100466,"Granite Industrial Co., Ltd",FRN-022604226,China,,Manufacturer,2017-11-02
+V100467,Delta Rho Valve & Controls Ltd,FRN-214089211,United Kingdom,,Agent,2010-11-16
+V100468,"Trident Process Systems Co., Ltd",FRN-398966796,Japan,,Distributor,2011-12-29
+V100469,Sterling Valve & Controls Sdn Bhd,FRN-709153656,Malaysia,,Agent,2013-08-20
+V100470,Redwater Process Systems FZE,FRN-141887445,United Arab Emirates,,Distributor,2008-11-03
+V100471,Granite Industrial FZE,FRN-085934052,United Arab Emirates,,Distributor,2018-11-28
+V100472,PT Sentosa Kencana Teknik,716335133766468,Indonesia,Jakarta,Manufacturer,2013-06-03
+V100473,Ironbridge Valve & Controls Pte Ltd,FRN-023372622,Singapore,,Distributor,2018-07-16
+V100474,Redwater Flow Control FZE,FRN-234136509,United Arab Emirates,,Distributor,2011-07-28
+V100475,Atlas Industrial Pte Ltd,FRN-653335580,Singapore,,Distributor,2016-03-18
+V100476,"Keystone Flow Control Co., Ltd",FRN-364427235,China,,Agent,2009-07-16
+V100477,Strata Flow Control Inc,FRN-396449017,United States,,Distributor,2008-04-11
+V100478,Granite Pumps FZE,FRN-932399357,United Arab Emirates,,Agent,2010-11-30
+V100479,Meridian Flow Control GmbH,FRN-817119521,Germany,,Distributor,2014-04-08
+V100480,CV Nusantara Pompa Indonesia,834948512928990,Indonesia,Palembang,Manufacturer,2013-09-14
+V100481,Northstar Industrial Sdn Bhd,FRN-777786982,Malaysia,,Distributor,2019-09-22
+V100482,Lumen Instruments Ltd,FRN-777609101,United Kingdom,,Manufacturer,2011-12-24
+V100483,PT Arta Lintas Engineering,777042789323050,Indonesia,Palembang,Agent,2011-02-04
+V100484,Harbor Industrial GmbH,FRN-982950821,Germany,,Manufacturer,2017-01-02
+V100485,Westgate Valve & Controls Sdn Bhd,FRN-007961105,Malaysia,,Distributor,2008-06-08
+V100486,PT Prima Sinar Industri,460614010077166,Indonesia,Surabaya,Distributor,2018-11-05
+V100487,Keystone Valve & Controls Inc,FRN-904787418,United States,,Manufacturer,2012-02-22
+V100488,PT Prima Sarana Valve Indonesia,200280292101358,Indonesia,Batam,Distributor,2011-12-11
+V100489,PT Buana Cipta Pompa Indonesia,122899258148298,Indonesia,Balikpapan,Agent,2013-07-30
+V100490,PT Gemilang Garuda Engineering,839664688553455,Indonesia,Jakarta,Distributor,2010-10-29
+V100491,PT Sakti Daya Industri,511582621916346,Indonesia,Jakarta,Distributor,2020-01-26
+V100492,PT Citra Kurnia Teknik,355738063700617,Indonesia,Batam,Distributor,2009-12-04
+V100493,CV Makmur Instrumentasi,645782514567138,Indonesia,Balikpapan,Agent,2020-06-04
+V100494,Redwater Pumps GmbH,FRN-621115869,Germany,,Distributor,2014-02-19
+V100495,"Bluefin Pumps Co., Ltd",FRN-797392369,China,,Agent,2009-01-17
+V100496,PT Patra Indo Instrumentasi,791735651068984,Indonesia,Surabaya,Agent,2011-08-10
+V100497,Sterling Industrial Pte Ltd,FRN-176407970,Singapore,,Distributor,2015-11-13
+V100498,PT Citra Borneo Teknik,076045109768174,Indonesia,Jakarta,Distributor,2019-06-09
+V100499,PT Lintas Cipta Instrumentasi,307232836778191,Indonesia,Surabaya,Distributor,2013-01-09
+V100500,PT Yasa Sejahtera Engineering,674129565457337,Indonesia,Surabaya,Manufacturer,2011-09-01
+V100501,PT Arta Jaya Industri,156682495309064,Indonesia,Jakarta,Agent,2016-11-06
+V100502,PT Sentosa Baja Engineering,345857558938386,Indonesia,Tangerang,Distributor,2012-04-21
+V100503,CV Sejahtera Pompa Indonesia,133877690230784,Indonesia,Balikpapan,Agent,2019-05-01
+V100504,"Sterling Instruments Co., Ltd",FRN-704647058,China,,Agent,2008-10-11
+V100505,PT Megah Lintas Industri,422459111325161,Indonesia,Batam,Manufacturer,2017-06-28
+V100506,PT Borneo Bahari Pompa Indonesia,355214488274544,Indonesia,Samarinda,Agent,2014-09-11
+V100507,PT Sejahtera Arta Valve Indonesia,354367637641021,Indonesia,Surabaya,Manufacturer,2013-09-19
+V100508,PT Gemilang Arta Industri,604202674715324,Indonesia,Surabaya,Manufacturer,2010-08-16
+V100509,CV Jaya Engineering,884204860819372,Indonesia,Jakarta,Distributor,2008-06-20
+V100510,PT Arta Bahari Teknik,729287881886675,Indonesia,Jakarta,Distributor,2017-05-30
+V100511,Cobalt Process Systems Inc,FRN-912387685,United States,,Distributor,2019-08-27
+V100512,PT Buana Mitra Teknik,923584324769868,Indonesia,Palembang,Distributor,2015-02-27
+V100513,PT Bumi Gemilang Pompa Indonesia,473477832021685,Indonesia,Jakarta,Manufacturer,2019-10-09
+V100514,Corvex Flow Control Sdn Bhd,FRN-065957263,Malaysia,,Manufacturer,2012-12-07
+V100515,PT Mulia Pilar Teknik,232364509088596,Indonesia,Batam,Manufacturer,2016-01-31
+V100516,PT Sarana Cipta Pompa Indonesia,285748922385441,Indonesia,Jakarta,Distributor,2008-04-12
+V100517,PT Makmur Kencana Industri,317115333612679,Indonesia,Jakarta,Agent,2019-02-26
+V100518,CV Bahari Industri,028878284775585,Indonesia,Jakarta,Manufacturer,2016-08-21
+V100519,PT Nusa Baja Engineering,247589081651616,Indonesia,Jakarta,Distributor,2012-02-27
+V100520,PT Yasa Lestari Engineering,818066715698178,Indonesia,Jakarta,Distributor,2010-06-06
+V100521,Crestline Instruments Sdn Bhd,FRN-312026481,Malaysia,,Distributor,2012-05-25
+V100522,PT Sejahtera Petro Valve Indonesia,686626497116963,Indonesia,Palembang,Agent,2013-02-25
+V100523,PT Daya Rajawali Engineering,701696248608715,Indonesia,Surabaya,Agent,2020-03-03
+V100524,Keystone Flow Control Pte Ltd,FRN-248115126,Singapore,,Distributor,2016-02-01
+V100525,"Lumen Industrial Co., Ltd",FRN-320926147,Japan,,Manufacturer,2012-03-25
+V100526,PT Mulia Inti Valve Indonesia,759866720738444,Indonesia,Palembang,Agent,2012-02-03
+V100527,Halcyon Pumps Pte Ltd,FRN-425375716,Singapore,,Distributor,2013-09-20
+V100528,PT Sarana Harapan Pompa Indonesia,332250192454394,Indonesia,Jakarta,Distributor,2018-05-26
+V100529,PT Mitra Perkasa Engineering,345451709337333,Indonesia,Jakarta,Agent,2012-02-04
+V100530,PT Sarana Petro Engineering,648401615039232,Indonesia,Jakarta,Distributor,2016-02-11
+V100531,PT Sriwijaya Nusa Instrumentasi,618230226426034,Indonesia,Jakarta,Manufacturer,2010-09-20
+V100532,PT Wahana Patra Pompa Indonesia,836737672940646,Indonesia,Balikpapan,Distributor,2008-06-16
+V100533,CV Lintas Teknik,772600312401529,Indonesia,Balikpapan,Distributor,2013-07-02
+V100534,PT Harapan Samudra Industri,016320502144393,Indonesia,Bekasi,Agent,2010-01-30
+V100535,PT Wahana Rekayasa Industri,603916557819475,Indonesia,Balikpapan,Distributor,2017-06-25
+V100536,PT Citra Nusa Instrumentasi,028333449352253,Indonesia,Surabaya,Agent,2015-10-31
+V100537,Harbor Pumps Inc,FRN-646662055,United States,,Agent,2017-04-19
+V100538,PT Bumi Garuda Valve Indonesia,224018498049483,Indonesia,Jakarta,Agent,2015-03-04
+V100539,PT Pratama Patra Pompa Indonesia,747556122765881,Indonesia,Jakarta,Distributor,2008-08-04
+V100540,PT Wahana Energi Instrumentasi,821774967761565,Indonesia,Surabaya,Distributor,2018-11-14
+V100541,PT Buana Kencana Industri,720876983227403,Indonesia,Jakarta,Distributor,2012-02-15
+V100542,PT Rajawali Nusa Instrumentasi,456784753961004,Indonesia,Balikpapan,Agent,2017-12-09
+V100543,PT Lestari Garuda Engineering,769202192281853,Indonesia,Jakarta,Distributor,2018-03-02
+V100544,PT Prima Teknik Engineering,856734676316323,Indonesia,Bekasi,Distributor,2013-12-25
+V100545,PT Lintas Utama Pompa Indonesia,444420215666715,Indonesia,Surabaya,Agent,2018-06-21
+V100546,PT Nusantara Perkasa Teknik,416903236092861,Indonesia,Jakarta,Distributor,2012-06-09
+V100547,PT Sakti Pratama Industri,067193035920390,Indonesia,Jakarta,Distributor,2012-02-12
+V100548,PT Yasa Arta Industri,171177914985108,Indonesia,Jakarta,Distributor,2010-05-19
+V100549,Strata Pumps FZE,FRN-816125552,United Arab Emirates,,Agent,2018-01-28
+V100550,PT Garuda Teknik Industri,864075993241127,Indonesia,Balikpapan,Manufacturer,2012-03-31
+V100551,PT Nusa Megah Pompa Indonesia,382389549139340,Indonesia,Surabaya,Agent,2017-01-31
+V100552,PT Borneo Abadi Pompa Indonesia,115263454843150,Indonesia,Balikpapan,Agent,2012-07-08
+V100553,PT Abadi Jaya Pompa Indonesia,998014338128615,Indonesia,Surabaya,Manufacturer,2012-05-26
+V100554,PT Lestari Gemilang Valve Indonesia,403991847066999,Indonesia,Palembang,Agent,2010-02-11
+V100555,PT Tirta Indo Instrumentasi,162398069536966,Indonesia,Jakarta,Agent,2014-09-16
+V100556,PT Megah Dirgantara Kimia,580386551018704,Indonesia,Jakarta,Distributor,2013-08-17
+V100557,Summit Chemicals Inc,FRN-601212711,United States,,Distributor,2010-03-04
+V100558,Pacific Production Chemicals Inc,FRN-256147484,United States,,Distributor,2016-02-29
+V100559,CV Gemilang Chemical Indonesia,142637179630941,Indonesia,Surabaya,Manufacturer,2008-05-15
+V100560,CV Kencana Kimia,980920458123246,Indonesia,Surabaya,Agent,2013-09-01
+V100561,CV Indo Chemical Indonesia,313533966198593,Indonesia,Jakarta,Distributor,2010-10-17
+V100562,Lumen Chemicals Inc,FRN-553603903,United States,,Agent,2009-06-02
+V100563,PT Sriwijaya Abadi Kimia,870334459310047,Indonesia,Jakarta,Agent,2015-03-30
+V100564,Redwater Chemicals Inc,FRN-294437890,United States,,Distributor,2008-01-29
+V100565,PT Garuda Arta Chemical Indonesia,508472694819486,Indonesia,Balikpapan,Agent,2017-10-18
+V100566,Meridian Chemicals Sdn Bhd,FRN-503081221,Malaysia,,Agent,2011-09-03
+V100567,Cobalt Chemicals Sdn Bhd,FRN-245124847,Malaysia,,Distributor,2019-07-03
+V100568,"Vanguard Specialty Chemicals Co., Ltd",FRN-600931305,China,,Agent,2009-09-11
+V100569,PT Teknik Inti Kimia,862504930465258,Indonesia,Palembang,Manufacturer,2019-03-21
+V100570,"Harbor Specialty Chemicals Co., Ltd",FRN-684042211,Japan,,Distributor,2017-02-18
+V100571,Westgate Specialty Chemicals Ltd,FRN-927371454,United Kingdom,,Distributor,2008-08-02
+V100572,CV Utama Chemical Indonesia,575998527722413,Indonesia,Jakarta,Distributor,2011-12-30
+V100573,CV Kurnia Kimia,951980972351357,Indonesia,Palembang,Agent,2018-10-30
+V100574,PT Patra Inti Chemical Indonesia,408015298034591,Indonesia,Palembang,Manufacturer,2011-01-19
+V100575,PT Bumi Bahari Kimia Industri,725138665650811,Indonesia,Jakarta,Agent,2009-04-25
+V100576,PT Nusantara Sarana Kimia Industri,806586080252400,Indonesia,Jakarta,Manufacturer,2016-11-12
+V100577,PT Cipta Nusantara Chemical Indonesia,847052136000663,Indonesia,Samarinda,Agent,2009-01-16
+V100578,Harbor Specialty Chemicals Pte Ltd,FRN-331325199,Singapore,,Agent,2015-02-05
+V100579,PT Wahana Gemilang Chemical Indonesia,758037956223685,Indonesia,Jakarta,Manufacturer,2011-12-06
+V100580,PT Tama Jaya Trading,924806851237844,Indonesia,Jakarta,Agent,2012-04-09
+V100581,PT Prima Makmur Trading,602764542808235,Indonesia,Tangerang,Distributor,2011-09-03
+V100582,CV Bumi Sarana Teknik,064277602201920,Indonesia,Tangerang,Manufacturer,2010-10-10
+V100583,Harbor Bearings Inc,FRN-598813754,United States,,Distributor,2018-08-22
+V100584,PT Mitra Mulia Trading,554076236944566,Indonesia,Jakarta,Agent,2010-05-18
+V100585,PT Gemilang Citra Trading,599005982971332,Indonesia,Jakarta,Distributor,2012-10-27
+V100586,PT Graha Prima Teknik,011495438486398,Indonesia,Jakarta,Agent,2008-05-03
+V100587,Orion Bearings Sdn Bhd,FRN-236116400,Malaysia,,Manufacturer,2011-09-04
+V100588,Sterling Industrial Sdn Bhd,FRN-679139888,Malaysia,,Agent,2014-05-14
+V100589,Vanguard Bearings Pte Ltd,FRN-355564637,Singapore,,Distributor,2014-10-13
+V100590,PT Baja Megah Trading,653497414236904,Indonesia,Jakarta,Distributor,2018-06-29
+V100591,PT Lintas Yasa Trading,897653654175675,Indonesia,Surabaya,Distributor,2019-11-17
+V100592,Keystone Industrial Supply Inc,FRN-808772297,United States,,Agent,2015-10-19
+V100593,CV Graha Trading,014090734318856,Indonesia,Palembang,Manufacturer,2011-07-20
+V100594,PT Tama Andalan Teknik,035710923476175,Indonesia,Jakarta,Distributor,2012-08-18
+V100595,CV Sarana Supply,525674049255069,Indonesia,Surabaya,Agent,2018-06-02
+V100596,PT Gemilang Bumi Sarana Teknik,336027341210144,Indonesia,Bekasi,Agent,2014-12-05
+V100597,PT Rekayasa Teknik,006316107666537,Indonesia,Jakarta,Distributor,2017-03-05
+V100598,PT Jaya Harapan Teknik,705593847690957,Indonesia,Jakarta,Distributor,2019-11-07
+V100599,PT Inti Sakti Teknik,506245098418924,Indonesia,Jakarta,Agent,2013-11-27
+V100600,Summit Bearings Pte Ltd,FRN-290707372,Singapore,,Manufacturer,2017-02-05
+V100601,PT Arta Sakti Industri,709048865536033,Indonesia,Jakarta,Agent,2017-05-19
+V100602,CV Harapan Supply,441874761211191,Indonesia,Jakarta,Agent,2018-06-04
+V100603,CV Tirta Industri,284605267022717,Indonesia,Jakarta,Distributor,2014-04-05
+V100604,CV Persada Teknik,914161093237584,Indonesia,Palembang,Agent,2014-06-23
+V100605,PT Lintas Rajawali Sarana Teknik,511740247045940,Indonesia,Jakarta,Distributor,2016-11-02
+V100606,Atlas Bearings Pte Ltd,FRN-259161431,Singapore,,Distributor,2013-09-11
+V100607,PT Megah Andalan Teknik,030858406938650,Indonesia,Palembang,Distributor,2012-06-11
+V100608,Corvex Bearings GmbH,FRN-719858893,Germany,,Distributor,2011-01-09
+V100609,PT Abadi Kencana Sarana Teknik,856720696845867,Indonesia,Surabaya,Agent,2013-12-25
+V100610,PT Energi Yasa Sarana Teknik,304132912150104,Indonesia,Balikpapan,Manufacturer,2014-06-18
+V100611,PT Prima Lintas Supply,268254005217887,Indonesia,Tangerang,Distributor,2010-08-26
+V100612,PT Mandiri Tama Trading,712603231545856,Indonesia,Balikpapan,Distributor,2013-02-02
+V100613,PT Teknik Tirta Industri,764790927230003,Indonesia,Palembang,Manufacturer,2011-12-21
+V100614,PT Inti Yasa Sarana Teknik,751277976197738,Indonesia,Samarinda,Distributor,2017-02-03
+V100615,PT Harapan Sinar Supply,245335228350799,Indonesia,Jakarta,Distributor,2020-07-03
+V100616,PT Makmur Mandiri Teknik,069655223290704,Indonesia,Jakarta,Agent,2009-08-04
+V100617,PT Rajawali Rekayasa Teknik,716336942999989,Indonesia,Jakarta,Agent,2015-07-09
+V100618,Pacific Industrial Supply Sdn Bhd,FRN-034601600,Malaysia,,Distributor,2010-05-11
+V100619,PT Makmur Persada Industri,664812998978487,Indonesia,Balikpapan,Distributor,2015-11-24
+V100620,"Delta Rho Bearings Co., Ltd",FRN-154275590,China,,Distributor,2010-01-08
+V100621,CV Sejahtera Sarana Teknik,465394295524449,Indonesia,Jakarta,Agent,2012-02-09
+V100622,"Westgate Industrial Co., Ltd",FRN-103368152,Japan,,Agent,2020-03-18
+V100623,PT Nusantara Sakti Trading,226906515197064,Indonesia,Batam,Agent,2015-09-26
+V100624,Granite Bearings Pte Ltd,FRN-855227372,Singapore,,Distributor,2011-09-04
+V100625,PT Wahana Rekayasa Teknik,109955927086560,Indonesia,Samarinda,Manufacturer,2011-03-29
+V100626,PT Utama Sinar Sarana Teknik,131286356156881,Indonesia,Jakarta,Agent,2013-10-04
+V100627,PT Kurnia Harapan Supply,167203651222044,Indonesia,Palembang,Distributor,2012-09-18
+V100628,CV Bahari Supply,757799121061297,Indonesia,Tangerang,Manufacturer,2019-10-18
+V100629,PT Rajawali Abadi Sarana Teknik,379364342234626,Indonesia,Bekasi,Distributor,2020-04-30
+V100630,PT Mulia Makmur Supply,419574354341670,Indonesia,Jakarta,Distributor,2010-05-26
+V100631,PT Utama Sriwijaya Industri,794133310185428,Indonesia,Jakarta,Distributor,2017-08-22
+V100632,PT Lestari Petro Industri,885819343588842,Indonesia,Jakarta,Distributor,2018-03-06
+V100633,PT Graha Citra Trading,271431719371738,Indonesia,Palembang,Distributor,2013-06-09
+V100634,PT Baja Andalan Supply,116903903243221,Indonesia,Palembang,Distributor,2011-06-27
+V100635,PT Bahari Sentosa Supply,531281000521971,Indonesia,Batam,Distributor,2015-01-18
+V100636,Redwater Industrial Supply Pte Ltd,FRN-449647900,Singapore,,Agent,2008-08-13
+V100637,PT Sriwijaya Gemilang Industri,213577547130797,Indonesia,Palembang,Agent,2011-11-27
+V100638,PT Perkasa Mulia Industri,548509367196952,Indonesia,Jakarta,Distributor,2016-03-08
+V100639,PT Sinar Inti Teknik,508091054573741,Indonesia,Tangerang,Distributor,2016-11-10
+V100640,CV Sakti Supply,656381730002821,Indonesia,Palembang,Distributor,2008-01-16
+V100641,PT Sejahtera Daya Industri,101317718440808,Indonesia,Surabaya,Distributor,2011-09-05
+V100642,PT Daya Perkasa Sarana Teknik,410290247193486,Indonesia,Jakarta,Distributor,2009-03-20
+V100643,PT Citra Andalan Industri,270465636037011,Indonesia,Surabaya,Manufacturer,2018-08-10
+V100644,PT Tirta Sejahtera Trading,963741508106384,Indonesia,Jakarta,Agent,2013-04-09
+V100645,PT Jaya Bahari Trading,521612324385391,Indonesia,Jakarta,Manufacturer,2019-12-02
+V100646,PT Dirgantara Sentosa Teknik,168966209630918,Indonesia,Jakarta,Distributor,2014-01-12
+V100647,Falcon Industrial Supply Sdn Bhd,FRN-551748904,Malaysia,,Distributor,2016-06-06
+V100648,PT Lintas Sinar Industri,399138295279179,Indonesia,Batam,Distributor,2012-05-10
+V100649,PT Andalan Bumi Sarana Teknik,549155832462498,Indonesia,Batam,Manufacturer,2010-07-14
+V100650,PT Cipta Abadi Supply,654044880654885,Indonesia,Jakarta,Distributor,2020-06-09
+V100651,PT Sejahtera Cipta Teknik,332342398305466,Indonesia,Batam,Manufacturer,2013-07-05
+V100652,PT Prima Buana Industri,096735142267458,Indonesia,Jakarta,Manufacturer,2009-06-20
+V100653,CV Andalan Trading,724717462841803,Indonesia,Jakarta,Agent,2011-08-22
+V100654,PT Prima Cipta Supply,822911746616124,Indonesia,Bekasi,Agent,2008-09-23
+V100655,PT Pilar Buana Teknik,501370044111512,Indonesia,Surabaya,Distributor,2012-08-18
+V100656,PT Energi Cipta Teknik,772759881100123,Indonesia,Palembang,Distributor,2010-08-22
+V100657,"Orion Industrial Co., Ltd",FRN-936335041,South Korea,,Distributor,2010-01-15
+V100658,PT Rekayasa Buana Teknik,008819172459205,Indonesia,Surabaya,Distributor,2015-02-23
+V100659,Orion Industrial Inc,FRN-509069992,United States,,Manufacturer,2015-08-13
+V100660,PT Petro Nusa Teknik,849660368067357,Indonesia,Jakarta,Agent,2020-01-11
+V100661,PT Garuda Andalan Teknik,043438985731112,Indonesia,Jakarta,Distributor,2012-02-01
+V100662,PT Harapan Baja Teknik,418161957550033,Indonesia,Batam,Agent,2010-01-21
+V100663,CV Indo Trading,213775698818966,Indonesia,Jakarta,Distributor,2010-02-03
+V100664,PT Baja Nusantara Sarana Teknik,209945064902134,Indonesia,Jakarta,Distributor,2011-04-12
+V100665,PT Perkasa Gemilang Trading,546070763623083,Indonesia,Surabaya,Manufacturer,2019-10-29
+V100666,Ironbridge Industrial Supply Pte Ltd,FRN-342062179,Singapore,,Manufacturer,2014-07-26
+V100667,CV Dirgantara Sarana Teknik,303160777239231,Indonesia,Jakarta,Agent,2008-05-14
+V100668,"Ironbridge Industrial Co., Ltd",FRN-957179244,China,,Distributor,2013-01-12
+V100669,"Pacific Industrial Co., Ltd",FRN-894931510,China,,Agent,2020-07-29
+V100670,PT Cipta Persada Trading,332768470985305,Indonesia,Jakarta,Distributor,2013-08-20
+V100671,PT Pratama Yasa Sarana Teknik,604774390026308,Indonesia,Tangerang,Manufacturer,2009-04-23
+V100672,CV Inti Teknik,863925091987490,Indonesia,Bekasi,Distributor,2009-09-07
+V100673,PT Cipta Pratama Supply,829559737879400,Indonesia,Jakarta,Distributor,2013-08-03
+V100674,PT Lestari Bahari Trading,563462076482990,Indonesia,Palembang,Distributor,2012-02-06
+V100675,PT Wahana Teknik Trading,709305561363209,Indonesia,Balikpapan,Distributor,2014-02-12
+V100676,Vanguard Industrial Sdn Bhd,FRN-633638322,Malaysia,,Distributor,2016-01-08
+V100677,Orion Industrial Sdn Bhd,FRN-562751615,Malaysia,,Manufacturer,2017-05-02
+V100678,PT Makmur Jaya Sarana Teknik,178585295691626,Indonesia,Jakarta,Distributor,2016-02-17
+V100679,PT Daya Sarana Industri,343930100297871,Indonesia,Surabaya,Distributor,2019-07-08
+V100680,PT Makmur Megah Trading,725886718173460,Indonesia,Jakarta,Distributor,2010-12-25
+V100681,PT Bumi Tirta Industri,069814184688292,Indonesia,Jakarta,Distributor,2012-11-08
+V100682,PT Kencana Baja Teknik,210107191770140,Indonesia,Batam,Manufacturer,2010-02-21
+V100683,Atlas Industrial Supply Pte Ltd,FRN-958601239,Singapore,,Distributor,2016-11-20
+V100684,PT Pratama Kurnia Trading,403177420287215,Indonesia,Jakarta,Agent,2011-01-03
+V100685,PT Sinar Petro Supply,861490265370019,Indonesia,Jakarta,Distributor,2008-04-24
+V100686,"Meridian Industrial Supply Co., Ltd",FRN-699277142,China,,Agent,2018-04-12
+V100687,CV Rekayasa Supply,997337393400227,Indonesia,Jakarta,Distributor,2008-04-22
+V100688,PT Mulia Abadi Teknik,920744404603881,Indonesia,Batam,Manufacturer,2010-12-25
+V100689,Redwater Industrial Pte Ltd,FRN-106055971,Singapore,,Agent,2012-03-24
+V100690,PT Sinar Bahari Teknik,774004368353835,Indonesia,Surabaya,Agent,2014-02-16
+V100691,Meridian Industrial Supply GmbH,FRN-189042606,Germany,,Agent,2012-11-08
+V100692,PT Graha Rekayasa Sarana Teknik,694441987675061,Indonesia,Balikpapan,Agent,2008-03-29
+V100693,PT Bahari Sejahtera Trading,464986670382117,Indonesia,Balikpapan,Agent,2012-11-08
+V100694,PT Pilar Borneo Supply,195125355408551,Indonesia,Jakarta,Manufacturer,2019-01-19
+V100695,PT Tirta Karya Sarana Teknik,723147557091220,Indonesia,Balikpapan,Distributor,2013-04-14
+V100696,PT Megah Kencana Supply,939815842047579,Indonesia,Balikpapan,Distributor,2011-10-29
+V100697,CV Bumi Supply,017273466178549,Indonesia,Bekasi,Distributor,2015-10-27
+V100698,CV Eka Teknik,310275499483229,Indonesia,Jakarta,Agent,2018-01-20
+V100699,PT Mulia Persada Teknik,910922864903550,Indonesia,Surabaya,Manufacturer,2010-09-26
+V100700,PT Abadi Kurnia Teknik,601769902482552,Indonesia,Bekasi,Distributor,2017-01-21
+V100701,Northstar Industrial Supply Inc,FRN-226855109,United States,,Agent,2012-10-14
+V100702,PT Utama Teknik,053732134571710,Indonesia,Jakarta,Manufacturer,2009-11-11
+V100703,PT Baja Pilar Teknik,942045779532101,Indonesia,Jakarta,Distributor,2012-03-05
+V100704,PT Daya Yasa Supply,105032950471124,Indonesia,Jakarta,Distributor,2014-06-16
+V100705,PT Mulia Inti Supply,344415777270890,Indonesia,Jakarta,Manufacturer,2020-07-01
+V100706,PT Sriwijaya Trading,465233410467825,Indonesia,Jakarta,Manufacturer,2018-07-14
+V100707,"Strata Industrial Supply Co., Ltd",FRN-199157788,China,,Agent,2010-02-16
+V100708,PT Jaya Prima Sarana Teknik,931202559723525,Indonesia,Jakarta,Manufacturer,2013-10-03
+V100709,CV Gemilang Sarana Teknik,393588890053109,Indonesia,Palembang,Agent,2008-08-28
+V100710,PT Sarana Graha Supply,203710564695511,Indonesia,Balikpapan,Distributor,2014-03-02
+V100711,PT Teknik Borneo Trading,075610441477572,Indonesia,Jakarta,Agent,2010-05-12
+V100712,CV Teknik,946259276795697,Indonesia,Jakarta,Agent,2009-04-21
+V100713,PT Baja Kencana Sarana Teknik,333511954841427,Indonesia,Jakarta,Agent,2017-02-14
+V100714,CV Sentosa Industri,199780150112018,Indonesia,Balikpapan,Agent,2019-09-07
+V100715,PT Pilar Graha Sarana Teknik,242663295640285,Indonesia,Jakarta,Distributor,2010-02-15
+V100716,PT Utama Indo Trading,890230978911255,Indonesia,Surabaya,Manufacturer,2018-07-12
+V100717,PT Wahana Abadi Trading,437460766960287,Indonesia,Balikpapan,Manufacturer,2015-06-06
+V100718,PT Tama Makmur Sarana Teknik,028836282537989,Indonesia,Jakarta,Agent,2013-12-15
+V100719,PT Harapan Persada Trading,914037504992529,Indonesia,Bekasi,Manufacturer,2016-07-17
+V100720,Lumen Industrial Supply Ltd,FRN-765687706,United Kingdom,,Distributor,2010-12-16
+V100721,PT Garuda Energi Industri,783135884738654,Indonesia,Palembang,Distributor,2011-06-26
+V100722,PT Wahana Karya Teknik,746639559220318,Indonesia,Surabaya,Distributor,2016-09-02
+V100723,PT Borneo Mandiri Sarana Teknik,769066665372049,Indonesia,Jakarta,Distributor,2018-05-21
+V100724,PT Mandiri Kencana Supply,139591685084599,Indonesia,Bekasi,Distributor,2010-08-08
+V100725,CV Wahana Industri,483574758425520,Indonesia,Jakarta,Distributor,2019-12-15
+V100726,PT Dirgantara Mandiri Teknik,137948356854287,Indonesia,Surabaya,Distributor,2017-11-03
+V100727,CV Mulia Sarana Teknik,981668185726187,Indonesia,Tangerang,Manufacturer,2011-03-23
+V100728,"Vanguard Bearings Co., Ltd",FRN-728574521,China,,Distributor,2016-10-17
+V100729,PT Citra Sinar Sarana Teknik,486301314170677,Indonesia,Balikpapan,Manufacturer,2012-04-27
+V100730,PT Makmur Bahari Industri,098559468512270,Indonesia,Palembang,Distributor,2012-12-22
+V100731,PT Sejahtera Eka Sarana Teknik,455015939112322,Indonesia,Tangerang,Manufacturer,2014-11-18
+V100732,CV Mitra Industri,937562654291468,Indonesia,Tangerang,Distributor,2009-01-02
+V100733,PT Kencana Sarana Supply,434071631222973,Indonesia,Jakarta,Agent,2012-03-16
+V100734,CV Tirta Teknik,452942323224608,Indonesia,Jakarta,Distributor,2008-06-28
+V100735,PT Buana Mitra Industri,192480477531928,Indonesia,Jakarta,Distributor,2019-01-05
+V100736,CV Harapan Industri,005447764707871,Indonesia,Jakarta,Manufacturer,2008-02-17
+V100737,PT Patra Sejahtera Supply,708412173036259,Indonesia,Jakarta,Manufacturer,2020-06-15
+V100738,PT Rajawali Sinar Teknik,924941197053451,Indonesia,Tangerang,Manufacturer,2018-05-18
+V100739,PT Sejahtera Mulia Trading,679219792858765,Indonesia,Jakarta,Distributor,2013-12-15
+V100740,PT Wahana Prima Supply,859500914436923,Indonesia,Bekasi,Distributor,2013-06-18
+V100741,PT Andalan Rekayasa Supply,765514748272414,Indonesia,Batam,Manufacturer,2016-09-04
+V100742,PT Mandiri Rekayasa Supply,004345998013091,Indonesia,Tangerang,Manufacturer,2013-03-11
+V100743,PT Rekayasa Yasa Trading,670342052740404,Indonesia,Jakarta,Agent,2008-09-08
+V100744,PT Garuda Jaya Trading,434930128197037,Indonesia,Surabaya,Manufacturer,2012-01-06
+V100745,PT Rajawali Nusantara Trading,290151815399313,Indonesia,Batam,Distributor,2016-08-28
+V100746,PT Abadi Wahana Trading,740214985155554,Indonesia,Jakarta,Manufacturer,2019-12-29
+V100747,PT Lintas Daya Industri,643247773722298,Indonesia,Palembang,Agent,2010-04-23
+V100748,PT Tirta Bahari Trading,521645003447181,Indonesia,Batam,Distributor,2019-11-11
+V100749,PT Cipta Mulia Trading,442405453564603,Indonesia,Balikpapan,Agent,2013-03-12
+V100750,PT Borneo Inti Supply,068055314458754,Indonesia,Samarinda,Agent,2008-08-19
+V100751,PT Makmur Abadi Supply,065334128309399,Indonesia,Balikpapan,Agent,2020-07-30
+V100752,CV Nusa Trading,302171349380094,Indonesia,Palembang,Distributor,2018-07-23
+V100753,PT Utama Buana Industri,946020227584099,Indonesia,Jakarta,Distributor,2010-06-18
+V100754,PT Persada Sakti Teknik,397631906297123,Indonesia,Jakarta,Manufacturer,2010-03-25
+V100755,PT Bumi Sejahtera Teknik,113833872048099,Indonesia,Jakarta,Agent,2018-04-06
+V100756,PT Samudra Nusa Supply,174986765522191,Indonesia,Balikpapan,Distributor,2014-11-08
+V100757,CV Jaya Teknik,905002763162530,Indonesia,Batam,Distributor,2008-10-31
+V100758,PT Graha Teknik Supply,586017522663893,Indonesia,Jakarta,Distributor,2018-07-08
+V100759,Crestline Industrial FZE,FRN-021495342,United Arab Emirates,,Distributor,2018-08-01
+V100760,PT Persada Yasa Teknik,360848980569937,Indonesia,Balikpapan,Distributor,2013-02-08
+V100761,Meridian Industrial Supply Pte Ltd,FRN-689879939,Singapore,,Distributor,2009-02-25
+V100762,PT Sakti Utama Trading,798246447997130,Indonesia,Bekasi,Distributor,2012-01-06
+V100763,CV Wahana Trading,339367696878366,Indonesia,Samarinda,Distributor,2008-02-17
+V100764,PT Sentosa Rekayasa Industri,186556808560741,Indonesia,Surabaya,Manufacturer,2008-06-12
+V100765,PT Nusantara Gemilang Sarana Teknik,401850614792907,Indonesia,Samarinda,Agent,2009-03-07
+V100766,PT Kencana Pratama Trading,842378336791745,Indonesia,Jakarta,Distributor,2008-11-21
+V100767,PT Pilar Baja Supply,023520190346370,Indonesia,Jakarta,Distributor,2017-01-20
+V100768,CV Energi Teknik,736321397444327,Indonesia,Samarinda,Manufacturer,2015-11-29
+V100769,PT Sejahtera Pratama Supply,305598102177715,Indonesia,Balikpapan,Distributor,2012-06-16
+V100770,PT Abadi Lintas Supply,457492961919694,Indonesia,Palembang,Distributor,2017-02-15
+V100771,PT Rekayasa Harapan Sarana Teknik,328116006518182,Indonesia,Jakarta,Agent,2009-12-15
+V100772,PT Petro Dirgantara Supply,538152099388117,Indonesia,Jakarta,Agent,2018-06-03
+V100773,PT Pratama Makmur Supply,789016980741347,Indonesia,Jakarta,Agent,2017-06-09
+V100774,CV Andalan Sarana Teknik,444973271941699,Indonesia,Bekasi,Distributor,2016-02-25
+V100775,Falcon Bearings Pte Ltd,FRN-147039136,Singapore,,Manufacturer,2016-04-18
+V100776,PT Sakti Makmur Supply,515176569670443,Indonesia,Jakarta,Distributor,2020-06-25
+V100777,PT Buana Eka Trading,009087530347986,Indonesia,Surabaya,Distributor,2009-02-24
+V100778,PT Daya Gemilang Sarana Teknik,637361037011634,Indonesia,Jakarta,Agent,2017-09-24
+V100779,PT Sejahtera Rekayasa Supply,264104868073106,Indonesia,Balikpapan,Manufacturer,2015-04-12
+V100780,PT Eka Inti Teknik,693909434436758,Indonesia,Jakarta,Agent,2014-03-21
+V100781,PT Energi Arta Industri,666141468997948,Indonesia,Jakarta,Manufacturer,2013-11-30
+V100782,PT Makmur Energi Teknik,976417768322511,Indonesia,Balikpapan,Distributor,2018-09-24
+V100783,"Redwater Industrial Supply Co., Ltd",FRN-214332060,China,,Distributor,2019-02-08
+V100784,PT Kurnia Makmur Industri,393344599404287,Indonesia,Surabaya,Distributor,2010-08-19
+V100785,Vanguard Industrial Supply Sdn Bhd,FRN-651943600,Malaysia,,Manufacturer,2018-12-26
+V100786,PT Rajawali Jaya Trading,516256192565289,Indonesia,Batam,Agent,2018-10-05
+V100787,PT Harapan Persada Industri,890099476328292,Indonesia,Surabaya,Agent,2013-05-15
+V100788,"Trident Industrial Co., Ltd",FRN-058951089,South Korea,,Distributor,2011-04-29
+V100789,PT Nusantara Citra Sarana Teknik,620366178069965,Indonesia,Jakarta,Distributor,2014-12-24
+V100790,"Delta Rho Industrial Co., Ltd",FRN-107640623,Japan,,Distributor,2018-09-24
+V100791,PT Nusa Tama Supply,093327226437992,Indonesia,Balikpapan,Distributor,2013-01-14
+V100792,CV Yasa Sarana Teknik,017769881822073,Indonesia,Balikpapan,Agent,2017-09-13
+V100793,PT Yasa Tirta Sarana Teknik,233529779608407,Indonesia,Balikpapan,Distributor,2010-09-03
+V100794,PT Graha Rajawali Teknik,834747391958014,Indonesia,Palembang,Distributor,2019-02-28
+V100795,PT Teknik Cipta Supply,958465939378495,Indonesia,Jakarta,Manufacturer,2016-12-31
+V100796,CV Indo Teknik,679751805365085,Indonesia,Jakarta,Distributor,2013-09-17
+V100797,Pacific Industrial Supply Inc,FRN-203301628,United States,,Distributor,2016-07-20
+V100798,PT Andalan Prima Supply,380521305131850,Indonesia,Bekasi,Manufacturer,2010-12-26
+V100799,PT Cipta Yasa Sarana Teknik,647004115710474,Indonesia,Jakarta,Manufacturer,2009-02-14
+V100800,PT Pratama Mandiri Supply,441934866632897,Indonesia,Samarinda,Agent,2008-01-15
+V100801,PT Indo Patra Teknik,613549363091719,Indonesia,Batam,Agent,2018-04-01
+V100802,Halcyon Bearings Sdn Bhd,FRN-489435961,Malaysia,,Distributor,2016-11-21
+V100803,PT Jaya Daya Trading,758084633613885,Indonesia,Jakarta,Distributor,2019-07-04
+V100804,CV Citra Supply,866423537543467,Indonesia,Surabaya,Distributor,2020-04-26
+V100805,"Atlas Bearings Co., Ltd",FRN-964789160,China,,Agent,2013-03-06
+V100806,PT Andalan Makmur Supply,729726958722752,Indonesia,Balikpapan,Agent,2010-05-31
+V100807,Pacific Bearings Pte Ltd,FRN-943941034,Singapore,,Manufacturer,2011-12-31
+V100808,PT Mulia Cipta Petro Niaga,055782120925407,Indonesia,Surabaya,Agent,2010-09-03
+V100809,PT Tama Borneo Lubrindo,655094520026692,Indonesia,Jakarta,Distributor,2010-09-09
+V100810,PT Bahari Gemilang Petro Niaga,361902912712292,Indonesia,Batam,Manufacturer,2020-05-30
+V100811,PT Megah Prima Lubrindo,963954691944009,Indonesia,Jakarta,Distributor,2017-12-04
+V100812,PT Nusantara Utama Niaga Energi,927942300419197,Indonesia,Jakarta,Agent,2012-11-10
+V100813,CV Lintas Lubrindo,367611898570855,Indonesia,Jakarta,Distributor,2010-06-21
+V100814,PT Patra Harapan Petro Niaga,596114570906221,Indonesia,Surabaya,Agent,2017-11-13
+V100815,Orion Energy Trading Ltd,FRN-009509782,United Kingdom,,Distributor,2018-10-03
+V100816,CV Sinar Niaga Energi,201422922544127,Indonesia,Jakarta,Distributor,2018-10-23
+V100817,CV Sejahtera Petro Niaga,251868819265980,Indonesia,Balikpapan,Distributor,2012-03-29
+V100818,PT Garuda Dirgantara Energi,393184707663619,Indonesia,Jakarta,Agent,2011-08-19
+V100819,PT Tama Perkasa Niaga Energi,885715864638916,Indonesia,Balikpapan,Agent,2010-07-05
+V100820,CV Patra Petro Niaga,429571740657045,Indonesia,Jakarta,Manufacturer,2011-01-24
+V100821,PT Persada Cipta Lubrindo,254219039969395,Indonesia,Jakarta,Agent,2020-07-20
+V100822,Strata Energy Trading Sdn Bhd,FRN-227425216,Malaysia,,Agent,2011-10-12
+V100823,CV Energi Petro Niaga,725492479248504,Indonesia,Bekasi,Distributor,2018-10-19
+V100824,PT Nusantara Abadi Energi,401256620595961,Indonesia,Balikpapan,Distributor,2010-10-14
+V100825,PT Bahari Prima Petro Niaga,270773321914027,Indonesia,Tangerang,Manufacturer,2012-06-06
+V100826,Apex Lubricants Pte Ltd,FRN-100237893,Singapore,,Distributor,2013-02-22
+V100827,CV Dirgantara Energi,219950817003986,Indonesia,Jakarta,Agent,2010-11-16
+V100828,PT Lestari Daya Petro Niaga,552115371838572,Indonesia,Balikpapan,Distributor,2013-08-20
+V100829,CV Bahari Energi,151053316101658,Indonesia,Jakarta,Manufacturer,2016-07-31
+V100830,PT Rajawali Sakti Energi,556785711076667,Indonesia,Jakarta,Agent,2015-02-24
+V100831,CV Indo Lubrindo,580085795924138,Indonesia,Palembang,Manufacturer,2015-08-26
+V100832,PT Sinar Harapan Proteksi,488390985269668,Indonesia,Batam,Distributor,2016-12-04
+V100833,PT Bahari Patra Safety,455891145128356,Indonesia,Jakarta,Distributor,2018-06-13
+V100834,CV Tama Safety,575040214428727,Indonesia,Jakarta,Distributor,2020-02-19
+V100835,CV Sakti Proteksi,806051729394787,Indonesia,Surabaya,Agent,2015-09-15
+V100836,PT Prima Patra Safety,111783033650417,Indonesia,Jakarta,Distributor,2008-05-07
+V100837,PT Bumi Gemilang Proteksi,678641173822536,Indonesia,Jakarta,Distributor,2013-02-17
+V100838,PT Arta Sejahtera Safety Indonesia,136870657785180,Indonesia,Surabaya,Distributor,2012-03-28
+V100839,PT Dirgantara Karya Safety Indonesia,323484402815894,Indonesia,Batam,Agent,2013-05-07
+V100840,PT Pratama Garuda Safety Indonesia,856309506614224,Indonesia,Samarinda,Distributor,2011-07-19
+V100841,PT Buana Rekayasa Safety,063759125494915,Indonesia,Batam,Distributor,2011-11-08
+V100842,CV Sakti Safety,692675453926010,Indonesia,Jakarta,Manufacturer,2016-06-24
+V100843,PT Sarana Sinar Safety,439474184771339,Indonesia,Jakarta,Distributor,2010-10-09
+V100844,PT Tama Rekayasa Proteksi,256010549506917,Indonesia,Balikpapan,Agent,2015-02-26
+V100845,PT Megah Energi Safety Indonesia,871931008205358,Indonesia,Balikpapan,Distributor,2012-05-19
+V100846,PT Dirgantara Nusa Safety,206993565036904,Indonesia,Jakarta,Manufacturer,2017-02-10
+V100847,PT Borneo Gemilang Proteksi,694081017278497,Indonesia,Jakarta,Manufacturer,2016-08-30
+V100848,PT Sarana Andalan Safety,693713196822283,Indonesia,Jakarta,Distributor,2020-05-05
+V100849,PT Jaya Samudra Safety,312033317239088,Indonesia,Jakarta,Agent,2020-07-19
+V100850,PT Pratama Megah Proteksi,352996501511294,Indonesia,Jakarta,Agent,2019-02-04
+V100851,CV Bahari Safety Indonesia,919646736647855,Indonesia,Jakarta,Distributor,2019-01-09
+V100852,PT Dirgantara Sakti Proteksi,590440637764391,Indonesia,Balikpapan,Distributor,2012-01-31
+V100853,PT Borneo Pratama Safety,131993941500916,Indonesia,Jakarta,Manufacturer,2010-08-06
+V100854,PT Persada Gemilang Safety,028004695453379,Indonesia,Bekasi,Manufacturer,2008-09-18
+V100855,PT Dirgantara Megah Safety Indonesia,758499911491424,Indonesia,Batam,Manufacturer,2017-12-01
+V100856,PT Bumi Sinar Proteksi,599731275667331,Indonesia,Balikpapan,Distributor,2020-07-22
+V100857,PT Cipta Dirgantara Proteksi,160604564410698,Indonesia,Palembang,Agent,2009-08-13
+V100858,PT Kencana Patra Proteksi,303560824843036,Indonesia,Tangerang,Agent,2008-03-28
+V100859,PT Kencana Cipta Safety Indonesia,569662007509263,Indonesia,Jakarta,Distributor,2019-02-13
+V100860,PT Arta Bumi Safety,978457654954660,Indonesia,Bekasi,Distributor,2020-08-03
+V100861,PT Inti Kencana Proteksi,136175643783750,Indonesia,Tangerang,Distributor,2011-05-20
+V100862,PT Pratama Arta Proteksi,198003692397562,Indonesia,Palembang,Distributor,2008-09-25
+V100863,PT Karya Gemilang Proteksi,360575571918368,Indonesia,Jakarta,Manufacturer,2014-02-07
+V100864,PT Tirta Megah Proteksi,732173679333772,Indonesia,Surabaya,Distributor,2013-11-18
+V100865,"Lumen Fire & Safety Co., Ltd",FRN-038666273,China,,Distributor,2009-11-14
+V100866,PT Lestari Mandiri Safety Indonesia,553370445588258,Indonesia,Surabaya,Manufacturer,2015-10-17
+V100867,Strata Safety Systems Sdn Bhd,FRN-225043910,Malaysia,,Distributor,2014-04-27
+V100868,Strata Fire & Safety GmbH,FRN-119475369,Germany,,Manufacturer,2011-09-26
+V100869,CV Abadi Safety,780381050400498,Indonesia,Batam,Manufacturer,2020-01-28
+V100870,Corvex Safety Systems Pte Ltd,FRN-436600286,Singapore,,Agent,2017-12-10
+V100871,PT Persada Indo Safety Indonesia,700985019930230,Indonesia,Palembang,Manufacturer,2018-11-27
+V100872,PT Makmur Sarana Safety Indonesia,829194472298445,Indonesia,Balikpapan,Distributor,2014-01-05
+V100873,PT Eka Wahana Proteksi,865026109813746,Indonesia,Jakarta,Agent,2012-11-19
+V100874,PT Borneo Sejahtera Safety,728754295454000,Indonesia,Jakarta,Agent,2012-01-27
+V100875,PT Rajawali Baja Safety,578738995347169,Indonesia,Samarinda,Agent,2009-03-12
+V100876,Redwater Safety Systems Sdn Bhd,FRN-231773945,Malaysia,,Distributor,2019-03-21
+V100877,PT Dirgantara Prima Proteksi,938494594409414,Indonesia,Balikpapan,Agent,2015-09-13
+V100878,Orion Safety Systems Pte Ltd,FRN-132976044,Singapore,,Manufacturer,2013-12-15
+V100879,PT Bahari Sentosa Proteksi,299518396678954,Indonesia,Jakarta,Distributor,2017-02-18
+V100880,PT Kurnia Pilar Safety Indonesia,714661513634977,Indonesia,Jakarta,Agent,2010-08-31
+V100881,CV Kurnia Proteksi,024506072290702,Indonesia,Jakarta,Distributor,2019-05-30
+V100882,PT Patra Prima Safety,879022124602714,Indonesia,Jakarta,Distributor,2019-05-08
+V100883,PT Samudra Mulia Safety,336591184499164,Indonesia,Jakarta,Distributor,2017-07-12
+V100884,"Westgate Fire & Safety Co., Ltd",FRN-221305431,China,,Manufacturer,2009-11-09
+V100885,PT Bumi Gemilang Safety Indonesia,412121992037107,Indonesia,Jakarta,Distributor,2019-03-19
+V100886,Northstar Safety Systems FZE,FRN-940188855,United Arab Emirates,,Distributor,2011-11-15
+V100887,PT Utama Lestari Proteksi,060403294904016,Indonesia,Palembang,Distributor,2017-04-28
+V100888,Delta Rho Safety Systems FZE,FRN-853354827,United Arab Emirates,,Agent,2012-06-21
+V100889,PT Utama Pratama Safety Indonesia,066887113031160,Indonesia,Palembang,Agent,2012-08-27
+V100890,PT Daya Mitra Oilfield Services,152003140230153,Indonesia,Balikpapan,Service Contractor,2014-10-14
+V100891,Halcyon Drilling Pte Ltd,FRN-460964561,Singapore,,Service Contractor,2020-04-13
+V100892,Ironbridge Oilfield Services Inc,FRN-385050876,United States,,Service Contractor,2014-03-10
+V100893,PT Indo Kurnia Drilling,925032525674982,Indonesia,Jakarta,Service Contractor,2011-07-06
+V100894,Harbor Energy Services Sdn Bhd,FRN-338454733,Malaysia,,Service Contractor,2020-04-29
+V100895,Northstar Oilfield Services Inc,FRN-377707127,United States,,Service Contractor,2013-11-23
+V100896,"Corvex Energy Services Co., Ltd",FRN-165006858,China,,Service Contractor,2015-10-28
+V100897,Lumen Oilfield Services Pte Ltd,FRN-935806300,Singapore,,Service Contractor,2015-11-10
+V100898,PT Borneo Mulia Drilling,640086258006517,Indonesia,Palembang,Service Contractor,2018-06-06
+V100899,PT Teknik Buana Oilfield Services,129947559115106,Indonesia,Jakarta,Service Contractor,2015-08-16
+V100900,Pacific Well Services Pte Ltd,FRN-410516056,Singapore,,Service Contractor,2009-06-05
+V100901,"Orion Oilfield Services Co., Ltd",FRN-909034285,China,,Service Contractor,2016-08-16
+V100902,Westgate Oilfield Services Ltd,FRN-349075816,United Kingdom,,Service Contractor,2012-08-22
+V100903,"Ironbridge Energy Services Co., Ltd",FRN-718248884,South Korea,,Service Contractor,2015-03-25
+V100904,Orion Well Services Sdn Bhd,FRN-637289081,Malaysia,,Service Contractor,2010-05-21
+V100905,Trident Drilling Pte Ltd,FRN-704828128,Singapore,,Service Contractor,2009-08-11
+V100906,PT Kencana Rekayasa Oilfield Services,099305595754897,Indonesia,Bekasi,Service Contractor,2013-03-17
+V100907,Falcon Energy Services Ltd,FRN-287817806,United Kingdom,,Service Contractor,2018-03-21
+V100908,Lumen Well Services Pte Ltd,FRN-857365801,Singapore,,Service Contractor,2019-04-07
+V100909,"Trident Energy Services Co., Ltd",FRN-646698614,China,,Service Contractor,2016-10-30
+V100910,Falcon Energy Services Sdn Bhd,FRN-075673597,Malaysia,,Service Contractor,2010-11-05
+V100911,PT Yasa Abadi Energi Servis,298556858616758,Indonesia,Palembang,Service Contractor,2009-10-24
+V100912,Westgate Well Services Inc,FRN-976966612,United States,,Service Contractor,2010-10-09
+V100913,Sterling Energy Services Ltd,FRN-269317617,United Kingdom,,Service Contractor,2016-03-29
+V100914,Redwater Drilling Sdn Bhd,FRN-809793625,Malaysia,,Service Contractor,2017-06-23
+V100915,PT Daya Mandiri Well Services,745357706871470,Indonesia,Surabaya,Service Contractor,2010-11-20
+V100916,Harbor Well Services GmbH,FRN-794359650,Germany,,Service Contractor,2009-08-02
+V100917,Redwater Drilling Pte Ltd,FRN-197811350,Singapore,,Service Contractor,2014-06-29
+V100918,Cobalt Energy Services Pte Ltd,FRN-810405517,Singapore,,Service Contractor,2015-08-22
+V100919,Corvex Well Services Inc,FRN-264242649,United States,,Service Contractor,2013-10-09
+V100920,Atlas Oilfield Services Ltd,FRN-463910833,United Kingdom,,Service Contractor,2018-07-28
+V100921,Sterling Drilling Pte Ltd,FRN-143582064,Singapore,,Service Contractor,2010-04-15
+V100922,PT Kurnia Abadi Energi Servis,310368621345088,Indonesia,Jakarta,Service Contractor,2017-11-03
+V100923,Delta Rho Drilling Pte Ltd,FRN-858882214,Singapore,,Service Contractor,2013-02-09
+V100924,Corvex Drilling Pte Ltd,FRN-643677439,Singapore,,Service Contractor,2012-04-26
+V100925,PT Kurnia Teknik Drilling,078404249923674,Indonesia,Balikpapan,Service Contractor,2011-10-07
+V100926,Westgate Well Services FZE,FRN-600178186,United Arab Emirates,,Service Contractor,2013-06-05
+V100927,PT Tama Mulia Oilfield Services,936160090678383,Indonesia,Batam,Service Contractor,2017-04-30
+V100928,Sterling Drilling Inc,FRN-978641992,United States,,Service Contractor,2019-07-18
+V100929,Cobalt Oilfield Services Sdn Bhd,FRN-396157680,Malaysia,,Service Contractor,2008-09-01
+V100930,Harbor Drilling Ltd,FRN-832550072,United Kingdom,,Service Contractor,2016-05-29
+V100931,Falcon Well Services FZE,FRN-180656717,United Arab Emirates,,Service Contractor,2012-01-04
+V100932,Harbor Well Services Sdn Bhd,FRN-012404390,Malaysia,,Service Contractor,2014-08-16
+V100933,PT Daya Borneo Drilling,233261276593874,Indonesia,Jakarta,Service Contractor,2008-05-08
+V100934,Falcon Well Services Pte Ltd,FRN-101615123,Singapore,,Service Contractor,2009-04-14
+V100935,PT Pratama Utama Energi Servis,799874380984244,Indonesia,Jakarta,Service Contractor,2016-01-07
+V100936,"Westgate Drilling Co., Ltd",FRN-584109553,Japan,,Service Contractor,2009-02-08
+V100937,Summit Well Services Pte Ltd,FRN-415130442,Singapore,,Service Contractor,2019-07-25
+V100938,PT Cipta Karya Drilling,034284026737480,Indonesia,Surabaya,Service Contractor,2016-06-03
+V100939,Vanguard Drilling FZE,FRN-449289199,United Arab Emirates,,Service Contractor,2014-09-30
+V100940,"Summit Well Services Co., Ltd",FRN-565599013,Japan,,Service Contractor,2019-02-27
+V100941,PT Inti Indo Oilfield Services,220663180973492,Indonesia,Jakarta,Service Contractor,2019-09-04
+V100942,CV Petro Well Services,691029079355682,Indonesia,Jakarta,Service Contractor,2016-09-17
+V100943,PT Prima Megah Energi Servis,326939215883020,Indonesia,Jakarta,Service Contractor,2015-08-18
+V100944,PT Mitra Pilar Well Services,178592661317889,Indonesia,Jakarta,Service Contractor,2011-12-15
+V100945,PT Mitra Bumi Oilfield Services,910994749752909,Indonesia,Jakarta,Service Contractor,2018-05-24
+V100946,CV Citra Energi Servis,587055819183090,Indonesia,Jakarta,Service Contractor,2009-05-05
+V100947,PT Karya Tama Logistik,940428753207221,Indonesia,Jakarta,Service Contractor,2014-05-09
+V100948,PT Kencana Graha Pelayaran,876266840208745,Indonesia,Surabaya,Service Contractor,2015-10-02
+V100949,Crestline Offshore Pte Ltd,FRN-127476534,Singapore,,Service Contractor,2018-11-15
+V100950,PT Megah Mitra Logistik,864357001268099,Indonesia,Jakarta,Service Contractor,2013-05-18
+V100951,Strata Offshore Pte Ltd,FRN-619435149,Singapore,,Service Contractor,2009-04-03
+V100952,PT Rekayasa Dirgantara Pelayaran,993092631027693,Indonesia,Palembang,Service Contractor,2009-09-23
+V100953,PT Buana Energi Ekspres Logistik,956818197049081,Indonesia,Jakarta,Service Contractor,2014-02-08
+V100954,Westgate Aviation Pte Ltd,FRN-004742389,Singapore,,Service Contractor,2014-04-29
+V100955,PT Eka Graha Pelayaran,556416276603819,Indonesia,Jakarta,Service Contractor,2011-08-18
+V100956,PT Graha Nusa Pelayaran,112603867595038,Indonesia,Jakarta,Service Contractor,2008-12-16
+V100957,PT Yasa Sejahtera Transport,814300024694503,Indonesia,Balikpapan,Service Contractor,2011-04-11
+V100958,PT Wahana Daya Bahari,499110445422951,Indonesia,Balikpapan,Service Contractor,2016-11-17
+V100959,Atlas Aviation Inc,FRN-532780458,United States,,Service Contractor,2015-04-14
+V100960,"Westgate Offshore Co., Ltd",FRN-670865854,China,,Service Contractor,2010-05-25
+V100961,PT Rekayasa Andalan Logistik,678083744596066,Indonesia,Jakarta,Service Contractor,2009-06-29
+V100962,PT Eka Bahari Logistik,049814211661181,Indonesia,Bekasi,Service Contractor,2019-11-20
+V100963,Redwater Marine Services Pte Ltd,FRN-493987735,Singapore,,Service Contractor,2019-06-13
+V100964,Apex Marine Services Pte Ltd,FRN-877219853,Singapore,,Service Contractor,2014-11-27
+V100965,PT Garuda Lintas Transport,624509081536363,Indonesia,Jakarta,Service Contractor,2012-02-01
+V100966,Vanguard Logistics Pte Ltd,FRN-957848117,Singapore,,Service Contractor,2016-07-09
+V100967,CV Cipta Bahari,470414614952016,Indonesia,Surabaya,Service Contractor,2008-12-06
+V100968,PT Wahana Bahari Pelayaran,816592859265256,Indonesia,Palembang,Service Contractor,2011-11-04
+V100969,PT Rajawali Sriwijaya Bahari,226270059556563,Indonesia,Jakarta,Service Contractor,2010-12-08
+V100970,PT Abadi Sinar Transport,709327554469461,Indonesia,Tangerang,Service Contractor,2012-07-03
+V100971,PT Prima Buana Pelayaran,643686992868768,Indonesia,Surabaya,Service Contractor,2012-07-25
+V100972,PT Utama Daya Transport,812837820581561,Indonesia,Jakarta,Service Contractor,2020-07-21
+V100973,PT Tirta Eka Ekspres Logistik,498793396543557,Indonesia,Jakarta,Service Contractor,2013-01-28
+V100974,Corvex Aviation Pte Ltd,FRN-507922986,Singapore,,Service Contractor,2015-03-31
+V100975,"Keystone Aviation Co., Ltd",FRN-119912849,Japan,,Service Contractor,2008-02-27
+V100976,PT Teknik Baja Transport,579602341707052,Indonesia,Jakarta,Service Contractor,2008-08-13
+V100977,Summit Logistics Pte Ltd,FRN-625556794,Singapore,,Service Contractor,2010-05-14
+V100978,Sterling Offshore Pte Ltd,FRN-894162714,Singapore,,Service Contractor,2013-02-14
+V100979,PT Nusantara Prima Transport,213001487446397,Indonesia,Balikpapan,Service Contractor,2014-09-23
+V100980,Westgate Logistics Sdn Bhd,FRN-721718780,Malaysia,,Service Contractor,2019-05-01
+V100981,CV Citra Logistik,474107881624639,Indonesia,Palembang,Service Contractor,2011-05-19
+V100982,PT Mulia Sejahtera Pelayaran,954514034249792,Indonesia,Palembang,Service Contractor,2015-10-20
+V100983,PT Karya Buana Logistik,339596353403200,Indonesia,Palembang,Service Contractor,2012-06-26
+V100984,PT Kurnia Lestari Bahari,113720705111376,Indonesia,Palembang,Service Contractor,2014-04-20
+V100985,CV Jaya Ekspres Logistik,635769928004928,Indonesia,Jakarta,Service Contractor,2016-07-01
+V100986,Bluefin Aviation Pte Ltd,FRN-590901055,Singapore,,Service Contractor,2018-12-02
+V100987,"Apex Logistics Co., Ltd",FRN-729914785,Japan,,Service Contractor,2017-05-24
+V100988,CV Sriwijaya Transport,494583806635168,Indonesia,Jakarta,Service Contractor,2011-01-06
+V100989,Corvex Marine Services Ltd,FRN-251863947,United Kingdom,,Service Contractor,2014-10-10
+V100990,PT Andalan Samudra Transport,602241650646007,Indonesia,Tangerang,Service Contractor,2012-06-30
+V100991,PT Baja Sejahtera Bahari,841082770005752,Indonesia,Balikpapan,Service Contractor,2013-04-14
+V100992,Keystone Logistics Inc,FRN-337389487,United States,,Service Contractor,2017-11-02
+V100993,PT Lestari Sakti Ekspres Logistik,406258164194986,Indonesia,Jakarta,Service Contractor,2013-05-10
+V100994,CV Sentosa Logistik,603304064211153,Indonesia,Bekasi,Service Contractor,2013-09-07
+V100995,PT Petro Dirgantara Logistik,258023005171847,Indonesia,Jakarta,Service Contractor,2011-09-26
+V100996,PT Nusa Mitra Ekspres Logistik,913590976206285,Indonesia,Bekasi,Service Contractor,2013-03-26
+V100997,"Northstar Offshore Co., Ltd",FRN-073081748,China,,Service Contractor,2020-06-23
+V100998,PT Perkasa Pilar Ekspres Logistik,992949523345424,Indonesia,Jakarta,Service Contractor,2012-05-16
+V100999,Falcon Logistics Pte Ltd,FRN-340537033,Singapore,,Service Contractor,2009-08-10
+V101000,PT Samudra Sarana Pelayaran,948004063670584,Indonesia,Palembang,Service Contractor,2008-01-10
+V101001,PT Lintas Teknik Transport,205132978648451,Indonesia,Surabaya,Service Contractor,2018-01-28
+V101002,CV Dirgantara Ekspres Logistik,174937126912507,Indonesia,Surabaya,Service Contractor,2009-08-26
+V101003,Orion Marine Services Pte Ltd,FRN-961707248,Singapore,,Service Contractor,2011-10-05
+V101004,CV Sinar Logistik,294981464728506,Indonesia,Balikpapan,Service Contractor,2008-11-12
+V101005,PT Sentosa Persada Logistik,726311196637661,Indonesia,Jakarta,Service Contractor,2018-11-09
+V101006,PT Sriwijaya Bumi Pelayaran,118085421409473,Indonesia,Bekasi,Service Contractor,2009-01-17
+V101007,PT Lintas Prima Pelayaran,663181274139837,Indonesia,Surabaya,Service Contractor,2019-10-12
+V101008,CV Borneo Bahari,852167937225156,Indonesia,Palembang,Service Contractor,2015-12-10
+V101009,PT Cipta Pilar Logistik,150525601485833,Indonesia,Jakarta,Service Contractor,2015-11-10
+V101010,PT Sakti Prima Transport,026217474115650,Indonesia,Jakarta,Service Contractor,2013-01-26
+V101011,PT Sarana Sentosa Transport,898943434226852,Indonesia,Surabaya,Service Contractor,2018-07-12
+V101012,CV Pilar Ekspres Logistik,589934240933843,Indonesia,Tangerang,Service Contractor,2009-11-01
+V101013,CV Abadi Logistik,522824002157819,Indonesia,Jakarta,Service Contractor,2018-11-07
+V101014,CV Bumi Transport,659928322394208,Indonesia,Palembang,Service Contractor,2020-06-12
+V101015,PT Baja Eka Pelayaran,881879234813870,Indonesia,Bekasi,Service Contractor,2012-01-22
+V101016,PT Tirta Cipta Transport,472016639315146,Indonesia,Jakarta,Service Contractor,2015-12-18
+V101017,PT Persada Sejahtera Ekspres Logistik,111811270950625,Indonesia,Bekasi,Service Contractor,2009-02-28
+V101018,PT Mulia Graha Logistik,862894067356463,Indonesia,Palembang,Service Contractor,2010-04-14
+V101019,PT Nusantara Patra Transport,319631779975658,Indonesia,Jakarta,Service Contractor,2020-02-05
+V101020,CV Mandiri Ekspres Logistik,982327774423460,Indonesia,Jakarta,Service Contractor,2014-07-11
+V101021,PT Abadi Arta Logistik,979350848869217,Indonesia,Bekasi,Service Contractor,2017-04-17
+V101022,PT Samudra Tirta Ekspres Logistik,061324954654659,Indonesia,Jakarta,Service Contractor,2014-10-17
+V101023,PT Kencana Indo Pelayaran,385529589922658,Indonesia,Jakarta,Service Contractor,2018-12-29
+V101024,PT Tama Nusantara Transport,148399788815942,Indonesia,Palembang,Service Contractor,2011-11-08
+V101025,PT Harapan Wahana Logistik,159970834500616,Indonesia,Balikpapan,Service Contractor,2008-02-07
+V101026,PT Patra Baja Transport,671199740506341,Indonesia,Jakarta,Service Contractor,2016-12-11
+V101027,PT Sejahtera Sarana Transport,147534930886611,Indonesia,Tangerang,Service Contractor,2017-10-03
+V101028,PT Sriwijaya Mandiri Bahari,565418411775398,Indonesia,Balikpapan,Service Contractor,2018-05-24
+V101029,PT Rekayasa Garuda Logistik,107645129789071,Indonesia,Balikpapan,Service Contractor,2017-10-04
+V101030,PT Lestari Tirta Transport,633307167323558,Indonesia,Palembang,Service Contractor,2008-10-28
+V101031,PT Cipta Bahari Ekspres Logistik,720587369847901,Indonesia,Balikpapan,Service Contractor,2017-05-07
+V101032,PT Sarana Borneo Transport,723583818606855,Indonesia,Jakarta,Service Contractor,2016-06-29
+V101033,Redwater Inspection Inc,FRN-015068406,United States,,Service Contractor,2020-07-13
+V101034,"Halcyon Engineering Co., Ltd",FRN-907725223,South Korea,,Service Contractor,2012-10-25
+V101035,CV Kencana Inspeksi,232534326602988,Indonesia,Jakarta,Service Contractor,2019-09-02
+V101036,PT Baja Sakti Engineering,736264341595782,Indonesia,Jakarta,Service Contractor,2014-05-25
+V101037,PT Sarana Lestari Kontraktor,652117170228168,Indonesia,Jakarta,Service Contractor,2019-03-15
+V101038,PT Bumi Arta Konstruksi,824773098788027,Indonesia,Surabaya,Service Contractor,2013-10-29
+V101039,PT Indo Patra Engineering,283078339142142,Indonesia,Jakarta,Service Contractor,2012-08-01
+V101040,PT Nusa Cipta Rekayasa,329780008805705,Indonesia,Jakarta,Service Contractor,2017-02-21
+V101041,CV Pilar Engineering,659903443084023,Indonesia,Palembang,Service Contractor,2010-03-15
+V101042,"Meridian Offshore Construction Co., Ltd",FRN-425291674,South Korea,,Service Contractor,2015-01-21
+V101043,PT Kurnia Nusantara Engineering,833004981757372,Indonesia,Balikpapan,Service Contractor,2013-08-14
+V101044,PT Mandiri Lestari Kontraktor,561311198671240,Indonesia,Balikpapan,Service Contractor,2017-06-13
+V101045,CV Garuda Kontraktor,030537406544730,Indonesia,Jakarta,Service Contractor,2008-03-07
+V101046,PT Graha Perkasa Konstruksi,373679421600602,Indonesia,Jakarta,Service Contractor,2018-07-31
+V101047,Cobalt Engineering Pte Ltd,FRN-401044828,Singapore,,Service Contractor,2015-09-06
+V101048,PT Gemilang Patra Engineering,571963951139838,Indonesia,Jakarta,Service Contractor,2017-03-06
+V101049,PT Bumi Yasa Rekayasa,612661488127658,Indonesia,Balikpapan,Service Contractor,2012-02-25
+V101050,CV Perkasa Kontraktor,433845283469596,Indonesia,Balikpapan,Service Contractor,2010-11-12
+V101051,PT Teknik Nusa Engineering,807223000826638,Indonesia,Jakarta,Service Contractor,2008-01-25
+V101052,Ironbridge Offshore Construction Sdn Bhd,FRN-270356319,Malaysia,,Service Contractor,2019-08-25
+V101053,CV Rajawali Konstruksi,083599397162191,Indonesia,Batam,Service Contractor,2019-11-12
+V101054,PT Sinar Mulia Konstruksi,710290218145535,Indonesia,Palembang,Service Contractor,2009-04-09
+V101055,PT Dirgantara Garuda Konstruksi,617585764745444,Indonesia,Balikpapan,Service Contractor,2013-04-22
+V101056,Ironbridge Inspection Sdn Bhd,FRN-240054195,Malaysia,,Service Contractor,2019-05-28
+V101057,PT Persada Sakti Konstruksi,081720299993114,Indonesia,Balikpapan,Service Contractor,2018-11-06
+V101058,PT Citra Graha Inspeksi,552639785976240,Indonesia,Jakarta,Service Contractor,2015-01-07
+V101059,Falcon Inspection Pte Ltd,FRN-721205853,Singapore,,Service Contractor,2014-12-06
+V101060,PT Persada Konstruksi,112179358449000,Indonesia,Jakarta,Service Contractor,2009-03-03
+V101061,PT Bahari Rajawali Engineering,250698711586460,Indonesia,Balikpapan,Service Contractor,2012-10-22
+V101062,PT Utama Dirgantara Engineering,596328203744592,Indonesia,Palembang,Service Contractor,2010-02-28
+V101063,PT Arta Makmur Kontraktor,485536247101781,Indonesia,Jakarta,Service Contractor,2010-09-22
+V101064,PT Mitra Utama Engineering,904009913712722,Indonesia,Jakarta,Service Contractor,2010-10-13
+V101065,PT Andalan Tirta Kontraktor,102425081871243,Indonesia,Tangerang,Service Contractor,2017-01-17
+V101066,Lumen Inspection Pte Ltd,FRN-088220742,Singapore,,Service Contractor,2010-01-20
+V101067,PT Dirgantara Arta Inspeksi,753218291629630,Indonesia,Jakarta,Service Contractor,2010-06-25
+V101068,Keystone Engineering Pte Ltd,FRN-193745456,Singapore,,Service Contractor,2011-06-23
+V101069,PT Sakti Bahari Rekayasa,501099461147977,Indonesia,Balikpapan,Service Contractor,2019-10-12
+V101070,PT Indo Sakti Konstruksi,741798495484370,Indonesia,Palembang,Service Contractor,2014-04-01
+V101071,PT Cipta Teknik Inspeksi,301566016673423,Indonesia,Batam,Service Contractor,2018-07-01
+V101072,PT Kencana Daya Kontraktor,615156707727907,Indonesia,Jakarta,Service Contractor,2015-01-22
+V101073,PT Bumi Megah Kontraktor,277988747665236,Indonesia,Jakarta,Service Contractor,2014-11-25
+V101074,PT Pratama Lestari Rekayasa,719189044459231,Indonesia,Jakarta,Service Contractor,2010-12-09
+V101075,PT Garuda Lestari Inspeksi,423758874064161,Indonesia,Jakarta,Service Contractor,2017-03-10
+V101076,PT Graha Abadi Konstruksi,151613908035977,Indonesia,Palembang,Service Contractor,2019-12-07
+V101077,PT Indo Dirgantara Engineering,828981766738247,Indonesia,Palembang,Service Contractor,2010-11-29
+V101078,PT Wahana Indo Konstruksi,776671610030796,Indonesia,Surabaya,Service Contractor,2009-06-21
+V101079,PT Graha Lintas Konstruksi,633380198420027,Indonesia,Jakarta,Service Contractor,2014-03-16
+V101080,PT Tirta Pratama Konstruksi,841700206631847,Indonesia,Jakarta,Service Contractor,2019-08-24
+V101081,PT Inti Rajawali Kontraktor,412103383970098,Indonesia,Bekasi,Service Contractor,2017-05-15
+V101082,Granite Offshore Construction Pte Ltd,FRN-355353382,Singapore,,Service Contractor,2019-11-19
+V101083,PT Yasa Lintas Inspeksi,938685234397667,Indonesia,Jakarta,Service Contractor,2011-05-03
+V101084,PT Samudra Sinar Konstruksi,666542514245617,Indonesia,Balikpapan,Service Contractor,2015-02-02
+V101085,Ironbridge Offshore Construction Pte Ltd,FRN-844737656,Singapore,,Service Contractor,2012-12-20
+V101086,PT Mitra Sinar Kontraktor,259334043480464,Indonesia,Batam,Service Contractor,2016-04-29
+V101087,PT Andalan Karya Kontraktor,154391179568677,Indonesia,Jakarta,Service Contractor,2019-11-27
+V101088,PT Eka Megah Kontraktor,773140738457954,Indonesia,Jakarta,Service Contractor,2017-06-30
+V101089,Halcyon Offshore Construction Pte Ltd,FRN-683448203,Singapore,,Service Contractor,2013-07-08
+V101090,CV Citra Kontraktor,374537740274593,Indonesia,Jakarta,Service Contractor,2009-06-16
+V101091,PT Patra Engineering,610820054637078,Indonesia,Batam,Service Contractor,2009-06-30
+V101092,PT Eka Bumi Konstruksi,080818355323132,Indonesia,Batam,Service Contractor,2013-02-04
+V101093,PT Petro Rajawali Kontraktor,268935469056065,Indonesia,Bekasi,Service Contractor,2012-04-14
+V101094,PT Citra Sinar Inspeksi,980426760281841,Indonesia,Surabaya,Service Contractor,2019-04-04
+V101095,PT Citra Patra Inspeksi,887620216159009,Indonesia,Jakarta,Service Contractor,2010-09-30
+V101096,PT Samudra Cipta Kontraktor,907406677109478,Indonesia,Surabaya,Service Contractor,2009-01-09
+V101097,PT Perkasa Sentosa Rekayasa,459490813677460,Indonesia,Tangerang,Service Contractor,2008-01-07
+V101098,PT Patra Dirgantara Engineering,476857494654951,Indonesia,Jakarta,Service Contractor,2018-12-29
+V101099,PT Andalan Graha Konstruksi,040476922773463,Indonesia,Palembang,Service Contractor,2020-02-10
+V101100,PT Karya Sinar Konstruksi,322989096934704,Indonesia,Jakarta,Service Contractor,2010-11-08
+V101101,PT Karya Makmur Kontraktor,767762936998853,Indonesia,Jakarta,Service Contractor,2013-03-10
+V101102,"Orion Offshore Construction Co., Ltd",FRN-379663544,South Korea,,Service Contractor,2011-06-12
+V101103,Cobalt Inspection Inc,FRN-758549793,United States,,Service Contractor,2013-09-17
+V101104,PT Garuda Nusa Engineering,452035440618485,Indonesia,Jakarta,Service Contractor,2008-04-27
+V101105,Corvex Offshore Construction Inc,FRN-421239483,United States,,Service Contractor,2008-06-20
+V101106,PT Harapan Inti Konstruksi,375465922639177,Indonesia,Balikpapan,Service Contractor,2012-08-23
+V101107,CV Harapan Konstruksi,977798282122496,Indonesia,Jakarta,Service Contractor,2012-07-21
+V101108,PT Inti Gemilang Engineering,859953944474392,Indonesia,Batam,Service Contractor,2008-03-29
+V101109,PT Wahana Inti Konstruksi,786190274980414,Indonesia,Balikpapan,Service Contractor,2009-03-02
+V101110,PT Lestari Indo Engineering,153946666977141,Indonesia,Balikpapan,Service Contractor,2017-09-21
+V101111,PT Kurnia Tama Inspeksi,971921385574351,Indonesia,Tangerang,Service Contractor,2008-10-04
+V101112,PT Persada Buana Inspeksi,643659792303492,Indonesia,Jakarta,Service Contractor,2009-07-31
+V101113,PT Cipta Baja Engineering,908258064523744,Indonesia,Balikpapan,Service Contractor,2015-01-13
+V101114,PT Yasa Sinar Konstruksi,645347429910205,Indonesia,Samarinda,Service Contractor,2018-04-15
+V101115,Northstar Inspection Inc,FRN-011069855,United States,,Service Contractor,2019-05-05
+V101116,PT Mulia Graha Konstruksi,213666294832242,Indonesia,Jakarta,Service Contractor,2013-05-19
+V101117,CV Indo Rekayasa,153367560990843,Indonesia,Palembang,Service Contractor,2011-03-08
+V101118,PT Buana Karya Kontraktor,993574681628240,Indonesia,Jakarta,Service Contractor,2017-02-28
+V101119,Trident Inspection Inc,FRN-335420569,United States,,Service Contractor,2014-09-07
+V101120,PT Sinar Wahana Kontraktor,545053156190142,Indonesia,Jakarta,Service Contractor,2010-02-13
+V101121,CV Dirgantara Konstruksi,105943467037601,Indonesia,Palembang,Service Contractor,2013-05-04
+V101122,CV Perkasa Rekayasa,744264226509240,Indonesia,Batam,Service Contractor,2014-03-02
+V101123,Pacific Inspection Inc,FRN-622367565,United States,,Service Contractor,2015-12-13
+V101124,CV Borneo Kontraktor,668240160442719,Indonesia,Samarinda,Service Contractor,2011-06-04
+V101125,Lumen Inspection Ltd,FRN-696307542,United Kingdom,,Service Contractor,2019-08-02
+V101126,PT Pratama Gemilang Konstruksi,187703419200255,Indonesia,Jakarta,Service Contractor,2017-09-21
+V101127,PT Citra Bahari Inspeksi,139207231603348,Indonesia,Bekasi,Service Contractor,2009-12-11
+V101128,PT Abadi Perkasa Kontraktor,617651961966435,Indonesia,Bekasi,Service Contractor,2011-05-22
+V101129,PT Sinar Samudra Rekayasa,344636441807174,Indonesia,Jakarta,Service Contractor,2015-08-01
+V101130,PT Tama Tirta Konstruksi,492032117597629,Indonesia,Batam,Service Contractor,2018-04-04
+V101131,PT Tama Teknik Engineering,343765941864627,Indonesia,Jakarta,Service Contractor,2019-01-10
+V101132,"Westgate Inspection Co., Ltd",FRN-191604957,China,,Service Contractor,2014-12-05
+V101133,PT Garuda Samudra Engineering,659215388775315,Indonesia,Samarinda,Service Contractor,2015-06-17
+V101134,CV Bumi Engineering,052648400699145,Indonesia,Bekasi,Service Contractor,2012-01-05
+V101135,CV Sriwijaya Konstruksi,213561510752707,Indonesia,Surabaya,Service Contractor,2012-02-16
+V101136,PT Tirta Pratama Engineering,878156178607909,Indonesia,Balikpapan,Service Contractor,2011-08-01
+V101137,PT Sakti Inti Inspeksi,262500535523899,Indonesia,Palembang,Service Contractor,2008-10-29
+V101138,PT Sejahtera Pilar Jasa Utama,773084872815045,Indonesia,Surabaya,Service Contractor,2015-11-26
+V101139,PT Nusa Karya Medika,057265437911251,Indonesia,Batam,Service Contractor,2014-10-18
+V101140,PT Sakti Bumi Katering,624274274089467,Indonesia,Jakarta,Service Contractor,2012-12-18
+V101141,PT Andalan Sarana Katering,210367664652842,Indonesia,Jakarta,Service Contractor,2014-07-07
+V101142,PT Citra Inti Katering,421093033396362,Indonesia,Palembang,Service Contractor,2015-06-23
+V101143,CV Pratama Servis,175331167050207,Indonesia,Batam,Service Contractor,2012-12-09
+V101144,PT Prima Bahari Lingkungan,167172611586361,Indonesia,Surabaya,Service Contractor,2014-04-07
+V101145,PT Sinar Tirta Katering,486829853845523,Indonesia,Jakarta,Service Contractor,2012-04-17
+V101146,PT Nusantara Mitra Katering,631974178196640,Indonesia,Jakarta,Service Contractor,2019-12-11
+V101147,PT Sinar Tama Lingkungan,803772310973039,Indonesia,Balikpapan,Service Contractor,2009-01-03
+V101148,PT Sentosa Sarana Katering,162804603470621,Indonesia,Surabaya,Service Contractor,2011-04-27
+V101149,PT Buana Pratama Katering,718291479536905,Indonesia,Palembang,Service Contractor,2012-05-27
+V101150,PT Cipta Citra Lingkungan,580757984781347,Indonesia,Balikpapan,Service Contractor,2018-08-24
+V101151,PT Rajawali Persada Katering,478177899506417,Indonesia,Jakarta,Service Contractor,2015-01-21
+V101152,PT Lestari Graha Lingkungan,113089058507323,Indonesia,Samarinda,Service Contractor,2008-10-26
+V101153,PT Andalan Daya Servis,423892364747373,Indonesia,Balikpapan,Service Contractor,2020-01-14
+V101154,PT Perkasa Sentosa Medika,471017551866581,Indonesia,Jakarta,Service Contractor,2012-05-07
+V101155,PT Sarana Dirgantara Medika,226587006552352,Indonesia,Palembang,Service Contractor,2018-07-24
+V101156,PT Energi Citra Katering,130004361056527,Indonesia,Palembang,Service Contractor,2011-04-22
+V101157,PT Abadi Servis,248390913989749,Indonesia,Samarinda,Service Contractor,2012-03-19
+V101158,PT Borneo Sejahtera Medika,746824676449098,Indonesia,Bekasi,Service Contractor,2019-01-04
+V101159,PT Eka Rajawali Lingkungan,326628521579688,Indonesia,Tangerang,Service Contractor,2018-09-19
+V101160,PT Tirta Samudra Katering,250224226311919,Indonesia,Jakarta,Service Contractor,2008-03-30
+V101161,PT Lintas Servis,974168569979056,Indonesia,Bekasi,Service Contractor,2013-05-27
+V101162,PT Perkasa Patra Jasa Utama,211060492522559,Indonesia,Bekasi,Service Contractor,2013-05-21
+V101163,PT Lestari Wahana Medika,597976613918160,Indonesia,Samarinda,Service Contractor,2011-11-24
+V101164,CV Cipta Lingkungan,433596387716927,Indonesia,Jakarta,Service Contractor,2014-11-01
+V101165,CV Sakti Katering,825118619531054,Indonesia,Balikpapan,Service Contractor,2013-12-23
+V101166,PT Mitra Prima Jasa Utama,153652155153819,Indonesia,Balikpapan,Service Contractor,2014-04-11
+V101167,CV Utama Katering,005777588792897,Indonesia,Jakarta,Service Contractor,2012-04-16
+V101168,PT Sarana Tirta Medika,098936854549997,Indonesia,Surabaya,Service Contractor,2012-03-04
+V101169,PT Eka Cipta Jasa Utama,097790782721260,Indonesia,Tangerang,Service Contractor,2011-10-30
+V101170,PT Utama Kencana Lingkungan,628253418825746,Indonesia,Tangerang,Service Contractor,2018-08-20
+V101171,PT Sentosa Mandiri Medika,374945576217927,Indonesia,Jakarta,Service Contractor,2018-03-31
+V101172,PT Mitra Gemilang Medika,832658839045447,Indonesia,Tangerang,Service Contractor,2013-01-16
+V101173,CV Citra Servis,511794337267467,Indonesia,Jakarta,Service Contractor,2015-03-27
+V101174,PT Graha Mitra Lingkungan,157912940911616,Indonesia,Jakarta,Service Contractor,2014-12-04
+V101175,CV Lestari Katering,598839111326530,Indonesia,Jakarta,Service Contractor,2020-04-04
+V101176,PT Persada Arta Lingkungan,800618446880634,Indonesia,Jakarta,Service Contractor,2008-01-26
+V101177,PT Sejahtera Cipta Servis,793388000872051,Indonesia,Jakarta,Service Contractor,2016-04-12
+V101178,PT Gemilang Kurnia Katering,599367097058348,Indonesia,Balikpapan,Service Contractor,2014-06-20
+V101179,PT Gemilang Prima Teknologi,959026369110725,Indonesia,Batam,Manufacturer,2020-03-25
+V101180,"Orion Software Co., Ltd",FRN-485149709,Japan,,Agent,2016-07-02
+V101181,PT Pilar Yasa Data Solusi,291033473249061,Indonesia,Bekasi,Distributor,2014-08-25
+V101182,CV Baja Teknologi,537350472634339,Indonesia,Balikpapan,Agent,2011-08-26
+V101183,"Crestline Networks Co., Ltd",FRN-261579283,Japan,,Distributor,2015-03-07
+V101184,PT Megah Rekayasa Teknologi,627708873694268,Indonesia,Jakarta,Agent,2019-01-28
+V101185,PT Arta Perkasa Telematika,748964170767768,Indonesia,Surabaya,Distributor,2020-06-20
+V101186,PT Kencana Wahana Teknologi,316883221633795,Indonesia,Samarinda,Distributor,2010-02-22
+V101187,Atlas Networks GmbH,FRN-090292431,Germany,,Distributor,2018-12-09
+V101188,PT Sinar Eka Komunikasi,491962651640506,Indonesia,Jakarta,Agent,2008-08-24
+V101189,PT Mitra Samudra Data Solusi,077266627060917,Indonesia,Surabaya,Agent,2011-10-06
+V101190,PT Perkasa Teknologi,191825538968996,Indonesia,Jakarta,Distributor,2019-08-27
+V101191,PT Petro Teknologi,645246553788768,Indonesia,Bekasi,Agent,2012-10-13
+V101192,PT Daya Bumi Komunikasi,606170748984456,Indonesia,Palembang,Distributor,2019-10-31
+V101193,PT Bahari Rajawali Data Solusi,681994402322242,Indonesia,Jakarta,Distributor,2017-08-30
+V101194,PT Kurnia Pratama Data Solusi,507194968202247,Indonesia,Jakarta,Distributor,2013-07-25
+V101195,"Cobalt Networks Co., Ltd",FRN-355107650,China,,Distributor,2014-09-18
+V101196,PT Petro Kencana Teknologi,947334504624976,Indonesia,Jakarta,Distributor,2016-11-27
+V101197,Redwater Technologies Sdn Bhd,FRN-825469236,Malaysia,,Distributor,2008-07-01
+V101198,PT Kurnia Sriwijaya Data Solusi,496223278558983,Indonesia,Jakarta,Agent,2010-02-14
+V101199,PT Patra Persada Teknologi,810925632646163,Indonesia,Jakarta,Agent,2020-05-17
+V101200,PT Samudra Graha Teknologi,977384669176699,Indonesia,Palembang,Distributor,2012-10-12
+V101201,CV Graha Telematika,733635524162941,Indonesia,Balikpapan,Agent,2014-06-24
+V101202,PT Tama Teknik Komunikasi,887957600832539,Indonesia,Balikpapan,Agent,2015-02-19
+V101203,Apex Technologies Pte Ltd,FRN-915887804,Singapore,,Agent,2010-10-15
+V101204,Pacific Software Pte Ltd,FRN-569438495,Singapore,,Distributor,2012-12-01
+V101205,PT Nusantara Pilar Telematika,724883742826890,Indonesia,Samarinda,Manufacturer,2016-09-18
+V101206,PT Nusantara Daya Data Solusi,405246518671281,Indonesia,Surabaya,Manufacturer,2008-08-15
+V101207,PT Samudra Nusantara Teknologi,425775480554749,Indonesia,Jakarta,Distributor,2018-03-19
+V101208,Northstar Technologies Sdn Bhd,FRN-284066343,Malaysia,,Distributor,2016-09-23
+V101209,PT Mandiri Citra Telematika,399950035204898,Indonesia,Jakarta,Agent,2012-05-11
+V101210,Meridian Technologies Sdn Bhd,FRN-846453018,Malaysia,,Distributor,2008-10-27
+V101211,"Granite Software Co., Ltd",FRN-300049153,China,,Distributor,2016-12-12
+V101212,CV Eka Teknologi,497806169846686,Indonesia,Jakarta,Distributor,2018-03-01
+V101213,PT Citra Sinar Komunikasi,670772944451656,Indonesia,Jakarta,Distributor,2011-05-05
+V101214,Redwater Software Inc,FRN-299601531,United States,,Manufacturer,2016-12-14
+V101215,Bluefin Technologies Sdn Bhd,FRN-504799059,Malaysia,,Distributor,2018-01-24
+V101216,Strata Technologies Inc,FRN-579513456,United States,,Distributor,2016-07-20
+V101217,Ironbridge Networks Pte Ltd,FRN-975150144,Singapore,,Manufacturer,2013-12-03
+V101218,Ironbridge Software Inc,FRN-326367463,United States,,Distributor,2012-01-07
+V101219,PT Bumi Inti Komunikasi,727994843871424,Indonesia,Jakarta,Agent,2011-10-27
+V101220,PT Sejahtera Jaya Komunikasi,428693808135332,Indonesia,Surabaya,Distributor,2020-02-21
+V101221,PT Megah Graha Data Solusi,239538408000769,Indonesia,Surabaya,Distributor,2008-03-02
+V101222,PT Inti Graha Data Solusi,035186499502174,Indonesia,Jakarta,Distributor,2020-07-20
+V101223,Summit Technologies Sdn Bhd,FRN-455017670,Malaysia,,Distributor,2012-04-14
+V101224,PT Perkasa Tirta Komunikasi,030708677789396,Indonesia,Jakarta,Distributor,2015-08-19
+V101225,PT Persada Wahana Komunikasi,238597386846696,Indonesia,Bekasi,Agent,2008-12-23
+V101226,CV Borneo Teknologi,019317362559380,Indonesia,Batam,Distributor,2008-10-28
+V101227,PT Pilar Lestari Telematika,426043800690872,Indonesia,Jakarta,Agent,2012-10-21
+V101228,PT Daya Nusantara Telematika,282843127285770,Indonesia,Surabaya,Manufacturer,2012-10-04
+V101229,PT Lintas Mitra Telematika,509559193010585,Indonesia,Bekasi,Distributor,2015-03-19
+V101230,PT Sejahtera Cipta Telematika,454664709212807,Indonesia,Jakarta,Agent,2015-11-04
+V101231,"Harbor Software Co., Ltd",FRN-883473670,Japan,,Distributor,2016-10-28
+V101232,CV Makmur Komunikasi,086790962225075,Indonesia,Jakarta,Distributor,2014-09-10
+V101233,PT Tama Makmur Kertas,582575334236903,Indonesia,Jakarta,Distributor,2012-11-28
+V101234,PT Prima Arta Kertas,021288372671282,Indonesia,Samarinda,Manufacturer,2015-11-14
+V101235,PT Makmur Rekayasa Wisata,854132803018972,Indonesia,Surabaya,Agent,2015-07-18
+V101236,CV Citra Kertas,576004249496648,Indonesia,Jakarta,Distributor,2015-11-13
+V101237,PT Citra Mitra Kertas,347016317217356,Indonesia,Jakarta,Distributor,2014-03-07
+V101238,CV Jaya Kertas,354768762899017,Indonesia,Jakarta,Distributor,2012-09-20
+V101239,PT Patra Baja Kertas,596639018836670,Indonesia,Jakarta,Distributor,2017-08-26
+V101240,PT Andalan Baja Properti,627544585087580,Indonesia,Jakarta,Manufacturer,2011-05-19
+V101241,PT Baja Prima Solusi,953981905759514,Indonesia,Jakarta,Distributor,2015-05-27
+V101242,PT Sejahtera Yasa Konsultan,416527208892475,Indonesia,Jakarta,Distributor,2015-02-27
+V101243,CV Graha Wisata,494104603748157,Indonesia,Balikpapan,Distributor,2013-07-07
+V101244,PT Gemilang Megah Solusi,409819399702812,Indonesia,Bekasi,Manufacturer,2014-01-10
+V101245,PT Prima Makmur Solusi,450381433627198,Indonesia,Jakarta,Distributor,2016-01-16
+V101246,PT Gemilang Graha Properti,127198133067273,Indonesia,Palembang,Distributor,2013-12-17
+V101247,PT Tirta Nusantara Konsultan,541650498284049,Indonesia,Jakarta,Distributor,2011-08-31
+V101248,PT Indo Megah Konsultan,052247850042221,Indonesia,Batam,Distributor,2010-07-12
+V101249,PT Samudra Wahana Kertas,342344750186315,Indonesia,Jakarta,Distributor,2019-06-12
+V101250,PT Eka Buana Konsultan,198968065674624,Indonesia,Batam,Agent,2019-01-07
+V101251,PT Lestari Nusantara Properti,702396282489348,Indonesia,Palembang,Manufacturer,2019-05-18
+V101252,PT Bumi Abadi Solusi,451218737453953,Indonesia,Samarinda,Distributor,2009-06-10
+V101253,"Delta Rho Advisory Co., Ltd",FRN-124197467,South Korea,,Manufacturer,2010-12-09
+V101254,PT Borneo Sinar Konsultan,421966664026525,Indonesia,Bekasi,Distributor,2011-01-28
+V101255,CV Sakti Properti,833068275429935,Indonesia,Jakarta,Agent,2016-11-21
+V101256,Summit Partners Sdn Bhd,FRN-964751385,Malaysia,,Distributor,2018-11-23
+V101257,Delta Rho Partners Inc,FRN-724548926,United States,,Distributor,2009-08-24
+V101258,PT Sejahtera Sakti Solusi,057047004523547,Indonesia,Jakarta,Manufacturer,2016-08-10
+V101259,PT Daya Pratama Solusi,047922412967294,Indonesia,Jakarta,Distributor,2016-01-06
+V101260,PT Kurnia Jaya Properti,527600508280903,Indonesia,Jakarta,Manufacturer,2014-10-23
+V101261,Falcon Partners Pte Ltd,FRN-777123763,Singapore,,Distributor,2020-07-21
+V101262,CV Makmur Konsultan,061032244897961,Indonesia,Jakarta,Distributor,2010-05-16
+V101263,PT Arta Harapan Kertas,340500060069562,Indonesia,Batam,Distributor,2016-05-26
+V101264,PT Rekayasa Arta Kertas,724410246671936,Indonesia,Jakarta,Manufacturer,2010-01-22
+V101265,PT Energi Eka Konsultan,776988479250490,Indonesia,Jakarta,Agent,2014-08-16
+V101266,"Harbor Consulting Co., Ltd",FRN-354967783,China,,Distributor,2013-05-06
+V101267,PT Baja Petro Kertas,145664676497309,Indonesia,Samarinda,Manufacturer,2012-05-04
+V101268,PT Sentosa Sriwijaya Wisata,840419142816126,Indonesia,Jakarta,Distributor,2015-12-02
+V101269,PT Sakti Nusa Wisata,534705209098925,Indonesia,Jakarta,Distributor,2020-06-25
+V101270,PT Tama Kurnia Konsultan,570823019602054,Indonesia,Jakarta,Distributor,2016-05-24
+V101271,CV Karya Wisata,179839999189619,Indonesia,Palembang,Manufacturer,2012-10-03
+V101272,PT Inti Borneo Kertas,125290182709775,Indonesia,Balikpapan,Manufacturer,2019-05-05
+V101273,PT Sakti Lintas Konsultan,307236871716545,Indonesia,Batam,Distributor,2012-10-29
+V101274,PT Sakti Sarana Properti,126257147166292,Indonesia,Jakarta,Agent,2016-01-27
+V101275,Granite Partners Pte Ltd,FRN-190813624,Singapore,,Manufacturer,2014-04-14
+V101276,PT Makmur Patra Wisata,950366672514029,Indonesia,Batam,Distributor,2010-04-08
+V101277,PT Perkasa Petro Kertas,294588428320619,Indonesia,Bekasi,Manufacturer,2017-07-27
+V101278,PT Makmur Mitra Kertas,769106140646857,Indonesia,Balikpapan,Manufacturer,2020-02-26
+V101279,"Trident Advisory Co., Ltd",FRN-356998446,South Korea,,Agent,2009-05-07
+V101280,PT Cipta Sentosa Kertas,766281770423971,Indonesia,Bekasi,Agent,2020-06-06
+V101281,PT Sarana Gemilang Kertas,892395627538471,Indonesia,Bekasi,Manufacturer,2011-05-21
+V101282,PT Mitra Baja Konsultan,686577649438820,Indonesia,Jakarta,Distributor,2014-09-14
+V101283,Atlas Partners Pte Ltd,FRN-731402626,Singapore,,Distributor,2015-04-13
+V101284,PT Garuda Rajawali Solusi,109875633009523,Indonesia,Jakarta,Manufacturer,2012-01-27
+V101285,PT Petro Pilar Konsultan,761910730633683,Indonesia,Jakarta,Manufacturer,2010-05-13
+V101286,PT Garuda Makmur Konsultan,263433307800177,Indonesia,Surabaya,Agent,2018-04-27
+V101287,Lumen Advisory Pte Ltd,FRN-661800054,Singapore,,Agent,2014-08-24
+V101288,PT Pratama Sinar Solusi,556846106727120,Indonesia,Jakarta,Distributor,2008-07-06
+V101289,PT Teknik Tirta Solusi,464248723021356,Indonesia,Surabaya,Manufacturer,2016-02-23
+V101290,PT Utama Lestari Properti,644411278773515,Indonesia,Jakarta,Manufacturer,2014-02-09
+V101291,PT Rajawali Citra Properti,955488189683393,Indonesia,Surabaya,Distributor,2011-01-02
+V101292,PT Sentosa Harapan Properti,228402363186748,Indonesia,Jakarta,Distributor,2019-09-08
+V101293,Summit Consulting Pte Ltd,FRN-433892223,Singapore,,Distributor,2011-06-13
+V101294,CV Tama Properti,518381433818219,Indonesia,Bekasi,Agent,2014-08-18
+V101295,PT Rajawali Arta Kertas,848932591620087,Indonesia,Balikpapan,Manufacturer,2016-03-05
+V101296,PT Eka Samudra Wisata,318811832840524,Indonesia,Bekasi,Agent,2013-03-11
+V101297,PT Lintas Abadi Wisata,224767583060715,Indonesia,Jakarta,Manufacturer,2013-06-06
+V101298,PT Tirta Kertas,434469308938170,Indonesia,Tangerang,Distributor,2008-02-08
+V101299,PT Gemilang Perkasa Konsultan,379757532399848,Indonesia,Balikpapan,Distributor,2012-09-18
+V101300,PT Garuda Jaya Kertas,302828693142399,Indonesia,Batam,Distributor,2019-03-12
+V101301,PT Pilar Kurnia Wisata,771654578812565,Indonesia,Palembang,Distributor,2019-09-13
+V101302,PT Nusantara Kurnia Kertas,074519566992994,Indonesia,Jakarta,Distributor,2016-04-10
+V101303,CV Eka Konsultan,152165255664819,Indonesia,Batam,Agent,2015-11-12
+V101304,CV Andalan Konsultan,138094234864420,Indonesia,Bekasi,Agent,2020-04-17
+V101305,PT Eka Cipta Solusi,988436695446612,Indonesia,Jakarta,Distributor,2010-10-15
+V101306,PT Karya Rajawali Konsultan,244879301755469,Indonesia,Balikpapan,Manufacturer,2016-01-08
+V101307,PT Baja Makmur Konsultan,380972315516279,Indonesia,Jakarta,Agent,2010-10-05
+V101308,PT Jaya Gemilang Konsultan,280410199129153,Indonesia,Palembang,Agent,2014-06-04
+V101309,PT Gemilang Mitra Kertas,616492645607805,Indonesia,Jakarta,Distributor,2015-06-19
+V101310,PT Cipta Prima Kertas,080097052539599,Indonesia,Jakarta,Agent,2008-02-20
+V101311,PT Sinar Graha Kertas,491367631727179,Indonesia,Jakarta,Agent,2015-03-14
+V101312,"Sakti Properti, CV",833068275429935,Indonesia,Jakarta,Agent,2020-12-31
+V101313,PT. Wahana Prima Supply,859500914436923,Indonesia,Bekasi,Distributor,2015-02-11
+V101314,P.T BAHARI RAJAWALI ENGINEERING,250698711586460,Indonesia,Balikpapan,Service Contractor,2018-11-18
+V101315,P.T BUANA MITRA INDUSTRI,192480477531928,Indonesia,Jakarta,Distributor,2020-03-16
+V101316,"PRIMA LESTARI INSTRUMENTASI, PT",959973367133829,Indonesia,Jakarta,Distributor,2020-12-31
+V101317,P.T PERKASA BUANA INSTRUMENTASI,350606917543572,Indonesia,Surabaya,Agent,2017-06-02
+V101318,"Jaya Engineering, CV",884204860819372,Indonesia,Jakarta,Distributor,2010-12-25
+V101319,"WAHANA REKAYASA TEKNIK, PT",109955927086560,Indonesia,Samarinda,Manufacturer,2017-07-06
+V101320,Meridian Industrial Supply Pte. Limited.,FRN-689879939,Singapore,,Distributor,2011-09-08
+V101321,GRANITE DRILLING PRODUCTS SDN BHD,FRN-020179951,Malaysia,,Distributor,2013-08-29
+V101322,"ANDALAN JAYA ENGINEERING, PT",825898610354109,Indonesia,Jakarta,Distributor,2020-12-31
+V101323,PT. Garuda Eka Teknik,021727939425460,Indonesia,Jakarta,Agent,2016-05-19
+V101324,P.T PERSADA SAKTI TEKNIK,397631906297123,Indonesia,Jakarta,Manufacturer,2012-04-12
+V101325,Redwater Drilling Sdn. Bhd.,FRN-809793625,Malaysia,,Service Contractor,2020-12-31
+V101326,"Corvex Pumps, Inc.",FRN-071184866,United States,,Distributor,2020-12-31
+V101327,"BORNEO ABADI POMPA INDONESIA, PT",115263454843150,Indonesia,Balikpapan,Agent,2018-03-02
+V101328,"Patra Teknik, CV",778483796295832,Indonesia,Jakarta,Agent,2015-04-21
+V101329,Halcyon Valve & Controls Sdn. Bhd.,FRN-785088086,Malaysia,,Distributor,2016-04-05
+V101330,COBALT ENGINEERING PTE LTD,FRN-401044828,Singapore,,Service Contractor,2020-12-31
+V101331,"Megah Industri, CV",871059400847771,Indonesia,Bekasi,Distributor,2020-12-31
+V101332,Northstar Safety Systems FZE (Branch),FRN-940188855,United Arab Emirates,,Distributor,2013-11-12
+V101333,"EKA WAHANA PROTEKSI, PT",865026109813746,Indonesia,Jakarta,Agent,2015-01-21
+V101334,"Granite Tubulars Co., Limited",FRN-374656388,China,,Distributor,2009-03-25
+V101335,"Northstar Industrial Co., Limited",FRN-153308358,China,,Manufacturer,2009-06-20
+V101336,TRIDENT PUMPS PTE LTD,FRN-622874574,Singapore,,Manufacturer,2014-07-20
+V101337,"HARBOR SPECIALTY CHEMICALS CO., LTD",FRN-684042211,Japan,,Distributor,2020-12-31
+V101338,"MITRA PRIMA JASA UTAMA, PT",153652155153819,Indonesia,Balikpapan,Service Contractor,2019-09-09
+V101339,"PERSADA NUSA INDUSTRI, PT",349035675490217,Indonesia,Jakarta,Distributor,2020-02-29
+V101340,P.T YASA ARTA INDUSTRI,171177914985108,Indonesia,Jakarta,Distributor,2011-02-12
+V101341,Delta Rho Valve & Controls Limited,FRN-214089211,United Kingdom,,Agent,2013-06-09
+V101342,LUMEN INSTRUMENTS LTD,FRN-777609101,United Kingdom,,Manufacturer,2018-06-19
+V101343,"SAKTI MAKMUR SUPPLY, PT",515176569670443,Indonesia,Jakarta,Distributor,2020-12-31
+V101344,P.T DIRGANTARA GARUDA KONSTRUKSI,617585764745444,Indonesia,Balikpapan,Service Contractor,2014-02-01
+V101345,P.T ENERGI ABADI POMPA INDONESIA,576515840809975,Indonesia,Balikpapan,Distributor,2011-09-03
+V101346,"MAKMUR ABADI SUPPLY, PT",065334128309399,Indonesia,Balikpapan,Agent,2020-12-31
+V101347,PT. Borneo Sejahtera Safety,728754295454000,Indonesia,Jakarta,Agent,2016-08-15
+V101348,"GARUDA LESTARI INSPEKSI, PT",423758874064161,Indonesia,Jakarta,Service Contractor,2020-12-31
+V101349,PT. Prima Buana Industri,096735142267458,Indonesia,Jakarta,Manufacturer,2010-06-19
+V101350,PT. Bumi Gemilang Proteksi,678641173822536,Indonesia,Jakarta,Distributor,2014-08-09
+V101351,TRIDENT TUBULARS FZE,FRN-589829304,United Arab Emirates,,Agent,2020-12-31
+V101352,"Tama Pompa Indonesia, CV",472412348866262,Indonesia,Jakarta,Distributor,2017-03-26
+V101353,Falcon Instruments Pte. Limited.,FRN-725959416,Singapore,,Manufacturer,2019-07-19
+V101354,"Baja Industri, CV",021281626659982,Indonesia,Jakarta,Distributor,2014-06-05
+V101355,WESTGATE OILFIELD SERVICES LTD,FRN-349075816,United Kingdom,,Service Contractor,2017-01-23
+V101356,MERIDIAN PROCESS SYSTEMS GMBH,FRN-406001037,Germany,,Manufacturer,2020-12-31
+V101357,"Makmur Instrumentasi, CV",645782514567138,Indonesia,Balikpapan,Agent,2020-12-31
+V101358,"RAJAWALI WAHANA ENGINEERING, PT",171046318750522,Indonesia,Jakarta,Distributor,2015-10-29
+V101359,Redwater Industrial Pte. Limited.,FRN-106055971,Singapore,,Agent,2015-02-08
+V101360,"NUSANTARA KURNIA KERTAS, PT",074519566992994,Indonesia,Jakarta,Distributor,2017-06-18
+V101361,P.T GRAHA TIRTA POMPA INDONESIA,045842047739476,Indonesia,Bekasi,Distributor,2020-12-31
+V101362,PT. Patra Harapan Engineering,066956952746243,Indonesia,Palembang,Manufacturer,2016-04-25
+V101363,PT. Prima Cipta Supply,822911746616124,Indonesia,Bekasi,Agent,2011-02-22
+V101364,"Perkasa Rekayasa, CV",744264226509240,Indonesia,Batam,Service Contractor,2014-11-16
+V101365,P.T INTI TAMA POMPA INDONESIA,730198140474897,Indonesia,Jakarta,Manufacturer,2012-08-17
+V101366,"CIPTA PERSADA TRADING, PT",332768470985305,Indonesia,Jakarta,Distributor,2016-08-28
+V101367,Crestline Completion Systems GmbH (Branch),FRN-975512150,Germany,,Manufacturer,2020-08-05
+V101368,P.T LESTARI BAHARI TRADING,563462076482990,Indonesia,Palembang,Distributor,2012-12-01
+V101369,"Energi Pompa Indonesia, CV",547487131681800,Indonesia,Jakarta,Distributor,2009-06-08
+V101370,WESTGATE SPECIALTY CHEMICALS LTD,FRN-927371454,United Kingdom,,Distributor,2009-03-22
+V101371,P.T MEGAH JAYA OILFIELD SUPPLY,598506979348510,Indonesia,Jakarta,Distributor,2014-07-10
+V101372,"Lestari Katering, CV",598839111326530,Indonesia,Jakarta,Service Contractor,2020-12-31
+V101373,"Persada Teknik, CV",914161093237584,Indonesia,Palembang,Agent,2020-12-31
+V101374,P.T NUSA KARYA MEDIKA,057265437911251,Indonesia,Batam,Service Contractor,2020-02-14
+V101375,"TIRTA BAHARI TRADING, PT",521645003447181,Indonesia,Batam,Distributor,2020-12-31
+V101376,PT. Wahana Nusa Instrumentasi,138596746436966,Indonesia,Jakarta,Agent,2011-11-28
+V101377,Strata Safety Systems Sdn. Bhd.,FRN-225043910,Malaysia,,Distributor,2016-07-20
+V101378,LUMEN COMPLETION SYSTEMS INC,FRN-167117758,United States,,Manufacturer,2020-08-31
+V101379,"MAKMUR MEGAH TRADING, PT",725886718173460,Indonesia,Jakarta,Distributor,2011-09-05
+V101380,TRIDENT TUBULARS INC,FRN-141997057,United States,,Manufacturer,2013-07-22
+V101381,Redwater Marine Services Pte. Limited.,FRN-493987735,Singapore,,Service Contractor,2020-12-31
+V101382,LUMEN INDUSTRIAL SUPPLY LTD,FRN-765687706,United Kingdom,,Distributor,2016-03-20
+V101383,"Northstar Pumps Co., Limited",FRN-802272677,China,,Distributor,2020-04-19

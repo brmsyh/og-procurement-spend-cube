@@ -1,0 +1,51 @@
+category_l1,category_l2,category_l3,unspsc_code,po_type
+Drilling & Completion Materials,OCTG,Casing,20122100,Material
+Drilling & Completion Materials,OCTG,Tubing,20122100,Material
+Drilling & Completion Materials,Drilling Tools,Drill Bits,20122300,Material
+Drilling & Completion Materials,Drilling Fluids,Mud Chemicals,12352300,Material
+Drilling & Completion Materials,Wellhead,Wellhead & Xmas Tree,20121700,Material
+Drilling & Completion Materials,Completion,Completion Equipment,20121600,Material
+Drilling & Completion Materials,Cementing,Cement & Additives,30111600,Material
+Production & Process Equipment,Valves,Valves,40141600,Material
+Production & Process Equipment,Rotating Equipment,Pumps & Spares,40151500,Material
+Production & Process Equipment,Rotating Equipment,Compressor Spares,40151600,Material
+Production & Process Equipment,Piping,Pipe & Fittings,40142000,Material
+Production & Process Equipment,Instrumentation,Instrumentation,41112200,Material
+Production & Process Equipment,Electrical,Electrical Equipment,39121000,Material
+Production Chemicals,Production Chemicals,Production Treating Chemicals,12352100,Material
+MRO & Consumables,Mechanical MRO,Bearings & Power Transmission,31171500,Material
+MRO & Consumables,Mechanical MRO,Gaskets & Seals,31181700,Material
+MRO & Consumables,Mechanical MRO,Fasteners,31161500,Material
+MRO & Consumables,General MRO,Tools & Hardware,27110000,Material
+MRO & Consumables,General MRO,Filters,40161500,Material
+Fuel & Lubricants,Fuel,Diesel / HSD,15101500,Material
+Fuel & Lubricants,Lubricants,Lubricants & Greases,15121500,Material
+HSE & Safety,PPE,Personal Protective Equipment,46180000,Material
+HSE & Safety,Safety Equipment,Fire & Gas Safety Equipment,46191600,Material
+Well & Drilling Services,Drilling Services,Drilling Rig Services,71121000,Service
+Well & Drilling Services,Well Services,Cementing Services,71121100,Service
+Well & Drilling Services,Well Services,Wireline & Logging,71121400,Service
+Well & Drilling Services,Well Services,Stimulation & Coiled Tubing,71122000,Service
+Well & Drilling Services,Drilling Services,Directional Drilling & MWD,71121200,Service
+Well & Drilling Services,Well Services,Well Testing & Mud Logging,71121500,Service
+"Marine, Aviation & Logistics",Marine,Vessel Charter,78111800,Service
+"Marine, Aviation & Logistics",Aviation,Helicopter Services,78111500,Service
+"Marine, Aviation & Logistics",Logistics,Freight & Forwarding,78101800,Service
+"Marine, Aviation & Logistics",Logistics,Customs & Port Handling,78121600,Service
+"Marine, Aviation & Logistics",Land Transport,Vehicle Rental & Land Transport,78111800,Service
+"Engineering, Construction & Maintenance",Engineering,Engineering Services,81101500,Service
+"Engineering, Construction & Maintenance",Construction,Construction & Fabrication,72141000,Service
+"Engineering, Construction & Maintenance",Inspection,Inspection & NDT,81141500,Service
+"Engineering, Construction & Maintenance",Maintenance,Maintenance Services,72101500,Service
+Facilities & Site Support,Camp Services,Catering & Camp Services,90101700,Service
+Facilities & Site Support,Security,Security Services,92121500,Service
+Facilities & Site Support,Environmental,Waste & Environmental Services,76121500,Service
+Facilities & Site Support,Medical,Medical Services,85101500,Service
+IT & Telecom,IT Hardware,IT Hardware,43211500,Material
+IT & Telecom,Software,Software & Licenses,43232000,Service
+IT & Telecom,Telecom,Telecom & Connectivity,83111500,Service
+Corporate & G&A,Office,Office Supplies,44120000,Material
+Corporate & G&A,Professional Services,Professional & Consulting Services,80101500,Service
+Corporate & G&A,Training,Training & Certification,86101700,Service
+Corporate & G&A,Travel,Travel & Accommodation,90121500,Service
+Corporate & G&A,Facility,Office Rent & Building Services,80131500,Service

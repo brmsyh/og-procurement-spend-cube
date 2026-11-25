@@ -1,0 +1,2001 @@
+line_id,category_l3_validated,reviewed_by
+7,Inspection & NDT,CM-Services
+168,Personal Protective Equipment,CM-Indirect
+526,Bearings & Power Transmission,CM-Drilling
+795,Pipe & Fittings,CM-Ops
+1461,Personal Protective Equipment,CM-Indirect
+1925,Bearings & Power Transmission,CM-Ops
+2324,Waste & Environmental Services,CM-Services
+3587,Fasteners,CM-Services
+3839,Cement & Additives,CM-Ops
+4648,Bearings & Power Transmission,CM-Ops
+5226,Freight & Forwarding,CM-Indirect
+5815,Fire & Gas Safety Equipment,CM-Services
+6361,Travel & Accommodation,CM-Drilling
+6466,Customs & Port Handling,CM-Indirect
+6937,Instrumentation,CM-Services
+7181,Training & Certification,CM-Drilling
+8001,Fire & Gas Safety Equipment,CM-Ops
+8124,Customs & Port Handling,CM-Services
+8496,Personal Protective Equipment,CM-Ops
+9006,Lubricants & Greases,CM-Indirect
+9212,Tools & Hardware,CM-Drilling
+9256,Pipe & Fittings,CM-Ops
+9676,Fasteners,CM-Services
+9878,Fire & Gas Safety Equipment,CM-Indirect
+10004,Fire & Gas Safety Equipment,CM-Ops
+10297,Fasteners,CM-Indirect
+10553,Production Treating Chemicals,CM-Indirect
+10850,Inspection & NDT,CM-Services
+11444,Pipe & Fittings,CM-Drilling
+12142,Valves,CM-Indirect
+12457,Valves,CM-Services
+12676,Instrumentation,CM-Indirect
+14754,Valves,CM-Ops
+15063,Lubricants & Greases,CM-Drilling
+15726,Cementing Services,CM-Drilling
+15998,Pipe & Fittings,CM-Drilling
+16311,Compressor Spares,CM-Indirect
+17541,Compressor Spares,CM-Ops
+17628,Customs & Port Handling,CM-Indirect
+18012,Personal Protective Equipment,CM-Ops
+18078,Drill Bits,CM-Ops
+18419,Vehicle Rental & Land Transport,CM-Drilling
+18704,Tools & Hardware,CM-Ops
+18945,Bearings & Power Transmission,CM-Services
+19061,Catering & Camp Services,CM-Services
+19102,IT Hardware,CM-Ops
+19956,Personal Protective Equipment,CM-Drilling
+20656,Telecom & Connectivity,CM-Ops
+20989,Mud Chemicals,CM-Drilling
+21049,Electrical Equipment,CM-Drilling
+21218,Maintenance Services,CM-Ops
+21718,Instrumentation,CM-Services
+21856,Compressor Spares,CM-Services
+23616,Vessel Charter,CM-Services
+24770,Freight & Forwarding,CM-Indirect
+26585,Lubricants & Greases,CM-Drilling
+27831,IT Hardware,CM-Ops
+28673,Freight & Forwarding,CM-Ops
+29278,Pipe & Fittings,CM-Ops
+29802,Valves,CM-Indirect
+30434,Waste & Environmental Services,CM-Ops
+31180,Fire & Gas Safety Equipment,CM-Indirect
+31693,Pumps & Spares,CM-Indirect
+31766,Fasteners,CM-Ops
+32230,Valves,CM-Indirect
+32270,Wireline & Logging,CM-Services
+32524,Electrical Equipment,CM-Indirect
+32790,Travel & Accommodation,CM-Ops
+32807,Bearings & Power Transmission,CM-Services
+33120,Waste & Environmental Services,CM-Ops
+34136,Diesel / HSD,CM-Services
+35373,Travel & Accommodation,CM-Services
+36641,Valves,CM-Drilling
+36834,Freight & Forwarding,CM-Drilling
+37151,Diesel / HSD,CM-Ops
+37267,Gaskets & Seals,CM-Indirect
+37808,Mud Chemicals,CM-Indirect
+38054,Inspection & NDT,CM-Services
+38058,Instrumentation,CM-Services
+38103,Pipe & Fittings,CM-Services
+38172,Drill Bits,CM-Drilling
+38349,Bearings & Power Transmission,CM-Indirect
+38460,Tubing,CM-Indirect
+39897,Pipe & Fittings,CM-Drilling
+40587,Bearings & Power Transmission,CM-Services
+40871,Travel & Accommodation,CM-Drilling
+41280,Instrumentation,CM-Indirect
+41540,Valves,CM-Ops
+41708,Fasteners,CM-Indirect
+41760,Personal Protective Equipment,CM-Indirect
+41774,Mud Chemicals,CM-Indirect
+41987,Office Supplies,CM-Indirect
+42222,Pipe & Fittings,CM-Indirect
+42847,Pipe & Fittings,CM-Services
+43130,Bearings & Power Transmission,CM-Drilling
+43187,Electrical Equipment,CM-Ops
+43442,Pipe & Fittings,CM-Indirect
+43606,Travel & Accommodation,CM-Ops
+43629,Compressor Spares,CM-Indirect
+43835,Tools & Hardware,CM-Ops
+44503,Instrumentation,CM-Drilling
+44763,Pumps & Spares,CM-Ops
+45410,Maintenance Services,CM-Indirect
+45682,Travel & Accommodation,CM-Indirect
+46126,Personal Protective Equipment,CM-Services
+46197,Travel & Accommodation,CM-Services
+46297,Pipe & Fittings,CM-Ops
+46409,Valves,CM-Services
+47928,Office Supplies,CM-Services
+48051,Valves,CM-Services
+48072,Gaskets & Seals,CM-Services
+49305,Gaskets & Seals,CM-Services
+51448,Pipe & Fittings,CM-Indirect
+52289,Valves,CM-Indirect
+53786,Mud Chemicals,CM-Drilling
+53967,Gaskets & Seals,CM-Indirect
+54192,Fasteners,CM-Drilling
+55071,Electrical Equipment,CM-Drilling
+56182,Fasteners,CM-Indirect
+56505,Gaskets & Seals,CM-Indirect
+57212,Diesel / HSD,CM-Drilling
+57647,Waste & Environmental Services,CM-Drilling
+58535,Tools & Hardware,CM-Ops
+58909,Pipe & Fittings,CM-Indirect
+58945,Pipe & Fittings,CM-Ops
+59226,Pipe & Fittings,CM-Ops
+59240,Completion Equipment,CM-Services
+59385,Travel & Accommodation,CM-Indirect
+59400,Tools & Hardware,CM-Indirect
+59698,Valves,CM-Ops
+61856,Filters,CM-Indirect
+62310,Inspection & NDT,CM-Drilling
+62917,Office Supplies,CM-Ops
+63018,Production Treating Chemicals,CM-Ops
+63247,Bearings & Power Transmission,CM-Drilling
+64418,Pumps & Spares,CM-Drilling
+65165,Instrumentation,CM-Ops
+65963,Pipe & Fittings,CM-Services
+67015,Telecom & Connectivity,CM-Services
+67571,Bearings & Power Transmission,CM-Indirect
+67683,Tools & Hardware,CM-Services
+69204,Completion Equipment,CM-Indirect
+69418,Tools & Hardware,CM-Drilling
+69589,Tubing,CM-Services
+70065,Electrical Equipment,CM-Services
+70442,Freight & Forwarding,CM-Indirect
+70501,Telecom & Connectivity,CM-Services
+70571,Electrical Equipment,CM-Indirect
+71581,Pipe & Fittings,CM-Drilling
+72746,Office Supplies,CM-Services
+73789,Gaskets & Seals,CM-Services
+74146,Mud Chemicals,CM-Ops
+74384,Pipe & Fittings,CM-Ops
+75207,Compressor Spares,CM-Services
+75427,Gaskets & Seals,CM-Ops
+75524,Fire & Gas Safety Equipment,CM-Ops
+75849,Valves,CM-Ops
+76078,Tubing,CM-Drilling
+76400,Personal Protective Equipment,CM-Services
+76403,Vehicle Rental & Land Transport,CM-Indirect
+77662,Office Supplies,CM-Ops
+77820,Drill Bits,CM-Ops
+78251,Fire & Gas Safety Equipment,CM-Drilling
+78363,Freight & Forwarding,CM-Drilling
+78440,Pipe & Fittings,CM-Ops
+78590,Personal Protective Equipment,CM-Ops
+78595,Pipe & Fittings,CM-Indirect
+78867,Personal Protective Equipment,CM-Ops
+79919,Tools & Hardware,CM-Indirect
+80225,Bearings & Power Transmission,CM-Drilling
+80920,Inspection & NDT,CM-Services
+81007,Drilling Rig Services,CM-Drilling
+81096,IT Hardware,CM-Services
+81457,Stimulation & Coiled Tubing,CM-Services
+81537,Instrumentation,CM-Drilling
+81614,Personal Protective Equipment,CM-Drilling
+81784,Gaskets & Seals,CM-Ops
+81843,Casing,CM-Ops
+82033,Freight & Forwarding,CM-Services
+82106,Electrical Equipment,CM-Services
+82631,Office Supplies,CM-Ops
+83785,Training & Certification,CM-Indirect
+85607,Bearings & Power Transmission,CM-Drilling
+85649,IT Hardware,CM-Services
+86692,Freight & Forwarding,CM-Drilling
+86728,Valves,CM-Drilling
+86796,Diesel / HSD,CM-Drilling
+87854,Engineering Services,CM-Indirect
+88091,Instrumentation,CM-Drilling
+88557,Gaskets & Seals,CM-Indirect
+88746,Training & Certification,CM-Ops
+89437,Electrical Equipment,CM-Indirect
+89497,Pipe & Fittings,CM-Services
+90430,IT Hardware,CM-Drilling
+90585,Travel & Accommodation,CM-Indirect
+91227,Electrical Equipment,CM-Drilling
+91412,Pumps & Spares,CM-Services
+91797,Waste & Environmental Services,CM-Drilling
+92586,Cement & Additives,CM-Indirect
+92596,Valves,CM-Ops
+92806,Gaskets & Seals,CM-Indirect
+93190,Personal Protective Equipment,CM-Drilling
+93258,Gaskets & Seals,CM-Services
+93303,Mud Chemicals,CM-Indirect
+94345,Telecom & Connectivity,CM-Ops
+94518,Freight & Forwarding,CM-Services
+94765,Office Supplies,CM-Drilling
+94779,Completion Equipment,CM-Drilling
+95630,Instrumentation,CM-Ops
+95859,Bearings & Power Transmission,CM-Services
+96113,Bearings & Power Transmission,CM-Services
+96144,Lubricants & Greases,CM-Services
+96572,Pipe & Fittings,CM-Services
+96583,Tools & Hardware,CM-Drilling
+96929,Filters,CM-Drilling
+97052,Freight & Forwarding,CM-Ops
+97329,Production Treating Chemicals,CM-Indirect
+98133,Pipe & Fittings,CM-Ops
+98463,Pipe & Fittings,CM-Indirect
+98741,Maintenance Services,CM-Indirect
+99102,Fire & Gas Safety Equipment,CM-Drilling
+99464,Customs & Port Handling,CM-Services
+99494,Maintenance Services,CM-Drilling
+99836,Bearings & Power Transmission,CM-Drilling
+100354,Freight & Forwarding,CM-Ops
+100611,Filters,CM-Indirect
+100738,Gaskets & Seals,CM-Indirect
+101122,Pipe & Fittings,CM-Services
+101596,Helicopter Services,CM-Indirect
+101654,Gaskets & Seals,CM-Ops
+102858,Medical Services,CM-Indirect
+104287,Pumps & Spares,CM-Indirect
+104387,Freight & Forwarding,CM-Indirect
+104506,IT Hardware,CM-Indirect
+105055,Pipe & Fittings,CM-Drilling
+106133,Pipe & Fittings,CM-Drilling
+106639,Valves,CM-Indirect
+107905,Compressor Spares,CM-Ops
+108172,Tools & Hardware,CM-Drilling
+108318,Fire & Gas Safety Equipment,CM-Ops
+108902,Valves,CM-Ops
+109127,Filters,CM-Ops
+109349,Instrumentation,CM-Ops
+109704,Bearings & Power Transmission,CM-Ops
+110397,Stimulation & Coiled Tubing,CM-Ops
+111099,Office Supplies,CM-Drilling
+111305,Valves,CM-Ops
+111723,Freight & Forwarding,CM-Indirect
+111971,Bearings & Power Transmission,CM-Services
+112113,Fasteners,CM-Drilling
+113060,Customs & Port Handling,CM-Services
+113489,Electrical Equipment,CM-Indirect
+114080,Fasteners,CM-Drilling
+114526,Completion Equipment,CM-Services
+114748,Customs & Port Handling,CM-Services
+114923,Training & Certification,CM-Services
+115726,Pipe & Fittings,CM-Services
+116030,Instrumentation,CM-Ops
+116120,Tubing,CM-Drilling
+116144,Filters,CM-Services
+116320,Freight & Forwarding,CM-Indirect
+116655,Personal Protective Equipment,CM-Indirect
+117198,Mud Chemicals,CM-Ops
+117225,Pumps & Spares,CM-Services
+117279,Training & Certification,CM-Drilling
+118150,Compressor Spares,CM-Drilling
+118203,Fasteners,CM-Drilling
+118502,Office Supplies,CM-Drilling
+118991,Pipe & Fittings,CM-Ops
+119697,Pipe & Fittings,CM-Indirect
+119780,Valves,CM-Services
+120131,Bearings & Power Transmission,CM-Indirect
+120750,Gaskets & Seals,CM-Services
+121136,Gaskets & Seals,CM-Indirect
+121183,Electrical Equipment,CM-Ops
+122876,Instrumentation,CM-Ops
+123459,Pipe & Fittings,CM-Ops
+123476,Vehicle Rental & Land Transport,CM-Drilling
+123679,Gaskets & Seals,CM-Services
+123696,Well Testing & Mud Logging,CM-Drilling
+123917,IT Hardware,CM-Ops
+124052,Electrical Equipment,CM-Drilling
+124361,Vehicle Rental & Land Transport,CM-Indirect
+124600,Personal Protective Equipment,CM-Drilling
+124754,Gaskets & Seals,CM-Ops
+125283,Freight & Forwarding,CM-Services
+125307,Personal Protective Equipment,CM-Services
+125768,Personal Protective Equipment,CM-Indirect
+127524,Construction & Fabrication,CM-Drilling
+127526,Pipe & Fittings,CM-Drilling
+127540,Tubing,CM-Indirect
+128100,Fasteners,CM-Services
+128370,Pumps & Spares,CM-Ops
+128730,Bearings & Power Transmission,CM-Drilling
+129393,Vessel Charter,CM-Ops
+129679,Freight & Forwarding,CM-Indirect
+129823,Office Supplies,CM-Indirect
+129970,Pipe & Fittings,CM-Services
+130460,Travel & Accommodation,CM-Indirect
+130990,Office Supplies,CM-Services
+131142,Office Supplies,CM-Services
+131399,Valves,CM-Indirect
+131756,Gaskets & Seals,CM-Indirect
+131787,Freight & Forwarding,CM-Drilling
+132153,Pipe & Fittings,CM-Indirect
+132453,Construction & Fabrication,CM-Services
+132748,Fire & Gas Safety Equipment,CM-Services
+133125,Electrical Equipment,CM-Indirect
+133829,Travel & Accommodation,CM-Indirect
+133929,Bearings & Power Transmission,CM-Ops
+135247,Medical Services,CM-Services
+135540,Personal Protective Equipment,CM-Indirect
+135771,Office Supplies,CM-Drilling
+135976,Bearings & Power Transmission,CM-Indirect
+136212,Valves,CM-Drilling
+136485,Personal Protective Equipment,CM-Ops
+136508,Personal Protective Equipment,CM-Indirect
+137767,Pipe & Fittings,CM-Ops
+137769,Pipe & Fittings,CM-Drilling
+137805,Personal Protective Equipment,CM-Ops
+138257,Tubing,CM-Ops
+138604,Instrumentation,CM-Services
+139150,Valves,CM-Drilling
+139835,Bearings & Power Transmission,CM-Drilling
+140237,Filters,CM-Ops
+140242,Fasteners,CM-Indirect
+140433,Mud Chemicals,CM-Drilling
+141358,Pipe & Fittings,CM-Drilling
+141362,Wireline & Logging,CM-Drilling
+142921,Fasteners,CM-Indirect
+142945,Medical Services,CM-Ops
+143050,Fasteners,CM-Drilling
+143291,Bearings & Power Transmission,CM-Ops
+143420,Instrumentation,CM-Drilling
+143684,Bearings & Power Transmission,CM-Indirect
+143804,Filters,CM-Indirect
+143907,Office Supplies,CM-Indirect
+145825,Pipe & Fittings,CM-Ops
+146447,Production Treating Chemicals,CM-Indirect
+146650,Bearings & Power Transmission,CM-Ops
+147341,Production Treating Chemicals,CM-Drilling
+147414,Bearings & Power Transmission,CM-Indirect
+147758,Pipe & Fittings,CM-Drilling
+147886,Cement & Additives,CM-Services
+148021,Instrumentation,CM-Ops
+149180,Pumps & Spares,CM-Indirect
+149471,Electrical Equipment,CM-Services
+149559,Fasteners,CM-Indirect
+151725,Electrical Equipment,CM-Indirect
+152600,Gaskets & Seals,CM-Ops
+152679,Telecom & Connectivity,CM-Drilling
+152696,Training & Certification,CM-Services
+153006,Gaskets & Seals,CM-Ops
+153629,Filters,CM-Indirect
+153922,Personal Protective Equipment,CM-Indirect
+154515,Instrumentation,CM-Drilling
+154800,Drilling Rig Services,CM-Indirect
+155022,Valves,CM-Services
+155067,Valves,CM-Services
+155097,Valves,CM-Services
+155447,Pipe & Fittings,CM-Indirect
+155692,Electrical Equipment,CM-Ops
+155772,Valves,CM-Ops
+155787,Office Supplies,CM-Indirect
+155891,Instrumentation,CM-Ops
+156473,Bearings & Power Transmission,CM-Indirect
+156837,Instrumentation,CM-Drilling
+157538,Pipe & Fittings,CM-Drilling
+157572,Pumps & Spares,CM-Ops
+157879,Pipe & Fittings,CM-Ops
+157919,Filters,CM-Drilling
+158396,Pumps & Spares,CM-Drilling
+158880,Electrical Equipment,CM-Indirect
+159237,Drill Bits,CM-Ops
+159564,Catering & Camp Services,CM-Ops
+159656,Valves,CM-Ops
+160281,Filters,CM-Drilling
+160740,Office Supplies,CM-Ops
+160915,Compressor Spares,CM-Drilling
+161049,Filters,CM-Ops
+163468,Maintenance Services,CM-Ops
+163759,Pipe & Fittings,CM-Indirect
+163833,Software & Licenses,CM-Indirect
+164425,Maintenance Services,CM-Indirect
+164434,Office Supplies,CM-Drilling
+164488,Lubricants & Greases,CM-Ops
+165551,Electrical Equipment,CM-Drilling
+166172,Stimulation & Coiled Tubing,CM-Services
+166315,Pumps & Spares,CM-Drilling
+166403,Valves,CM-Services
+166408,Vehicle Rental & Land Transport,CM-Services
+166839,Fasteners,CM-Services
+166868,Valves,CM-Services
+166967,Helicopter Services,CM-Indirect
+167033,Office Supplies,CM-Services
+167457,Maintenance Services,CM-Ops
+168040,Production Treating Chemicals,CM-Services
+169290,Freight & Forwarding,CM-Ops
+169599,Completion Equipment,CM-Indirect
+169811,IT Hardware,CM-Indirect
+169863,IT Hardware,CM-Indirect
+169957,Gaskets & Seals,CM-Services
+171767,Maintenance Services,CM-Indirect
+172076,Fasteners,CM-Indirect
+172808,Gaskets & Seals,CM-Ops
+173228,Mud Chemicals,CM-Ops
+173439,Compressor Spares,CM-Indirect
+173648,Bearings & Power Transmission,CM-Ops
+173958,Pipe & Fittings,CM-Ops
+174049,Fasteners,CM-Ops
+174412,Pipe & Fittings,CM-Drilling
+174623,Personal Protective Equipment,CM-Ops
+174826,Tubing,CM-Ops
+175420,Valves,CM-Drilling
+175588,Completion Equipment,CM-Drilling
+175639,Freight & Forwarding,CM-Services
+175703,Cementing Services,CM-Drilling
+175766,Pipe & Fittings,CM-Drilling
+175769,Pipe & Fittings,CM-Indirect
+177697,Directional Drilling & MWD,CM-Ops
+177901,Instrumentation,CM-Indirect
+178225,Compressor Spares,CM-Ops
+178606,Filters,CM-Indirect
+179068,Bearings & Power Transmission,CM-Indirect
+179722,Tools & Hardware,CM-Services
+179857,Gaskets & Seals,CM-Ops
+179997,Office Supplies,CM-Drilling
+180854,Fire & Gas Safety Equipment,CM-Services
+181200,Vehicle Rental & Land Transport,CM-Ops
+183297,Pipe & Fittings,CM-Drilling
+184013,Training & Certification,CM-Services
+184363,Customs & Port Handling,CM-Ops
+184406,Office Supplies,CM-Drilling
+184851,Bearings & Power Transmission,CM-Drilling
+185594,Vehicle Rental & Land Transport,CM-Services
+185704,Office Supplies,CM-Services
+185776,Travel & Accommodation,CM-Services
+186008,Maintenance Services,CM-Ops
+186620,Diesel / HSD,CM-Services
+187398,Freight & Forwarding,CM-Drilling
+187568,Electrical Equipment,CM-Services
+188546,Mud Chemicals,CM-Drilling
+189327,Bearings & Power Transmission,CM-Services
+189346,Instrumentation,CM-Indirect
+189459,Valves,CM-Ops
+190264,Drill Bits,CM-Indirect
+190962,Travel & Accommodation,CM-Services
+191513,IT Hardware,CM-Indirect
+191550,Instrumentation,CM-Drilling
+192461,Personal Protective Equipment,CM-Services
+192854,Electrical Equipment,CM-Services
+193662,Fasteners,CM-Drilling
+193682,Vehicle Rental & Land Transport,CM-Indirect
+193752,Gaskets & Seals,CM-Ops
+193840,Bearings & Power Transmission,CM-Drilling
+193908,Freight & Forwarding,CM-Ops
+194367,Pipe & Fittings,CM-Indirect
+195188,Compressor Spares,CM-Ops
+195769,Inspection & NDT,CM-Indirect
+195788,Compressor Spares,CM-Services
+196499,IT Hardware,CM-Services
+196795,Filters,CM-Services
+199288,Training & Certification,CM-Services
+199385,Pipe & Fittings,CM-Services
+199539,Tools & Hardware,CM-Drilling
+199694,Directional Drilling & MWD,CM-Ops
+200081,Bearings & Power Transmission,CM-Services
+200231,Freight & Forwarding,CM-Ops
+200784,Vessel Charter,CM-Indirect
+200906,Valves,CM-Ops
+201205,Compressor Spares,CM-Services
+201533,Maintenance Services,CM-Drilling
+201582,Freight & Forwarding,CM-Indirect
+202218,Pipe & Fittings,CM-Ops
+202832,Electrical Equipment,CM-Drilling
+203948,Gaskets & Seals,CM-Ops
+204206,Customs & Port Handling,CM-Indirect
+204937,Instrumentation,CM-Drilling
+205219,Pipe & Fittings,CM-Drilling
+205391,Pipe & Fittings,CM-Services
+205580,Software & Licenses,CM-Services
+205800,Bearings & Power Transmission,CM-Ops
+206145,Lubricants & Greases,CM-Ops
+206342,Vehicle Rental & Land Transport,CM-Indirect
+206999,Bearings & Power Transmission,CM-Drilling
+207484,Training & Certification,CM-Indirect
+208986,Tools & Hardware,CM-Indirect
+209147,Personal Protective Equipment,CM-Drilling
+210103,Vehicle Rental & Land Transport,CM-Ops
+210910,Mud Chemicals,CM-Ops
+211065,Customs & Port Handling,CM-Drilling
+211631,Medical Services,CM-Drilling
+213282,Fasteners,CM-Indirect
+213458,Pipe & Fittings,CM-Services
+213572,Pipe & Fittings,CM-Services
+213939,Diesel / HSD,CM-Drilling
+214628,Valves,CM-Indirect
+215028,Electrical Equipment,CM-Ops
+215240,Pumps & Spares,CM-Indirect
+215873,Lubricants & Greases,CM-Services
+216146,Diesel / HSD,CM-Ops
+217050,Catering & Camp Services,CM-Ops
+217481,Electrical Equipment,CM-Indirect
+217583,Pipe & Fittings,CM-Services
+218069,Vessel Charter,CM-Services
+218430,Instrumentation,CM-Ops
+218739,Catering & Camp Services,CM-Indirect
+219219,Bearings & Power Transmission,CM-Indirect
+219408,Tools & Hardware,CM-Ops
+219432,Electrical Equipment,CM-Indirect
+219724,Medical Services,CM-Services
+220104,Office Rent & Building Services,CM-Services
+220355,Lubricants & Greases,CM-Drilling
+220586,Bearings & Power Transmission,CM-Indirect
+220945,Electrical Equipment,CM-Drilling
+221584,Filters,CM-Drilling
+222107,Wireline & Logging,CM-Services
+222112,Gaskets & Seals,CM-Services
+222713,Fire & Gas Safety Equipment,CM-Drilling
+222871,IT Hardware,CM-Drilling
+223088,Fire & Gas Safety Equipment,CM-Services
+223267,Drill Bits,CM-Services
+223752,Gaskets & Seals,CM-Drilling
+223903,Bearings & Power Transmission,CM-Drilling
+224417,Freight & Forwarding,CM-Drilling
+224884,Instrumentation,CM-Services
+225039,Gaskets & Seals,CM-Services
+225530,Bearings & Power Transmission,CM-Services
+225766,Construction & Fabrication,CM-Indirect
+226086,Electrical Equipment,CM-Ops
+226306,Pumps & Spares,CM-Drilling
+226536,Lubricants & Greases,CM-Indirect
+226567,Vessel Charter,CM-Services
+226619,Instrumentation,CM-Services
+227430,Freight & Forwarding,CM-Drilling
+227701,Electrical Equipment,CM-Indirect
+228381,Pipe & Fittings,CM-Ops
+229056,Engineering Services,CM-Services
+229145,Tools & Hardware,CM-Services
+229693,Tubing,CM-Drilling
+229962,Engineering Services,CM-Services
+230416,Tubing,CM-Services
+230490,Production Treating Chemicals,CM-Indirect
+230711,Electrical Equipment,CM-Ops
+230777,Pipe & Fittings,CM-Drilling
+230919,IT Hardware,CM-Services
+231295,Pipe & Fittings,CM-Services
+231405,Lubricants & Greases,CM-Drilling
+231411,Pipe & Fittings,CM-Indirect
+232683,Filters,CM-Services
+232754,Tools & Hardware,CM-Services
+233292,Diesel / HSD,CM-Services
+233575,Pipe & Fittings,CM-Indirect
+234010,Pipe & Fittings,CM-Ops
+234192,Freight & Forwarding,CM-Services
+234560,Fasteners,CM-Indirect
+235314,Valves,CM-Ops
+235358,Tools & Hardware,CM-Indirect
+236278,Bearings & Power Transmission,CM-Drilling
+236776,Bearings & Power Transmission,CM-Drilling
+237355,Valves,CM-Indirect
+237621,Gaskets & Seals,CM-Services
+238522,Bearings & Power Transmission,CM-Indirect
+238702,Freight & Forwarding,CM-Ops
+238816,Fasteners,CM-Ops
+238981,Tools & Hardware,CM-Indirect
+239150,Diesel / HSD,CM-Ops
+239284,Compressor Spares,CM-Ops
+242855,Electrical Equipment,CM-Services
+242866,Personal Protective Equipment,CM-Services
+244377,Electrical Equipment,CM-Ops
+244576,Mud Chemicals,CM-Services
+244889,Pumps & Spares,CM-Drilling
+245066,Bearings & Power Transmission,CM-Drilling
+246657,Tools & Hardware,CM-Ops
+246828,Freight & Forwarding,CM-Indirect
+246989,Office Supplies,CM-Ops
+247237,IT Hardware,CM-Drilling
+248404,Tubing,CM-Services
+248421,Valves,CM-Indirect
+249560,Casing,CM-Indirect
+249818,Electrical Equipment,CM-Indirect
+250009,Pumps & Spares,CM-Drilling
+250419,Tools & Hardware,CM-Drilling
+251200,Mud Chemicals,CM-Drilling
+251454,Filters,CM-Ops
+252014,Catering & Camp Services,CM-Indirect
+252607,Drill Bits,CM-Drilling
+252615,Valves,CM-Services
+253127,Electrical Equipment,CM-Drilling
+253167,Bearings & Power Transmission,CM-Ops
+253259,Drill Bits,CM-Ops
+253708,Gaskets & Seals,CM-Indirect
+253966,Valves,CM-Drilling
+254440,Freight & Forwarding,CM-Drilling
+254574,Fire & Gas Safety Equipment,CM-Ops
+254873,Diesel / HSD,CM-Services
+254999,Valves,CM-Services
+255401,Fire & Gas Safety Equipment,CM-Ops
+255890,Maintenance Services,CM-Services
+255950,Waste & Environmental Services,CM-Ops
+256215,Wireline & Logging,CM-Drilling
+256369,Pipe & Fittings,CM-Drilling
+256469,Compressor Spares,CM-Drilling
+256646,Lubricants & Greases,CM-Drilling
+257753,Diesel / HSD,CM-Drilling
+257859,Gaskets & Seals,CM-Drilling
+258980,Tools & Hardware,CM-Services
+259125,Valves,CM-Drilling
+259512,Valves,CM-Ops
+259641,Valves,CM-Indirect
+259952,Freight & Forwarding,CM-Indirect
+260028,Tools & Hardware,CM-Drilling
+260974,Gaskets & Seals,CM-Indirect
+261334,Tools & Hardware,CM-Services
+261634,Cementing Services,CM-Drilling
+262178,Travel & Accommodation,CM-Ops
+262302,Gaskets & Seals,CM-Indirect
+262860,Bearings & Power Transmission,CM-Drilling
+263278,Travel & Accommodation,CM-Ops
+263397,Construction & Fabrication,CM-Ops
+263531,Office Supplies,CM-Ops
+264367,Training & Certification,CM-Services
+264733,Production Treating Chemicals,CM-Ops
+264886,Waste & Environmental Services,CM-Indirect
+265098,Instrumentation,CM-Drilling
+265702,Cement & Additives,CM-Ops
+265756,Training & Certification,CM-Services
+266264,Filters,CM-Ops
+266280,Tools & Hardware,CM-Drilling
+266809,Fasteners,CM-Indirect
+266943,Fasteners,CM-Ops
+266979,Personal Protective Equipment,CM-Ops
+267150,Electrical Equipment,CM-Indirect
+267379,Tools & Hardware,CM-Ops
+267381,Tools & Hardware,CM-Services
+268339,Casing,CM-Services
+268359,Valves,CM-Services
+269135,Pumps & Spares,CM-Services
+269879,Inspection & NDT,CM-Services
+269908,Mud Chemicals,CM-Ops
+270187,Compressor Spares,CM-Drilling
+270386,Fire & Gas Safety Equipment,CM-Indirect
+270508,Freight & Forwarding,CM-Services
+271818,Valves,CM-Services
+272374,Inspection & NDT,CM-Indirect
+272917,Personal Protective Equipment,CM-Services
+273860,Electrical Equipment,CM-Services
+274371,Maintenance Services,CM-Ops
+275035,Cement & Additives,CM-Ops
+275388,Instrumentation,CM-Drilling
+275675,IT Hardware,CM-Indirect
+276183,Pipe & Fittings,CM-Ops
+276715,Freight & Forwarding,CM-Ops
+276868,Travel & Accommodation,CM-Ops
+277267,Customs & Port Handling,CM-Drilling
+277477,Gaskets & Seals,CM-Drilling
+277501,Personal Protective Equipment,CM-Indirect
+278952,Personal Protective Equipment,CM-Services
+279795,Gaskets & Seals,CM-Drilling
+279979,Fasteners,CM-Ops
+281496,Tubing,CM-Indirect
+281599,IT Hardware,CM-Ops
+281864,Training & Certification,CM-Ops
+282125,Bearings & Power Transmission,CM-Ops
+282183,Compressor Spares,CM-Indirect
+282420,Pipe & Fittings,CM-Ops
+282437,Valves,CM-Ops
+282863,Fasteners,CM-Ops
+284165,Instrumentation,CM-Services
+284219,IT Hardware,CM-Ops
+284407,Drill Bits,CM-Ops
+284764,Gaskets & Seals,CM-Ops
+285430,Valves,CM-Ops
+285740,Bearings & Power Transmission,CM-Drilling
+285788,Fire & Gas Safety Equipment,CM-Ops
+285885,Bearings & Power Transmission,CM-Indirect
+286656,Personal Protective Equipment,CM-Ops
+286669,IT Hardware,CM-Indirect
+287975,Pumps & Spares,CM-Indirect
+287980,Pumps & Spares,CM-Indirect
+288142,Pipe & Fittings,CM-Indirect
+289187,Personal Protective Equipment,CM-Services
+289575,Pipe & Fittings,CM-Ops
+290030,Valves,CM-Services
+290057,Mud Chemicals,CM-Services
+290317,Maintenance Services,CM-Services
+291124,Cementing Services,CM-Ops
+292181,Freight & Forwarding,CM-Services
+292291,Pumps & Spares,CM-Ops
+292313,Gaskets & Seals,CM-Indirect
+292373,Pipe & Fittings,CM-Indirect
+293153,Tubing,CM-Services
+293166,Electrical Equipment,CM-Indirect
+293891,Maintenance Services,CM-Services
+294080,Vehicle Rental & Land Transport,CM-Ops
+294287,Bearings & Power Transmission,CM-Indirect
+294342,Instrumentation,CM-Services
+294994,Electrical Equipment,CM-Ops
+295243,Valves,CM-Services
+295250,Valves,CM-Drilling
+295439,Gaskets & Seals,CM-Drilling
+296545,Bearings & Power Transmission,CM-Drilling
+297614,Bearings & Power Transmission,CM-Drilling
+297639,Office Supplies,CM-Services
+297759,Pipe & Fittings,CM-Ops
+298032,Filters,CM-Services
+298299,Completion Equipment,CM-Drilling
+298356,Valves,CM-Indirect
+298785,Instrumentation,CM-Ops
+299167,Personal Protective Equipment,CM-Indirect
+299520,Tools & Hardware,CM-Indirect
+300038,Pipe & Fittings,CM-Services
+300154,Freight & Forwarding,CM-Drilling
+300720,Gaskets & Seals,CM-Drilling
+300866,Lubricants & Greases,CM-Ops
+301218,Mud Chemicals,CM-Ops
+301544,Office Supplies,CM-Drilling
+301612,Pumps & Spares,CM-Services
+302043,Fasteners,CM-Indirect
+302105,Fire & Gas Safety Equipment,CM-Indirect
+302303,Tools & Hardware,CM-Ops
+302851,Instrumentation,CM-Services
+302857,Fasteners,CM-Indirect
+303832,IT Hardware,CM-Ops
+304533,Filters,CM-Services
+304660,Pipe & Fittings,CM-Indirect
+305004,Customs & Port Handling,CM-Ops
+305055,Waste & Environmental Services,CM-Drilling
+305284,Electrical Equipment,CM-Services
+305309,Instrumentation,CM-Indirect
+305428,Valves,CM-Drilling
+305720,Lubricants & Greases,CM-Indirect
+305910,Electrical Equipment,CM-Drilling
+306261,Personal Protective Equipment,CM-Ops
+306742,Personal Protective Equipment,CM-Services
+307166,Valves,CM-Ops
+307200,Lubricants & Greases,CM-Ops
+307711,Pumps & Spares,CM-Indirect
+308546,Pumps & Spares,CM-Ops
+308806,Cementing Services,CM-Drilling
+309233,Fasteners,CM-Ops
+309929,Pipe & Fittings,CM-Ops
+310423,Personal Protective Equipment,CM-Services
+310829,Valves,CM-Indirect
+312282,Instrumentation,CM-Services
+312364,Instrumentation,CM-Drilling
+312658,Lubricants & Greases,CM-Ops
+312816,Fasteners,CM-Ops
+312901,Pipe & Fittings,CM-Services
+313145,Valves,CM-Services
+316171,Fire & Gas Safety Equipment,CM-Ops
+316271,Wellhead & Xmas Tree,CM-Ops
+316752,Personal Protective Equipment,CM-Drilling
+316907,Security Services,CM-Ops
+317472,Freight & Forwarding,CM-Indirect
+317514,Pipe & Fittings,CM-Drilling
+317819,Inspection & NDT,CM-Drilling
+318093,Pipe & Fittings,CM-Services
+318796,Tools & Hardware,CM-Ops
+319874,Instrumentation,CM-Indirect
+320240,Pumps & Spares,CM-Indirect
+320406,Customs & Port Handling,CM-Ops
+320499,Customs & Port Handling,CM-Ops
+321235,Pipe & Fittings,CM-Ops
+322373,Cement & Additives,CM-Ops
+323006,Pumps & Spares,CM-Services
+323795,Completion Equipment,CM-Ops
+323837,Travel & Accommodation,CM-Indirect
+324012,Engineering Services,CM-Services
+324345,Gaskets & Seals,CM-Indirect
+324504,Filters,CM-Indirect
+324961,Production Treating Chemicals,CM-Services
+325195,Filters,CM-Ops
+325622,Travel & Accommodation,CM-Indirect
+326138,Travel & Accommodation,CM-Drilling
+326603,Office Supplies,CM-Ops
+326712,Cement & Additives,CM-Indirect
+326896,Filters,CM-Ops
+328090,Personal Protective Equipment,CM-Drilling
+328208,Completion Equipment,CM-Ops
+328213,Completion Equipment,CM-Indirect
+328622,Inspection & NDT,CM-Ops
+328913,Pipe & Fittings,CM-Drilling
+329092,Travel & Accommodation,CM-Ops
+329625,Pipe & Fittings,CM-Indirect
+330112,Casing,CM-Services
+330173,Freight & Forwarding,CM-Indirect
+330176,Compressor Spares,CM-Indirect
+330524,Pumps & Spares,CM-Drilling
+330541,Telecom & Connectivity,CM-Services
+330941,Office Supplies,CM-Services
+332507,Lubricants & Greases,CM-Indirect
+333465,Instrumentation,CM-Ops
+333981,Office Supplies,CM-Indirect
+334033,Vessel Charter,CM-Indirect
+334049,Pipe & Fittings,CM-Services
+334256,Bearings & Power Transmission,CM-Indirect
+334453,Personal Protective Equipment,CM-Ops
+336158,Gaskets & Seals,CM-Indirect
+336707,Freight & Forwarding,CM-Ops
+336828,Fasteners,CM-Ops
+336894,Pipe & Fittings,CM-Services
+336944,Tubing,CM-Drilling
+337320,Drilling Rig Services,CM-Services
+337938,Gaskets & Seals,CM-Ops
+338525,Personal Protective Equipment,CM-Ops
+339161,Instrumentation,CM-Services
+339304,Instrumentation,CM-Drilling
+339862,Valves,CM-Drilling
+340145,Compressor Spares,CM-Ops
+341032,Gaskets & Seals,CM-Ops
+341308,Wireline & Logging,CM-Ops
+341702,Valves,CM-Drilling
+341852,Freight & Forwarding,CM-Indirect
+342383,Pipe & Fittings,CM-Drilling
+342652,Fasteners,CM-Drilling
+344395,Electrical Equipment,CM-Services
+345658,Bearings & Power Transmission,CM-Services
+347035,Waste & Environmental Services,CM-Drilling
+347947,Filters,CM-Indirect
+348218,Completion Equipment,CM-Drilling
+349279,Wireline & Logging,CM-Ops
+349335,Instrumentation,CM-Indirect
+349894,Freight & Forwarding,CM-Indirect
+350036,Maintenance Services,CM-Indirect
+350343,Electrical Equipment,CM-Indirect
+350829,Drilling Rig Services,CM-Ops
+351965,Fire & Gas Safety Equipment,CM-Services
+352010,Mud Chemicals,CM-Services
+352094,Tools & Hardware,CM-Indirect
+352268,Fasteners,CM-Drilling
+352401,Professional & Consulting Services,CM-Indirect
+352516,Tubing,CM-Services
+352983,Bearings & Power Transmission,CM-Drilling
+352986,Travel & Accommodation,CM-Services
+353112,Fasteners,CM-Drilling
+353643,Instrumentation,CM-Services
+354525,Fasteners,CM-Services
+354875,Tools & Hardware,CM-Indirect
+355003,Mud Chemicals,CM-Indirect
+355076,Pipe & Fittings,CM-Drilling
+355086,Valves,CM-Drilling
+355088,Valves,CM-Indirect
+356000,Fasteners,CM-Services
+356189,Mud Chemicals,CM-Ops
+356617,Tools & Hardware,CM-Indirect
+356884,Pipe & Fittings,CM-Drilling
+356933,Bearings & Power Transmission,CM-Indirect
+357199,Valves,CM-Services
+357680,Inspection & NDT,CM-Drilling
+357817,Tubing,CM-Services
+358013,Fire & Gas Safety Equipment,CM-Services
+358675,Gaskets & Seals,CM-Services
+358884,Completion Equipment,CM-Drilling
+359199,Fasteners,CM-Indirect
+359233,Instrumentation,CM-Services
+359434,Freight & Forwarding,CM-Drilling
+359648,Wireline & Logging,CM-Services
+360019,Travel & Accommodation,CM-Services
+360679,Engineering Services,CM-Services
+360807,Freight & Forwarding,CM-Services
+360934,Tubing,CM-Services
+361510,Mud Chemicals,CM-Drilling
+362847,Valves,CM-Ops
+364609,Pipe & Fittings,CM-Drilling
+364730,Instrumentation,CM-Indirect
+365162,Pipe & Fittings,CM-Indirect
+365344,Vehicle Rental & Land Transport,CM-Drilling
+365696,Fasteners,CM-Indirect
+365747,Bearings & Power Transmission,CM-Ops
+366286,Pipe & Fittings,CM-Ops
+366798,Compressor Spares,CM-Services
+367630,Cement & Additives,CM-Drilling
+368308,Pipe & Fittings,CM-Ops
+368525,Production Treating Chemicals,CM-Indirect
+368889,Gaskets & Seals,CM-Services
+368944,Freight & Forwarding,CM-Services
+369836,Bearings & Power Transmission,CM-Ops
+369933,Electrical Equipment,CM-Services
+370655,Production Treating Chemicals,CM-Services
+370712,IT Hardware,CM-Indirect
+370958,Casing,CM-Indirect
+372059,Personal Protective Equipment,CM-Ops
+372427,Production Treating Chemicals,CM-Services
+372435,Customs & Port Handling,CM-Ops
+372567,Instrumentation,CM-Services
+372917,Compressor Spares,CM-Indirect
+373664,Customs & Port Handling,CM-Ops
+374846,Bearings & Power Transmission,CM-Ops
+374878,Pipe & Fittings,CM-Indirect
+375323,Personal Protective Equipment,CM-Ops
+375353,Valves,CM-Indirect
+375921,Instrumentation,CM-Indirect
+376365,Gaskets & Seals,CM-Services
+376451,Office Rent & Building Services,CM-Drilling
+376595,Pumps & Spares,CM-Drilling
+376601,Pumps & Spares,CM-Ops
+377264,Pipe & Fittings,CM-Ops
+377630,Cement & Additives,CM-Ops
+377720,Drill Bits,CM-Ops
+377887,Instrumentation,CM-Indirect
+377997,Pipe & Fittings,CM-Ops
+378760,Pumps & Spares,CM-Indirect
+379014,Training & Certification,CM-Ops
+379346,Casing,CM-Ops
+379653,Gaskets & Seals,CM-Drilling
+380013,Electrical Equipment,CM-Ops
+380602,Valves,CM-Ops
+381641,Fasteners,CM-Drilling
+382239,Pumps & Spares,CM-Services
+382960,Pumps & Spares,CM-Indirect
+383909,Gaskets & Seals,CM-Ops
+384877,Pipe & Fittings,CM-Indirect
+385140,Freight & Forwarding,CM-Indirect
+387380,Valves,CM-Services
+387956,Electrical Equipment,CM-Ops
+388741,Instrumentation,CM-Ops
+388813,Bearings & Power Transmission,CM-Drilling
+389009,Valves,CM-Drilling
+389535,Instrumentation,CM-Drilling
+389909,Pipe & Fittings,CM-Indirect
+390365,Casing,CM-Drilling
+390548,Freight & Forwarding,CM-Services
+390617,Gaskets & Seals,CM-Ops
+391316,Wellhead & Xmas Tree,CM-Indirect
+392404,Electrical Equipment,CM-Ops
+392578,Compressor Spares,CM-Drilling
+392945,Tubing,CM-Services
+393498,Freight & Forwarding,CM-Ops
+393678,Catering & Camp Services,CM-Services
+393958,Tubing,CM-Drilling
+394154,Training & Certification,CM-Ops
+394408,Pumps & Spares,CM-Drilling
+394586,Cement & Additives,CM-Ops
+394681,Travel & Accommodation,CM-Indirect
+395367,Filters,CM-Services
+395915,Pipe & Fittings,CM-Drilling
+395951,Travel & Accommodation,CM-Drilling
+396050,Training & Certification,CM-Services
+396228,Pipe & Fittings,CM-Drilling
+396320,Bearings & Power Transmission,CM-Indirect
+396557,Drilling Rig Services,CM-Indirect
+396784,Tools & Hardware,CM-Indirect
+396854,Pipe & Fittings,CM-Indirect
+397257,Personal Protective Equipment,CM-Indirect
+398138,Pumps & Spares,CM-Services
+398662,Valves,CM-Drilling
+398833,Filters,CM-Drilling
+399107,Personal Protective Equipment,CM-Services
+399205,Electrical Equipment,CM-Drilling
+400037,Travel & Accommodation,CM-Indirect
+400088,Pipe & Fittings,CM-Services
+400210,Completion Equipment,CM-Ops
+400230,Vehicle Rental & Land Transport,CM-Ops
+400546,Professional & Consulting Services,CM-Drilling
+401039,Engineering Services,CM-Drilling
+401332,Instrumentation,CM-Drilling
+401549,Electrical Equipment,CM-Services
+401904,Tools & Hardware,CM-Drilling
+402139,Fasteners,CM-Ops
+402284,Pumps & Spares,CM-Indirect
+402599,Pipe & Fittings,CM-Services
+402761,Office Supplies,CM-Drilling
+403437,Electrical Equipment,CM-Services
+404086,Lubricants & Greases,CM-Drilling
+404101,Pipe & Fittings,CM-Indirect
+405040,Fasteners,CM-Indirect
+405836,Cement & Additives,CM-Ops
+405902,Maintenance Services,CM-Services
+406228,Lubricants & Greases,CM-Indirect
+406426,Instrumentation,CM-Drilling
+406668,Gaskets & Seals,CM-Ops
+406978,Telecom & Connectivity,CM-Services
+407061,Bearings & Power Transmission,CM-Indirect
+407149,Production Treating Chemicals,CM-Services
+407320,Fire & Gas Safety Equipment,CM-Indirect
+408521,Instrumentation,CM-Ops
+408628,Wireline & Logging,CM-Ops
+410413,Pumps & Spares,CM-Ops
+410667,Pumps & Spares,CM-Services
+410943,Gaskets & Seals,CM-Services
+411302,Fasteners,CM-Indirect
+412026,Wireline & Logging,CM-Ops
+412647,Bearings & Power Transmission,CM-Indirect
+412918,Gaskets & Seals,CM-Services
+413452,Training & Certification,CM-Services
+414047,Valves,CM-Indirect
+414934,Pipe & Fittings,CM-Ops
+415180,Pumps & Spares,CM-Services
+415414,Office Supplies,CM-Indirect
+415994,Fasteners,CM-Ops
+416328,Tools & Hardware,CM-Indirect
+417056,Office Supplies,CM-Ops
+418168,IT Hardware,CM-Services
+418580,Telecom & Connectivity,CM-Indirect
+419066,Software & Licenses,CM-Indirect
+419292,Gaskets & Seals,CM-Services
+419417,Electrical Equipment,CM-Indirect
+419988,Fire & Gas Safety Equipment,CM-Indirect
+420224,Bearings & Power Transmission,CM-Indirect
+421109,Telecom & Connectivity,CM-Ops
+422679,Electrical Equipment,CM-Drilling
+423263,Fire & Gas Safety Equipment,CM-Ops
+424400,Tubing,CM-Ops
+425304,Fire & Gas Safety Equipment,CM-Drilling
+425340,Waste & Environmental Services,CM-Services
+426370,Instrumentation,CM-Drilling
+427378,Pumps & Spares,CM-Ops
+427567,Fasteners,CM-Ops
+428426,Instrumentation,CM-Indirect
+428448,Production Treating Chemicals,CM-Drilling
+428606,Instrumentation,CM-Drilling
+428982,Waste & Environmental Services,CM-Services
+429019,Personal Protective Equipment,CM-Indirect
+429071,Mud Chemicals,CM-Services
+429137,Fire & Gas Safety Equipment,CM-Services
+429689,Mud Chemicals,CM-Ops
+430300,Compressor Spares,CM-Ops
+430348,Compressor Spares,CM-Ops
+430624,Pumps & Spares,CM-Ops
+430653,Instrumentation,CM-Drilling
+431351,Pipe & Fittings,CM-Ops
+431873,Instrumentation,CM-Ops
+432189,Personal Protective Equipment,CM-Drilling
+432928,Fasteners,CM-Drilling
+433067,Mud Chemicals,CM-Drilling
+433647,Fasteners,CM-Indirect
+434453,Compressor Spares,CM-Indirect
+434686,Fasteners,CM-Drilling
+434876,Pipe & Fittings,CM-Drilling
+434900,Bearings & Power Transmission,CM-Indirect
+434918,Personal Protective Equipment,CM-Indirect
+435149,Wellhead & Xmas Tree,CM-Ops
+436598,Electrical Equipment,CM-Services
+436677,Tools & Hardware,CM-Ops
+436915,Compressor Spares,CM-Ops
+437012,Personal Protective Equipment,CM-Services
+437272,IT Hardware,CM-Indirect
+437326,Compressor Spares,CM-Drilling
+437732,Bearings & Power Transmission,CM-Services
+437847,Tubing,CM-Services
+437886,Pipe & Fittings,CM-Ops
+437915,Filters,CM-Services
+438075,Bearings & Power Transmission,CM-Ops
+438671,Bearings & Power Transmission,CM-Indirect
+439367,Drilling Rig Services,CM-Ops
+439413,Professional & Consulting Services,CM-Services
+439645,Freight & Forwarding,CM-Indirect
+440687,Tools & Hardware,CM-Indirect
+441032,Vehicle Rental & Land Transport,CM-Services
+441543,Pipe & Fittings,CM-Drilling
+441548,Mud Chemicals,CM-Drilling
+442274,Office Supplies,CM-Indirect
+442558,Pipe & Fittings,CM-Services
+442660,Valves,CM-Indirect
+442930,Cement & Additives,CM-Indirect
+443858,Valves,CM-Services
+444351,Construction & Fabrication,CM-Services
+444996,Diesel / HSD,CM-Drilling
+445465,Professional & Consulting Services,CM-Drilling
+445656,Gaskets & Seals,CM-Ops
+445969,Instrumentation,CM-Drilling
+446213,Gaskets & Seals,CM-Services
+446286,Electrical Equipment,CM-Drilling
+446522,Gaskets & Seals,CM-Indirect
+447300,Personal Protective Equipment,CM-Drilling
+447776,Personal Protective Equipment,CM-Ops
+447842,Tools & Hardware,CM-Drilling
+448123,Mud Chemicals,CM-Ops
+448228,Freight & Forwarding,CM-Ops
+449227,Personal Protective Equipment,CM-Services
+449518,Personal Protective Equipment,CM-Ops
+449541,Software & Licenses,CM-Drilling
+450018,Vehicle Rental & Land Transport,CM-Drilling
+450380,Filters,CM-Drilling
+450779,Medical Services,CM-Services
+451340,Pumps & Spares,CM-Ops
+452387,Pumps & Spares,CM-Drilling
+452466,Pipe & Fittings,CM-Services
+453227,Bearings & Power Transmission,CM-Drilling
+453337,Travel & Accommodation,CM-Services
+453955,Drill Bits,CM-Drilling
+454072,Training & Certification,CM-Indirect
+454904,Tools & Hardware,CM-Indirect
+455303,Pipe & Fittings,CM-Ops
+455313,Pipe & Fittings,CM-Ops
+456564,Valves,CM-Indirect
+456652,Instrumentation,CM-Indirect
+457419,Office Rent & Building Services,CM-Services
+458458,Wellhead & Xmas Tree,CM-Drilling
+458662,Gaskets & Seals,CM-Services
+459382,Pipe & Fittings,CM-Ops
+459811,Filters,CM-Services
+460141,Pipe & Fittings,CM-Ops
+460300,Mud Chemicals,CM-Ops
+460932,Fasteners,CM-Drilling
+460942,Pipe & Fittings,CM-Indirect
+462138,Valves,CM-Drilling
+462340,Filters,CM-Services
+462953,Pumps & Spares,CM-Ops
+464330,Electrical Equipment,CM-Services
+465003,Directional Drilling & MWD,CM-Drilling
+465589,Freight & Forwarding,CM-Ops
+465641,Compressor Spares,CM-Indirect
+466801,Construction & Fabrication,CM-Services
+466830,Pipe & Fittings,CM-Indirect
+468687,Fasteners,CM-Indirect
+468788,Valves,CM-Drilling
+469094,Wellhead & Xmas Tree,CM-Indirect
+469112,Pipe & Fittings,CM-Drilling
+469375,Filters,CM-Drilling
+469541,Personal Protective Equipment,CM-Indirect
+469703,Freight & Forwarding,CM-Services
+469882,Office Rent & Building Services,CM-Services
+469907,Valves,CM-Services
+469956,Gaskets & Seals,CM-Indirect
+470223,Personal Protective Equipment,CM-Drilling
+470241,Electrical Equipment,CM-Services
+470401,Pipe & Fittings,CM-Services
+470690,Lubricants & Greases,CM-Services
+470827,Pumps & Spares,CM-Indirect
+470946,Engineering Services,CM-Services
+470962,Valves,CM-Indirect
+471484,Tubing,CM-Drilling
+471632,Electrical Equipment,CM-Services
+472146,Fasteners,CM-Services
+472166,Personal Protective Equipment,CM-Drilling
+472547,Vehicle Rental & Land Transport,CM-Services
+472655,Bearings & Power Transmission,CM-Services
+473115,Lubricants & Greases,CM-Services
+473341,Production Treating Chemicals,CM-Drilling
+473428,Bearings & Power Transmission,CM-Ops
+473579,Personal Protective Equipment,CM-Services
+474436,Pumps & Spares,CM-Ops
+474657,Office Rent & Building Services,CM-Indirect
+475132,IT Hardware,CM-Ops
+475896,Filters,CM-Services
+476073,Bearings & Power Transmission,CM-Drilling
+476625,Electrical Equipment,CM-Ops
+476742,Personal Protective Equipment,CM-Drilling
+476911,Drill Bits,CM-Services
+476926,Tools & Hardware,CM-Indirect
+476959,Pipe & Fittings,CM-Drilling
+477483,Maintenance Services,CM-Drilling
+477926,Tubing,CM-Drilling
+478583,Pipe & Fittings,CM-Indirect
+480948,Bearings & Power Transmission,CM-Drilling
+481177,Cement & Additives,CM-Services
+481767,Tools & Hardware,CM-Services
+482101,Travel & Accommodation,CM-Services
+482354,Pumps & Spares,CM-Services
+482863,Bearings & Power Transmission,CM-Ops
+483838,Electrical Equipment,CM-Ops
+483951,Valves,CM-Indirect
+484086,Vessel Charter,CM-Drilling
+484474,Tubing,CM-Indirect
+484844,Office Supplies,CM-Services
+486074,Vehicle Rental & Land Transport,CM-Services
+486466,Office Supplies,CM-Drilling
+486594,Gaskets & Seals,CM-Ops
+486863,Pipe & Fittings,CM-Services
+487299,Bearings & Power Transmission,CM-Indirect
+487729,Inspection & NDT,CM-Indirect
+487931,Bearings & Power Transmission,CM-Indirect
+488808,Mud Chemicals,CM-Services
+488893,Bearings & Power Transmission,CM-Indirect
+489630,Maintenance Services,CM-Services
+489660,Pipe & Fittings,CM-Services
+489997,Electrical Equipment,CM-Drilling
+490388,Mud Chemicals,CM-Ops
+490657,Electrical Equipment,CM-Services
+490822,Valves,CM-Indirect
+491183,Filters,CM-Services
+491573,Electrical Equipment,CM-Indirect
+491648,Fasteners,CM-Indirect
+491686,Pumps & Spares,CM-Drilling
+492794,Fasteners,CM-Indirect
+493462,Vehicle Rental & Land Transport,CM-Ops
+494518,Mud Chemicals,CM-Ops
+495228,Pumps & Spares,CM-Drilling
+495369,Bearings & Power Transmission,CM-Indirect
+495644,Bearings & Power Transmission,CM-Ops
+496229,Freight & Forwarding,CM-Services
+496604,Pipe & Fittings,CM-Indirect
+496722,Office Supplies,CM-Services
+497150,Pipe & Fittings,CM-Drilling
+499421,Vehicle Rental & Land Transport,CM-Indirect
+500128,Valves,CM-Indirect
+500408,Filters,CM-Ops
+501095,Professional & Consulting Services,CM-Indirect
+501560,Construction & Fabrication,CM-Indirect
+501878,Bearings & Power Transmission,CM-Indirect
+501937,Instrumentation,CM-Ops
+502308,Production Treating Chemicals,CM-Ops
+502353,Vehicle Rental & Land Transport,CM-Ops
+502558,Compressor Spares,CM-Indirect
+502982,IT Hardware,CM-Ops
+503295,Bearings & Power Transmission,CM-Services
+503460,Fasteners,CM-Ops
+503754,Compressor Spares,CM-Services
+504245,Lubricants & Greases,CM-Drilling
+504433,Instrumentation,CM-Drilling
+504437,Maintenance Services,CM-Indirect
+504777,Customs & Port Handling,CM-Services
+504943,Bearings & Power Transmission,CM-Ops
+504979,Fasteners,CM-Ops
+505893,Office Supplies,CM-Services
+505905,Valves,CM-Drilling
+506240,Instrumentation,CM-Indirect
+506722,Fasteners,CM-Drilling
+507152,Electrical Equipment,CM-Services
+507227,Travel & Accommodation,CM-Drilling
+507235,Freight & Forwarding,CM-Services
+508022,Personal Protective Equipment,CM-Indirect
+508083,Valves,CM-Indirect
+508445,Instrumentation,CM-Indirect
+508527,Valves,CM-Indirect
+508848,Fasteners,CM-Indirect
+508981,Personal Protective Equipment,CM-Indirect
+509792,Telecom & Connectivity,CM-Services
+510135,Bearings & Power Transmission,CM-Ops
+510231,Fasteners,CM-Services
+510526,Vehicle Rental & Land Transport,CM-Indirect
+511384,Cementing Services,CM-Indirect
+511678,Bearings & Power Transmission,CM-Ops
+512065,Valves,CM-Ops
+512349,Freight & Forwarding,CM-Ops
+512383,Helicopter Services,CM-Drilling
+512508,Fasteners,CM-Drilling
+512538,Filters,CM-Indirect
+513166,Pipe & Fittings,CM-Services
+514112,Mud Chemicals,CM-Indirect
+514849,Wireline & Logging,CM-Ops
+515206,Fasteners,CM-Ops
+516156,Valves,CM-Ops
+516815,Tools & Hardware,CM-Drilling
+517792,Office Supplies,CM-Ops
+518422,Office Supplies,CM-Ops
+519384,Medical Services,CM-Drilling
+519504,Customs & Port Handling,CM-Indirect
+520097,Tools & Hardware,CM-Drilling
+520109,Cement & Additives,CM-Indirect
+520791,Maintenance Services,CM-Ops
+522127,Tools & Hardware,CM-Indirect
+522485,Pumps & Spares,CM-Ops
+522805,Pipe & Fittings,CM-Indirect
+523384,Customs & Port Handling,CM-Ops
+524465,Vessel Charter,CM-Services
+524835,Bearings & Power Transmission,CM-Ops
+525365,Pipe & Fittings,CM-Ops
+525613,Personal Protective Equipment,CM-Services
+526413,Valves,CM-Ops
+526459,Valves,CM-Drilling
+526493,Security Services,CM-Ops
+526661,Lubricants & Greases,CM-Drilling
+526802,Maintenance Services,CM-Indirect
+527134,Personal Protective Equipment,CM-Services
+527197,Gaskets & Seals,CM-Drilling
+527680,Instrumentation,CM-Ops
+527768,Personal Protective Equipment,CM-Drilling
+528399,Bearings & Power Transmission,CM-Drilling
+530456,Instrumentation,CM-Services
+530849,Pipe & Fittings,CM-Indirect
+531246,Cement & Additives,CM-Indirect
+531354,Fire & Gas Safety Equipment,CM-Indirect
+531833,Tools & Hardware,CM-Indirect
+532390,Software & Licenses,CM-Drilling
+532613,Bearings & Power Transmission,CM-Services
+533268,Electrical Equipment,CM-Services
+533312,Office Supplies,CM-Drilling
+533335,Bearings & Power Transmission,CM-Services
+533588,Compressor Spares,CM-Services
+534700,Pumps & Spares,CM-Drilling
+534964,Pipe & Fittings,CM-Services
+534982,Well Testing & Mud Logging,CM-Drilling
+535266,Tools & Hardware,CM-Drilling
+535657,Pumps & Spares,CM-Ops
+535693,Personal Protective Equipment,CM-Ops
+535733,Office Rent & Building Services,CM-Ops
+535946,Production Treating Chemicals,CM-Indirect
+536880,Bearings & Power Transmission,CM-Ops
+537177,Electrical Equipment,CM-Indirect
+537612,Filters,CM-Services
+538232,Inspection & NDT,CM-Indirect
+538897,Inspection & NDT,CM-Services
+539254,Filters,CM-Ops
+539476,Construction & Fabrication,CM-Indirect
+540369,Maintenance Services,CM-Drilling
+541284,Gaskets & Seals,CM-Drilling
+542062,Valves,CM-Indirect
+542069,Office Rent & Building Services,CM-Services
+542196,Pipe & Fittings,CM-Indirect
+542255,Office Supplies,CM-Indirect
+542358,Completion Equipment,CM-Indirect
+542825,Mud Chemicals,CM-Ops
+543181,Tubing,CM-Drilling
+543271,Pipe & Fittings,CM-Services
+543338,Freight & Forwarding,CM-Drilling
+543668,Pumps & Spares,CM-Indirect
+544309,Pumps & Spares,CM-Indirect
+545168,Wireline & Logging,CM-Drilling
+545307,Filters,CM-Drilling
+545529,Travel & Accommodation,CM-Ops
+546995,Drilling Rig Services,CM-Indirect
+547067,Instrumentation,CM-Indirect
+547110,Vehicle Rental & Land Transport,CM-Ops
+547527,Casing,CM-Ops
+548113,IT Hardware,CM-Indirect
+548153,Compressor Spares,CM-Indirect
+549597,Fasteners,CM-Ops
+550309,Wellhead & Xmas Tree,CM-Indirect
+550879,Tools & Hardware,CM-Ops
+551927,Casing,CM-Indirect
+552783,Freight & Forwarding,CM-Indirect
+553029,Telecom & Connectivity,CM-Ops
+553506,Drill Bits,CM-Ops
+554531,Personal Protective Equipment,CM-Ops
+555414,Fasteners,CM-Drilling
+556595,Gaskets & Seals,CM-Ops
+556765,Gaskets & Seals,CM-Drilling
+556806,Gaskets & Seals,CM-Drilling
+557008,Pipe & Fittings,CM-Ops
+557380,Completion Equipment,CM-Indirect
+557452,Valves,CM-Services
+557517,Travel & Accommodation,CM-Ops
+558129,Instrumentation,CM-Ops
+558538,Gaskets & Seals,CM-Drilling
+559005,Freight & Forwarding,CM-Drilling
+559399,Valves,CM-Ops
+560194,Compressor Spares,CM-Services
+560974,Electrical Equipment,CM-Drilling
+561071,Compressor Spares,CM-Services
+561208,Directional Drilling & MWD,CM-Drilling
+561260,Casing,CM-Indirect
+561862,Pipe & Fittings,CM-Ops
+562403,Mud Chemicals,CM-Drilling
+564061,Lubricants & Greases,CM-Services
+565431,Tools & Hardware,CM-Ops
+566143,Gaskets & Seals,CM-Ops
+566362,Maintenance Services,CM-Services
+566793,Mud Chemicals,CM-Indirect
+566922,Lubricants & Greases,CM-Services
+567362,Freight & Forwarding,CM-Services
+567579,Electrical Equipment,CM-Indirect
+568037,Gaskets & Seals,CM-Ops
+568484,Cement & Additives,CM-Services
+568734,Drilling Rig Services,CM-Services
+569362,Inspection & NDT,CM-Indirect
+569399,Helicopter Services,CM-Services
+569575,Instrumentation,CM-Drilling
+569762,Valves,CM-Drilling
+569917,Valves,CM-Services
+570267,Bearings & Power Transmission,CM-Ops
+570349,Electrical Equipment,CM-Indirect
+571136,Engineering Services,CM-Ops
+571580,Mud Chemicals,CM-Drilling
+572410,Office Supplies,CM-Drilling
+572658,Electrical Equipment,CM-Indirect
+573102,Instrumentation,CM-Indirect
+573381,Tools & Hardware,CM-Indirect
+574464,Casing,CM-Services
+574708,Compressor Spares,CM-Services
+574826,Valves,CM-Services
+574851,Gaskets & Seals,CM-Drilling
+575055,Drill Bits,CM-Indirect
+575309,Valves,CM-Services
+575372,Office Supplies,CM-Indirect
+576333,Bearings & Power Transmission,CM-Drilling
+577294,Valves,CM-Indirect
+577342,Office Rent & Building Services,CM-Services
+577511,Pipe & Fittings,CM-Services
+577799,Travel & Accommodation,CM-Ops
+578253,Casing,CM-Drilling
+578630,Lubricants & Greases,CM-Indirect
+580267,IT Hardware,CM-Ops
+580438,Instrumentation,CM-Ops
+580970,Pipe & Fittings,CM-Indirect
+582256,Pipe & Fittings,CM-Indirect
+582371,Mud Chemicals,CM-Ops
+582630,Pipe & Fittings,CM-Services
+582738,Travel & Accommodation,CM-Drilling
+583123,Instrumentation,CM-Ops
+583279,Gaskets & Seals,CM-Indirect
+583285,Tools & Hardware,CM-Services
+584636,Fire & Gas Safety Equipment,CM-Ops
+584685,Pipe & Fittings,CM-Ops
+585888,Instrumentation,CM-Drilling
+585889,Filters,CM-Indirect
+586219,Fasteners,CM-Ops
+587803,Tools & Hardware,CM-Ops
+588201,Filters,CM-Ops
+588435,Mud Chemicals,CM-Services
+588904,Office Supplies,CM-Indirect
+589351,Valves,CM-Indirect
+589619,Training & Certification,CM-Services
+589832,Personal Protective Equipment,CM-Indirect
+590409,Freight & Forwarding,CM-Drilling
+591871,Bearings & Power Transmission,CM-Indirect
+592059,Instrumentation,CM-Drilling
+592481,Compressor Spares,CM-Indirect
+592581,Fire & Gas Safety Equipment,CM-Indirect
+592703,Training & Certification,CM-Indirect
+592867,Drill Bits,CM-Ops
+593415,Instrumentation,CM-Services
+593769,Mud Chemicals,CM-Services
+593889,Pumps & Spares,CM-Drilling
+594547,Pipe & Fittings,CM-Services
+595854,Office Supplies,CM-Indirect
+595867,Gaskets & Seals,CM-Ops
+595912,Training & Certification,CM-Ops
+595952,Security Services,CM-Indirect
+596349,Bearings & Power Transmission,CM-Drilling
+596480,Tools & Hardware,CM-Services
+596610,Personal Protective Equipment,CM-Indirect
+597320,Casing,CM-Indirect
+597536,Directional Drilling & MWD,CM-Ops
+597609,Casing,CM-Services
+598037,Instrumentation,CM-Indirect
+598303,Diesel / HSD,CM-Indirect
+598822,Mud Chemicals,CM-Services
+599416,Completion Equipment,CM-Indirect
+599721,Gaskets & Seals,CM-Ops
+599962,Vehicle Rental & Land Transport,CM-Drilling
+600424,Pumps & Spares,CM-Services
+600958,Completion Equipment,CM-Indirect
+601189,Pipe & Fittings,CM-Indirect
+603396,Pipe & Fittings,CM-Drilling
+603997,Fire & Gas Safety Equipment,CM-Ops
+604057,Tools & Hardware,CM-Ops
+604152,Travel & Accommodation,CM-Services
+605292,Construction & Fabrication,CM-Ops
+606125,Personal Protective Equipment,CM-Ops
+606328,Engineering Services,CM-Drilling
+606763,Maintenance Services,CM-Indirect
+606857,Valves,CM-Ops
+607121,Cementing Services,CM-Ops
+607558,Pipe & Fittings,CM-Drilling
+607981,Vehicle Rental & Land Transport,CM-Indirect
+608195,Personal Protective Equipment,CM-Drilling
+608602,Valves,CM-Ops
+609178,Construction & Fabrication,CM-Services
+609402,Casing,CM-Drilling
+609653,Travel & Accommodation,CM-Services
+610156,Personal Protective Equipment,CM-Drilling
+610453,Drill Bits,CM-Services
+610660,Mud Chemicals,CM-Ops
+610705,Bearings & Power Transmission,CM-Indirect
+611359,Instrumentation,CM-Indirect
+611519,Pumps & Spares,CM-Ops
+611792,Tools & Hardware,CM-Indirect
+611851,Tools & Hardware,CM-Services
+612028,Inspection & NDT,CM-Indirect
+613108,Well Testing & Mud Logging,CM-Indirect
+613130,Production Treating Chemicals,CM-Services
+613163,Gaskets & Seals,CM-Ops
+613376,Casing,CM-Ops
+613460,Personal Protective Equipment,CM-Indirect
+614133,Travel & Accommodation,CM-Drilling
+614324,Valves,CM-Services
+614719,Pipe & Fittings,CM-Services
+614750,Completion Equipment,CM-Indirect
+615002,Customs & Port Handling,CM-Drilling
+615641,Personal Protective Equipment,CM-Drilling
+615854,Lubricants & Greases,CM-Drilling
+616615,Personal Protective Equipment,CM-Indirect
+616670,Vessel Charter,CM-Drilling
+617287,Bearings & Power Transmission,CM-Ops
+617758,Instrumentation,CM-Ops
+618142,Compressor Spares,CM-Ops
+618289,Fasteners,CM-Indirect
+618533,Casing,CM-Indirect
+618682,Medical Services,CM-Ops
+618954,Instrumentation,CM-Drilling
+619261,Gaskets & Seals,CM-Ops
+619409,Telecom & Connectivity,CM-Services
+620369,Stimulation & Coiled Tubing,CM-Drilling
+620845,Office Supplies,CM-Drilling
+621054,Inspection & NDT,CM-Indirect
+621110,Fire & Gas Safety Equipment,CM-Drilling
+621238,Security Services,CM-Indirect
+621302,Inspection & NDT,CM-Ops
+621696,Office Rent & Building Services,CM-Ops
+621858,Freight & Forwarding,CM-Services
+621923,Office Supplies,CM-Indirect
+622537,Cementing Services,CM-Ops
+622916,Filters,CM-Drilling
+623410,Valves,CM-Indirect
+623458,Diesel / HSD,CM-Drilling
+624088,Personal Protective Equipment,CM-Ops
+624121,Tools & Hardware,CM-Services
+624383,Valves,CM-Indirect
+625360,Electrical Equipment,CM-Services
+626143,Bearings & Power Transmission,CM-Drilling
+626691,Bearings & Power Transmission,CM-Services
+626979,Pipe & Fittings,CM-Indirect
+627465,IT Hardware,CM-Services
+627938,Filters,CM-Drilling
+628365,Training & Certification,CM-Services
+629743,Electrical Equipment,CM-Drilling
+629766,Diesel / HSD,CM-Ops
+630508,Filters,CM-Indirect
+630743,Filters,CM-Drilling
+631389,Freight & Forwarding,CM-Drilling
+631770,Valves,CM-Ops
+632573,Instrumentation,CM-Services
+632674,Valves,CM-Ops
+633169,Filters,CM-Indirect
+633438,Personal Protective Equipment,CM-Services
+633581,Gaskets & Seals,CM-Drilling
+633585,Gaskets & Seals,CM-Ops
+634112,Gaskets & Seals,CM-Services
+634405,Fasteners,CM-Ops
+634429,Freight & Forwarding,CM-Services
+634657,Personal Protective Equipment,CM-Services
+634846,Gaskets & Seals,CM-Drilling
+634927,Drill Bits,CM-Drilling
+635117,Electrical Equipment,CM-Indirect
+635414,Pipe & Fittings,CM-Ops
+635558,Construction & Fabrication,CM-Drilling
+636388,Freight & Forwarding,CM-Indirect
+636505,Travel & Accommodation,CM-Services
+637462,Pipe & Fittings,CM-Drilling
+637467,Pipe & Fittings,CM-Indirect
+637747,Electrical Equipment,CM-Services
+638069,Tools & Hardware,CM-Drilling
+638675,Gaskets & Seals,CM-Indirect
+638730,Personal Protective Equipment,CM-Indirect
+638777,Filters,CM-Indirect
+639104,Maintenance Services,CM-Services
+639877,Electrical Equipment,CM-Drilling
+639980,Training & Certification,CM-Ops
+640317,Pipe & Fittings,CM-Indirect
+641140,Fire & Gas Safety Equipment,CM-Indirect
+641464,Waste & Environmental Services,CM-Drilling
+641524,Bearings & Power Transmission,CM-Indirect
+641615,Lubricants & Greases,CM-Indirect
+642511,Drill Bits,CM-Drilling
+642644,Pumps & Spares,CM-Services
+642694,Valves,CM-Drilling
+642958,Tools & Hardware,CM-Drilling
+643080,Office Supplies,CM-Indirect
+643931,Pipe & Fittings,CM-Indirect
+644852,Travel & Accommodation,CM-Drilling
+646708,Travel & Accommodation,CM-Indirect
+646763,Instrumentation,CM-Services
+647584,Filters,CM-Indirect
+647890,Diesel / HSD,CM-Drilling
+649339,Personal Protective Equipment,CM-Services
+649878,Tools & Hardware,CM-Services
+650681,IT Hardware,CM-Drilling
+650887,Personal Protective Equipment,CM-Indirect
+653100,Inspection & NDT,CM-Services
+653743,Travel & Accommodation,CM-Indirect
+655210,Gaskets & Seals,CM-Services
+655352,Pipe & Fittings,CM-Indirect
+657014,Filters,CM-Indirect
+657262,Customs & Port Handling,CM-Services
+657291,IT Hardware,CM-Indirect
+657998,Fasteners,CM-Indirect
+658252,Valves,CM-Drilling
+658428,Pipe & Fittings,CM-Ops
+659173,Pipe & Fittings,CM-Drilling
+659846,Cementing Services,CM-Services
+659861,Diesel / HSD,CM-Indirect
+660811,Electrical Equipment,CM-Ops
+661396,Fasteners,CM-Services
+661579,Freight & Forwarding,CM-Services
+661648,Compressor Spares,CM-Services
+661848,Tools & Hardware,CM-Indirect
+663154,Gaskets & Seals,CM-Services
+663955,Electrical Equipment,CM-Indirect
+664289,Mud Chemicals,CM-Drilling
+664971,Tubing,CM-Drilling
+665393,Filters,CM-Ops
+665462,Compressor Spares,CM-Services
+665685,Fasteners,CM-Drilling
+665970,Mud Chemicals,CM-Drilling
+667285,Waste & Environmental Services,CM-Drilling
+667290,Freight & Forwarding,CM-Drilling
+667369,Fire & Gas Safety Equipment,CM-Drilling
+667550,Maintenance Services,CM-Drilling
+667704,Instrumentation,CM-Ops
+668742,Pipe & Fittings,CM-Drilling
+668912,Pipe & Fittings,CM-Indirect
+669141,Mud Chemicals,CM-Ops
+669190,Gaskets & Seals,CM-Indirect
+669656,Tubing,CM-Services
+669678,Instrumentation,CM-Indirect
+670080,Customs & Port Handling,CM-Services
+670354,Electrical Equipment,CM-Drilling
+671058,Pumps & Spares,CM-Drilling
+671405,Electrical Equipment,CM-Drilling
+671473,Instrumentation,CM-Ops
+671748,Helicopter Services,CM-Services
+671998,Travel & Accommodation,CM-Ops
+672216,Personal Protective Equipment,CM-Services
+672399,Pipe & Fittings,CM-Services
+673333,Freight & Forwarding,CM-Indirect
+673438,Electrical Equipment,CM-Services
+674045,Gaskets & Seals,CM-Services
+674280,Tools & Hardware,CM-Ops
+674738,Gaskets & Seals,CM-Ops
+674769,Tools & Hardware,CM-Ops
+675236,Fasteners,CM-Drilling
+675847,Drill Bits,CM-Services
+676272,Pipe & Fittings,CM-Ops
+676894,Fasteners,CM-Ops
+677812,Bearings & Power Transmission,CM-Drilling
+678104,Pipe & Fittings,CM-Services
+678866,Gaskets & Seals,CM-Ops
+678886,Fasteners,CM-Services
+679323,Well Testing & Mud Logging,CM-Ops
+679582,Compressor Spares,CM-Services
+679694,Electrical Equipment,CM-Ops
+680463,Cementing Services,CM-Drilling
+680838,Inspection & NDT,CM-Indirect
+681029,Electrical Equipment,CM-Drilling
+681267,Training & Certification,CM-Ops
+681839,Filters,CM-Drilling
+682682,Freight & Forwarding,CM-Indirect
+683414,Maintenance Services,CM-Drilling
+683611,Tools & Hardware,CM-Services
+684067,Compressor Spares,CM-Services
+686284,Freight & Forwarding,CM-Services
+686642,Compressor Spares,CM-Ops
+686728,Valves,CM-Drilling
+686900,Office Supplies,CM-Indirect
+687142,Fire & Gas Safety Equipment,CM-Indirect
+687180,Electrical Equipment,CM-Services
+688800,Valves,CM-Indirect
+689109,Office Supplies,CM-Drilling
+690232,IT Hardware,CM-Drilling
+690265,Valves,CM-Ops
+690719,Pipe & Fittings,CM-Ops
+691621,Personal Protective Equipment,CM-Services
+691834,Customs & Port Handling,CM-Indirect
+692179,Training & Certification,CM-Services
+693988,Pipe & Fittings,CM-Services
+694383,Pipe & Fittings,CM-Ops
+694652,Fire & Gas Safety Equipment,CM-Services
+694869,Fire & Gas Safety Equipment,CM-Indirect
+695109,Freight & Forwarding,CM-Indirect
+695711,Tubing,CM-Services
+695836,Pipe & Fittings,CM-Indirect
+696019,Fasteners,CM-Ops
+696199,Bearings & Power Transmission,CM-Services
+696276,Office Rent & Building Services,CM-Indirect
+696388,Compressor Spares,CM-Drilling
+696427,Electrical Equipment,CM-Services
+697407,Personal Protective Equipment,CM-Ops
+697906,Personal Protective Equipment,CM-Indirect
+698240,Bearings & Power Transmission,CM-Ops
+698455,Bearings & Power Transmission,CM-Ops
+699371,Instrumentation,CM-Services
+699632,Gaskets & Seals,CM-Ops
+699692,Fasteners,CM-Services
+700257,Compressor Spares,CM-Indirect
+700755,Electrical Equipment,CM-Indirect
+700786,Fasteners,CM-Indirect
+701525,Freight & Forwarding,CM-Indirect
+701585,Pipe & Fittings,CM-Services
+701752,Valves,CM-Indirect
+701787,Vehicle Rental & Land Transport,CM-Ops
+701930,Travel & Accommodation,CM-Drilling
+702098,Professional & Consulting Services,CM-Drilling
+702499,Engineering Services,CM-Services
+702640,Tools & Hardware,CM-Indirect
+703600,Inspection & NDT,CM-Ops
+703694,Training & Certification,CM-Indirect
+703711,Lubricants & Greases,CM-Indirect
+704475,Bearings & Power Transmission,CM-Drilling
+704601,Telecom & Connectivity,CM-Indirect
+704666,Engineering Services,CM-Indirect
+705708,Instrumentation,CM-Services
+706786,Personal Protective Equipment,CM-Drilling
+707163,Personal Protective Equipment,CM-Indirect
+707172,Valves,CM-Drilling
+707206,Freight & Forwarding,CM-Ops
+707648,Tools & Hardware,CM-Services
+707655,Valves,CM-Services
+707860,Tubing,CM-Services
+708344,Tools & Hardware,CM-Indirect
+708446,Pumps & Spares,CM-Drilling
+709019,Pipe & Fittings,CM-Indirect
+710731,Office Supplies,CM-Ops
+712669,Filters,CM-Services
+712746,Office Rent & Building Services,CM-Drilling
+712914,Electrical Equipment,CM-Services
+713057,Bearings & Power Transmission,CM-Services
+713208,Valves,CM-Drilling
+713752,Pumps & Spares,CM-Services
+713794,Gaskets & Seals,CM-Services
+714569,Instrumentation,CM-Services
+714689,Pipe & Fittings,CM-Services
+714725,Instrumentation,CM-Indirect
+714879,Fasteners,CM-Ops
+715275,Bearings & Power Transmission,CM-Indirect
+715899,Training & Certification,CM-Indirect
+716641,Pipe & Fittings,CM-Drilling
+716695,Tools & Hardware,CM-Drilling
+716955,Instrumentation,CM-Indirect
+717257,Personal Protective Equipment,CM-Ops
+717284,Filters,CM-Ops
+717719,Tools & Hardware,CM-Services
+717838,Pumps & Spares,CM-Ops
+718240,Lubricants & Greases,CM-Drilling
+718449,Travel & Accommodation,CM-Ops
+718959,Pumps & Spares,CM-Services
+720259,Pumps & Spares,CM-Drilling
+720396,Bearings & Power Transmission,CM-Indirect
+720910,Directional Drilling & MWD,CM-Indirect
+721440,Freight & Forwarding,CM-Indirect
+722128,Pipe & Fittings,CM-Ops
+722755,Completion Equipment,CM-Drilling
+723027,Filters,CM-Drilling
+723111,Tools & Hardware,CM-Drilling
+724037,Mud Chemicals,CM-Ops
+724179,Tools & Hardware,CM-Services
+724696,Mud Chemicals,CM-Services
+724838,Fire & Gas Safety Equipment,CM-Indirect
+726332,Instrumentation,CM-Indirect
+726961,Freight & Forwarding,CM-Indirect
+727538,Directional Drilling & MWD,CM-Ops
+729003,Valves,CM-Services
+729118,Tools & Hardware,CM-Drilling
+729324,Drill Bits,CM-Indirect
+730778,Personal Protective Equipment,CM-Services
+730944,Personal Protective Equipment,CM-Indirect
+731003,Valves,CM-Drilling
+731300,Fasteners,CM-Indirect
+732152,Fasteners,CM-Services
+732428,Customs & Port Handling,CM-Indirect
+732517,Bearings & Power Transmission,CM-Indirect
+733361,Vehicle Rental & Land Transport,CM-Indirect
+733817,Filters,CM-Services
+734371,Electrical Equipment,CM-Drilling
+735953,Tools & Hardware,CM-Ops
+736688,Travel & Accommodation,CM-Services
+736928,IT Hardware,CM-Services
+737168,Mud Chemicals,CM-Services
+738443,Waste & Environmental Services,CM-Indirect
+738642,Mud Chemicals,CM-Drilling
+738677,Instrumentation,CM-Drilling
+738763,Pipe & Fittings,CM-Drilling
+739121,Bearings & Power Transmission,CM-Drilling
+739372,Fasteners,CM-Services
+740183,Pipe & Fittings,CM-Services
+740337,Electrical Equipment,CM-Indirect
+740591,Software & Licenses,CM-Services
+740599,Gaskets & Seals,CM-Drilling
+740708,Production Treating Chemicals,CM-Services
+740876,Lubricants & Greases,CM-Ops
+741131,Training & Certification,CM-Services
+741871,Pipe & Fittings,CM-Ops
+743606,Pipe & Fittings,CM-Services
+744132,Well Testing & Mud Logging,CM-Drilling
+744721,Construction & Fabrication,CM-Services
+745325,Valves,CM-Ops
+745614,Instrumentation,CM-Ops
+746073,Office Supplies,CM-Drilling
+746164,Valves,CM-Drilling
+746509,Helicopter Services,CM-Ops
+746985,Personal Protective Equipment,CM-Indirect
+747040,Gaskets & Seals,CM-Ops
+747844,Diesel / HSD,CM-Drilling
+747976,Telecom & Connectivity,CM-Services
+748517,Casing,CM-Services
+748552,Fasteners,CM-Ops
+748634,Instrumentation,CM-Drilling
+749607,Completion Equipment,CM-Drilling
+750960,Pipe & Fittings,CM-Services
+751456,Completion Equipment,CM-Drilling
+752019,Cement & Additives,CM-Indirect
+752063,Pipe & Fittings,CM-Indirect
+752222,Office Supplies,CM-Drilling
+752298,Diesel / HSD,CM-Ops
+754513,Electrical Equipment,CM-Services
+754772,Vehicle Rental & Land Transport,CM-Drilling
+754900,Bearings & Power Transmission,CM-Drilling
+755384,Tools & Hardware,CM-Drilling
+755463,Pipe & Fittings,CM-Indirect
+755680,Compressor Spares,CM-Indirect
+755749,Professional & Consulting Services,CM-Services
+756993,Pipe & Fittings,CM-Indirect
+757427,Drill Bits,CM-Drilling
+757517,Valves,CM-Drilling
+758257,Fasteners,CM-Ops
+759023,Tools & Hardware,CM-Ops
+759952,Diesel / HSD,CM-Ops
+759953,Diesel / HSD,CM-Services
+760426,Bearings & Power Transmission,CM-Ops
+760498,Valves,CM-Services
+760812,Gaskets & Seals,CM-Ops
+761641,Tools & Hardware,CM-Indirect
+762385,Electrical Equipment,CM-Drilling
+762603,Fasteners,CM-Drilling
+764612,Bearings & Power Transmission,CM-Drilling
+764872,Gaskets & Seals,CM-Ops
+765293,Filters,CM-Indirect
+765394,Compressor Spares,CM-Drilling
+765463,Pipe & Fittings,CM-Ops
+765649,Vehicle Rental & Land Transport,CM-Indirect
+765720,Travel & Accommodation,CM-Services
+766862,Lubricants & Greases,CM-Drilling
+767262,Wellhead & Xmas Tree,CM-Drilling
+767326,IT Hardware,CM-Indirect
+767970,Lubricants & Greases,CM-Services
+769273,Gaskets & Seals,CM-Indirect
+770481,Waste & Environmental Services,CM-Services
+771313,Bearings & Power Transmission,CM-Ops
+771457,Pipe & Fittings,CM-Indirect
+771728,Pipe & Fittings,CM-Ops
+771762,Instrumentation,CM-Services
+772149,Freight & Forwarding,CM-Drilling
+772741,Freight & Forwarding,CM-Services
+773070,Office Supplies,CM-Ops
+773138,Customs & Port Handling,CM-Drilling
+773191,Freight & Forwarding,CM-Drilling
+773995,Valves,CM-Indirect
+774699,Pipe & Fittings,CM-Indirect
+775150,Freight & Forwarding,CM-Ops
+775359,Pipe & Fittings,CM-Drilling
+775382,Freight & Forwarding,CM-Ops
+775638,Fasteners,CM-Indirect
+776260,Bearings & Power Transmission,CM-Ops
+776374,Pumps & Spares,CM-Ops
+776611,Valves,CM-Drilling
+776614,Valves,CM-Drilling
+776636,Customs & Port Handling,CM-Indirect
+776691,Valves,CM-Ops
+776732,Tubing,CM-Ops
+777162,Fire & Gas Safety Equipment,CM-Services
+778320,IT Hardware,CM-Ops
+778353,Pipe & Fittings,CM-Indirect
+778489,Tools & Hardware,CM-Indirect
+778591,Gaskets & Seals,CM-Ops
+779093,Filters,CM-Indirect
+779533,Gaskets & Seals,CM-Indirect
+779875,Cementing Services,CM-Services
+780024,Valves,CM-Services
+780087,Customs & Port Handling,CM-Services
+780296,Valves,CM-Ops
+780446,Electrical Equipment,CM-Indirect
+780511,Instrumentation,CM-Services
+781347,Electrical Equipment,CM-Drilling
+781491,Wellhead & Xmas Tree,CM-Ops
+782433,Pumps & Spares,CM-Indirect
+782759,Fasteners,CM-Ops
+782897,Gaskets & Seals,CM-Drilling
+783394,Fire & Gas Safety Equipment,CM-Services
+785043,Pumps & Spares,CM-Ops
+785721,Waste & Environmental Services,CM-Ops
+785889,Freight & Forwarding,CM-Indirect
+785911,Well Testing & Mud Logging,CM-Indirect
+786043,Production Treating Chemicals,CM-Indirect
+786715,Instrumentation,CM-Drilling
+786754,Filters,CM-Drilling
+787342,Instrumentation,CM-Ops
+788345,Pipe & Fittings,CM-Indirect
+788596,Pipe & Fittings,CM-Ops
+788975,Instrumentation,CM-Services
+789058,Personal Protective Equipment,CM-Drilling
+789160,Customs & Port Handling,CM-Drilling
+789424,Pipe & Fittings,CM-Indirect
+789425,Pipe & Fittings,CM-Ops
+789654,Filters,CM-Services
+790183,Lubricants & Greases,CM-Indirect
+790365,Instrumentation,CM-Drilling
+790389,IT Hardware,CM-Indirect
+791075,Instrumentation,CM-Drilling
+792103,Bearings & Power Transmission,CM-Drilling
+792285,Customs & Port Handling,CM-Drilling
+792499,Inspection & NDT,CM-Ops
+793058,Bearings & Power Transmission,CM-Ops
+793754,Pipe & Fittings,CM-Ops
+794299,Valves,CM-Indirect
+794558,Stimulation & Coiled Tubing,CM-Services
+795063,Travel & Accommodation,CM-Ops
+795878,Fire & Gas Safety Equipment,CM-Ops
+796079,Valves,CM-Indirect
+796271,Personal Protective Equipment,CM-Drilling
+796974,Training & Certification,CM-Services
+797164,Instrumentation,CM-Ops
+797459,Construction & Fabrication,CM-Ops
+797507,Valves,CM-Ops
+797591,Pipe & Fittings,CM-Indirect
+797776,Pipe & Fittings,CM-Services
+797835,Electrical Equipment,CM-Services
+797992,Gaskets & Seals,CM-Services
+798728,Electrical Equipment,CM-Drilling
+798961,Mud Chemicals,CM-Ops
+799515,Valves,CM-Services
+799551,Travel & Accommodation,CM-Indirect
+800065,Freight & Forwarding,CM-Ops
+801175,Lubricants & Greases,CM-Services
+801705,Engineering Services,CM-Drilling
+803602,Customs & Port Handling,CM-Indirect
+803671,Gaskets & Seals,CM-Drilling
+804984,Wellhead & Xmas Tree,CM-Services
+805698,Diesel / HSD,CM-Services
+806087,Pipe & Fittings,CM-Drilling
+807413,Diesel / HSD,CM-Drilling
+807524,Customs & Port Handling,CM-Indirect
+807686,Pipe & Fittings,CM-Drilling
+807902,Instrumentation,CM-Indirect
+808718,Tools & Hardware,CM-Drilling
+808871,Pipe & Fittings,CM-Services
+809257,Valves,CM-Services
+809281,Bearings & Power Transmission,CM-Drilling
+809893,Electrical Equipment,CM-Ops
+810213,Telecom & Connectivity,CM-Drilling
+810749,Filters,CM-Services
+810964,Tubing,CM-Indirect
+812036,Professional & Consulting Services,CM-Drilling
+812294,Pumps & Spares,CM-Indirect
+812398,Diesel / HSD,CM-Indirect
+812658,Cement & Additives,CM-Drilling
+813077,Engineering Services,CM-Drilling
+814326,Bearings & Power Transmission,CM-Indirect
+815558,Filters,CM-Ops
+816472,Tubing,CM-Indirect
+816504,Tools & Hardware,CM-Services
+816936,Gaskets & Seals,CM-Ops
+817007,Valves,CM-Services
+817993,Pipe & Fittings,CM-Ops
+818058,Tools & Hardware,CM-Indirect
+818156,Tubing,CM-Drilling
+819320,Pumps & Spares,CM-Services
+819851,Completion Equipment,CM-Drilling
+821318,Pipe & Fittings,CM-Indirect
+821530,IT Hardware,CM-Drilling
+822114,IT Hardware,CM-Ops
+822154,Travel & Accommodation,CM-Indirect
+824241,Pipe & Fittings,CM-Services
+824835,Pipe & Fittings,CM-Services
+825183,Telecom & Connectivity,CM-Ops
+825227,Lubricants & Greases,CM-Ops
+825321,Electrical Equipment,CM-Indirect
+825371,Freight & Forwarding,CM-Indirect
+827473,IT Hardware,CM-Ops
+828375,Freight & Forwarding,CM-Ops
+828765,Office Supplies,CM-Ops
+829394,Tools & Hardware,CM-Indirect
+829459,Fire & Gas Safety Equipment,CM-Services
+830453,Vehicle Rental & Land Transport,CM-Ops
+830555,Inspection & NDT,CM-Indirect
+830669,Electrical Equipment,CM-Ops
+831431,Valves,CM-Drilling
+831757,Pumps & Spares,CM-Drilling
+832755,Bearings & Power Transmission,CM-Ops
+833029,Bearings & Power Transmission,CM-Drilling
+833692,Vehicle Rental & Land Transport,CM-Services
+833836,Tools & Hardware,CM-Ops
+834618,Instrumentation,CM-Indirect
+834886,Cementing Services,CM-Services
+837040,Gaskets & Seals,CM-Indirect
+837395,Personal Protective Equipment,CM-Ops
+838469,Lubricants & Greases,CM-Drilling
+839605,Gaskets & Seals,CM-Indirect
+840660,Bearings & Power Transmission,CM-Ops
+840741,Freight & Forwarding,CM-Services
+840870,Drill Bits,CM-Drilling
+841246,Production Treating Chemicals,CM-Services
+841575,Security Services,CM-Services
+841585,Bearings & Power Transmission,CM-Indirect
+842606,Valves,CM-Indirect
+842920,Fasteners,CM-Ops
+843638,Valves,CM-Ops
+843901,Production Treating Chemicals,CM-Indirect
+844818,Valves,CM-Ops
+844875,Tools & Hardware,CM-Indirect
+844877,Bearings & Power Transmission,CM-Services
+844950,Gaskets & Seals,CM-Ops
+844976,Gaskets & Seals,CM-Indirect
+845954,Pipe & Fittings,CM-Services
+846073,Tools & Hardware,CM-Indirect
+846478,Customs & Port Handling,CM-Indirect
+847177,Lubricants & Greases,CM-Ops
+847551,Lubricants & Greases,CM-Indirect
+848636,Travel & Accommodation,CM-Services
+848740,Pipe & Fittings,CM-Drilling
+848935,Training & Certification,CM-Indirect
+849014,Bearings & Power Transmission,CM-Ops
+849637,Diesel / HSD,CM-Ops
+849693,Gaskets & Seals,CM-Services
+849784,Filters,CM-Services
+850168,Vehicle Rental & Land Transport,CM-Drilling
+850181,Tools & Hardware,CM-Ops
+850601,Customs & Port Handling,CM-Services
+851144,Completion Equipment,CM-Drilling
+851277,Gaskets & Seals,CM-Indirect
+851690,Filters,CM-Drilling
+851828,Instrumentation,CM-Ops
+852445,Fire & Gas Safety Equipment,CM-Drilling
+852502,Tools & Hardware,CM-Drilling
+853288,Freight & Forwarding,CM-Services
+853383,Fasteners,CM-Drilling
+854612,Tools & Hardware,CM-Drilling
+854962,Pipe & Fittings,CM-Ops

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Upstream O&amp;G Spend Cube</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+/* VOICE: a procurement review pack, sober and exact, numbers first.
+   IDEA: the category manager's spend ledger, a ruled sheet with the verdict in the margin.
+   PICTURE: stacked yearly spend columns by category family, with the classification lift beside it.
+   COLOUR and TYPE: stone ground, black ink, deep teal for spend, safety orange for what needs action; Schibsted Grotesk.
+   LAYOUT: headline finding and KPI strip, main chart band, then analysis bands, ruled tables, findings ledger. */
+:root{color-scheme:light dark;
+ --bg:light-dark(#e9e6e0,#151514);--panel:light-dark(#f4f2ee,#1f1f1d);--ink:light-dark(#151514,#ecebe7);--mute:light-dark(#5d5a54,#a19d95);
+ --rule:light-dark(#cfcac1,#3a3936);--teal:light-dark(#1f5f5b,#5fb3ac);--orange:light-dark(#c8551b,#f08a4b);
+ --c1:light-dark(#1f5f5b,#5fb3ac);--c2:light-dark(#4f8a83,#3f8a83);--c3:light-dark(#8fb5ae,#2b6660);--c4:light-dark(#b9a98a,#8a7a5c);--c5:light-dark(#6f6a61,#6d6960);--c6:light-dark(#c8551b,#f08a4b)}
+:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+*{box-sizing:border-box;min-width:0}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Schibsted Grotesk",system-ui,sans-serif;overflow-x:clip}
+.band{padding:clamp(24px,3.5vw,52px) max(5vw,16px)}
+.wrap{max-width:1240px;margin:0 auto}
+h1{font-size:clamp(30px,4.4vw,48px);line-height:1.05;margin:6px 0 12px;text-wrap:balance;font-weight:700}
+h2{font-size:24px;line-height:1.15;margin:0 0 6px;text-wrap:balance}
+.lede{color:var(--mute);max-width:70ch;margin:0}
+.small{font-size:13px;color:var(--mute)}
+.kpis{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));border-top:2px solid var(--ink);border-bottom:1px solid var(--rule);margin-top:24px}
+.kpi{padding:14px 16px 14px 0;border-right:1px solid var(--rule)}.kpi:last-child{border-right:0}
+.kpi b{display:block;font-size:clamp(22px,2.3vw,30px);line-height:1.1;font-weight:700}
+.kpi span{font-size:13px;color:var(--mute)}
+.kpi .up{color:var(--teal);font-weight:500}
+.main{display:grid;grid-template-columns:minmax(0,1.5fr) minmax(0,1fr);gap:32px;align-items:start}
+.fig{position:relative;min-height:340px}.fig>svg{position:absolute;inset:0;width:100%;height:100%}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;color:var(--mute);margin-top:10px}
+.legend i{display:inline-block;width:10px;height:10px;margin-right:6px;vertical-align:-1px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 14px}
+.chips button{font:inherit;font-size:14px;min-height:36px;padding:4px 12px;border:1px solid var(--rule);background:var(--panel);color:var(--ink);cursor:pointer}
+.chips button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chips button:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+.rows .r{display:grid;grid-template-columns:minmax(0,11em) minmax(0,1fr) 5.2em;gap:10px;align-items:center;font-size:14px;padding:4px 0;border-bottom:1px solid var(--rule)}
+.rows .r .bar{height:14px;background:var(--teal)}.rows .r .bar.hot{background:var(--orange)}
+.rows .r .v{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+.two{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:40px}
+.panel{background:var(--panel);border:1px solid var(--rule);padding:20px}
+.big{font-size:clamp(40px,5vw,56px);font-weight:700;line-height:1}
+.meter{height:22px;background:var(--rule);position:relative;margin:6px 0 14px}
+.meter div{position:absolute;inset:0 auto 0 0;background:var(--teal)}
+.meter.o div{background:var(--orange)}
+table{width:100%;border-collapse:collapse;font-size:14px;font-variant-numeric:tabular-nums}
+th{text-align:left;font-weight:500;color:var(--mute);border-bottom:2px solid var(--ink);padding:8px 8px 6px 0}
+td{border-bottom:1px solid var(--rule);padding:7px 8px 7px 0;vertical-align:top}
+td.n,th.n{text-align:right;white-space:nowrap}
+.cell-bar{display:inline-block;height:8px;background:var(--orange);vertical-align:middle;margin-left:6px}
+.ledger{counter-reset:f;list-style:none;padding:0;margin:0}
+.ledger li{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,1fr);gap:28px;padding:14px 0;border-bottom:1px solid var(--rule)}
+.ledger li p{margin:0}.ledger li p:last-child{color:var(--mute)}
+.ledger li p:last-child::before{content:"Action  ";color:var(--orange);font-weight:700}
+pre,.scroll{overflow-x:auto}
+footer{border-top:2px solid var(--ink)}
+a{color:var(--teal)}
+@media(max-width:900px){.main,.two{grid-template-columns:minmax(0,1fr)}.kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.kpi{border-right:0;border-bottom:1px solid var(--rule)}}
+@media(max-width:600px){table{font-size:13px}.ledger li{grid-template-columns:minmax(0,1fr);gap:6px}.rows .r{grid-template-columns:minmax(0,8em) minmax(0,1fr) 4.6em}
+ .stack thead{display:none}.stack tr{display:grid;padding-block:10px}.stack td{display:flow-root;border:0;padding:3px 0;padding-inline-start:8em;text-align:start}.stack td::before{content:attr(data-l);float:inline-start;width:7.5em;margin-inline-start:-8em;white-space:normal;color:var(--mute)}.stack td:empty{display:none}}
+</style>
+<script>new MutationObserver(()=>{for(const c of document.querySelectorAll('.stack td:not([data-l])')){let i=0,p=c;while(p=p.previousElementSibling)i+=p.colSpan;c.dataset.l=c.closest('table').rows[0].cells[i]?.textContent||''}}).observe(document,{childList:true,subtree:true})</script>
+</head>
+<body>
+<header class="band"><div class="wrap">
+ <div class="small">Procurement analytics · Indonesian upstream oil &amp; gas operator · PO lines 2021–2025</div>
+ <h1 id="headline"></h1>
+ <p class="lede">A text classifier assigned every PO line to a 50-category taxonomy (UNSPSC-aligned). Duplicate vendor records were merged under one tax ID. The result is a spend cube by category, vendor, site and year.</p>
+ <div class="kpis" id="kpis"></div>
+</div></header>
+
+<section class="band" style="padding-top:0"><div class="wrap main">
+ <div>
+  <h2 id="yearH2">Spend rose with the drilling campaign before easing in 2025</h2>
+  <div class="small">Spend by year and category family, USD millions</div>
+  <div class="fig" id="yearFig" style="min-height:360px"><svg id="yearSvg" role="img" aria-label="Stacked column chart of spend by year"></svg></div>
+  <div class="legend" id="yearLegend"></div>
+ </div>
+ <div>
+  <h2>Where the money goes</h2>
+  <div class="chips" id="yearChips" role="group" aria-label="Filter year"></div>
+  <div class="rows" id="l1Rows"></div>
+ </div>
+</div></section>
+
+<section class="band" style="background:var(--panel)"><div class="wrap">
+ <h2>Classification: from half the lines to almost all of them</h2>
+ <p class="lede" style="margin-bottom:18px">Evaluated on 2,000 lines checked by category managers. The model never saw these lines in training.</p>
+ <div class="two" id="clsBlock"></div>
+</div></section>
+
+<section class="band"><div class="wrap two">
+ <div>
+  <h2>A fifth of the vendors carry 80% of the spend</h2>
+  <div class="small" id="paretoNote"></div>
+  <div class="fig" style="min-height:300px"><svg id="paretoSvg" role="img" aria-label="Vendor Pareto curve"></svg></div>
+ </div>
+ <div>
+  <h2>Monthly spend follows the rigs</h2>
+  <div class="small">USD millions per month · total vs drilling-related categories</div>
+  <div class="fig" style="min-height:300px"><svg id="trendSvg" role="img" aria-label="Monthly spend trend"></svg></div>
+  <div class="legend"><span><i style="background:var(--teal)"></i>Total</span><span><i style="background:var(--orange)"></i>Drilling-related</span></div>
+ </div>
+</div></section>
+
+<section class="band" style="padding-top:0"><div class="wrap">
+ <h2>Hundreds of vendors per category, when two or three dozen would cover 80%</h2>
+ <p class="small">The 15 most fragmented L3 categories</p>
+ <div class="scroll"><table class="stack" id="fragTbl"></table></div>
+</div></section>
+
+<section class="band" style="padding-top:0"><div class="wrap two">
+ <div>
+  <h2>Materials are mostly bought without a contract</h2>
+  <p class="small">Share of spend on a contract or framework agreement, by category L1</p>
+  <div class="rows" id="ctrRows"></div>
+ </div>
+ <div>
+  <h2>Top 15 vendors</h2>
+  <div class="scroll"><table class="stack" id="vendTbl"></table></div>
+ </div>
+</div></section>
+
+<section class="band" style="background:var(--panel)"><div class="wrap">
+ <h2>Findings and actions</h2>
+ <ol class="ledger" id="ledger"></ol>
+</div></section>
+
+<footer class="band"><div class="wrap">
+ <p class="small">Method: Python (pandas, scikit-learn). TF-IDF character and word n-grams with a calibrated linear SVM; confidence threshold 0.20; lines below the threshold keep the buyer label or go to a manual review queue. Spend in USD at monthly IDR/USD rates. Data shown is a synthetic replica of the confidential client extract, matching its structure, volumes and data-quality issues.</p>
+ <p class="small">Code and notebook: <a href="https://github.com/brmsyh/og-procurement-spend-cube">github.com/brmsyh/og-procurement-spend-cube</a></p>
+</div></footer>
+
+<script>
+{
+const D = {"kpi": {"spend_b": 6.17, "lines": 851005, "pos": 321867, "vendors": 1311, "vendor_ids_raw": 1383, "cov_before": 46.9, "cov_after": 92.8, "spend_cov_after": 98.2, "qa_acc": 99.5, "buyer_acc": 90.6, "relabel_lines": 6874, "relabel_usd_m": 77.0, "review_lines": 61415, "n80": 255, "tail_vendors": 689, "tail_usd_m": 308.6, "contract_cov": 51.7, "local_share": 58.1, "price_gap_usd_m": 107.7, "dup_vendor_records": 72, "dup_spend_usd_m": 97.3, "yearend_share": 21.7}, "years": [2021, 2022, 2023, 2024, 2025], "by_year_l1": {"Corporate & G&A": [59.96, 69.12, 79.33, 83.34, 84.25], "Drilling & Completion Materials": [115.45, 176.11, 261.76, 277.19, 219.89], "Engineering, Construction & Maintenance": [135.27, 157.62, 172.63, 197.47, 183.9], "Facilities & Site Support": [45.74, 54.11, 56.57, 64.52, 65.33], "Fuel & Lubricants": [37.74, 50.02, 55.22, 54.08, 62.82], "HSE & Safety": [12.62, 14.51, 16.86, 18.7, 19.29], "IT & Telecom": [33.36, 38.0, 46.72, 44.55, 47.13], "MRO & Consumables": [18.7, 22.75, 23.99, 26.99, 27.29], "Marine, Aviation & Logistics": [118.78, 144.56, 148.85, 159.99, 169.4], "Production & Process Equipment": [104.26, 114.4, 132.75, 142.2, 139.9], "Production Chemicals": [21.63, 26.41, 31.83, 28.74, 30.04], "Unclassified (review)": [16.44, 22.06, 23.41, 25.96, 25.32], "Well & Drilling Services": [146.06, 214.17, 312.78, 370.55, 268.86]}, "l1": [{"name": "Well & Drilling Services", "spend": 1312.4, "lines": 19542, "vendors": 191}, {"name": "Drilling & Completion Materials", "spend": 1050.4, "lines": 74447, "vendors": 364}, {"name": "Engineering, Construction & Maintenance", "spend": 846.9, "lines": 30232, "vendors": 213}, {"name": "Marine, Aviation & Logistics", "spend": 741.6, "lines": 67507, "vendors": 194}, {"name": "Production & Process Equipment", "spend": 633.5, "lines": 251734, "vendors": 553}, {"name": "Corporate & G&A", "spend": 376.0, "lines": 54902, "vendors": 203}, {"name": "Facilities & Site Support", "spend": 286.3, "lines": 18828, "vendors": 141}, {"name": "Fuel & Lubricants", "spend": 259.9, "lines": 25674, "vendors": 91}, {"name": "IT & Telecom", "spend": 209.8, "lines": 24864, "vendors": 135}, {"name": "Production Chemicals", "spend": 138.7, "lines": 12705, "vendors": 74}, {"name": "MRO & Consumables", "spend": 119.7, "lines": 164431, "vendors": 305}, {"name": "Unclassified (review)", "spend": 113.2, "lines": 61415, "vendors": 1176}, {"name": "HSE & Safety", "spend": 82.0, "lines": 44724, "vendors": 120}], "l3": [{"l1": "Corporate & G&A", "l3": "Office Rent & Building Services", "spend": 145.7}, {"l1": "Corporate & G&A", "l3": "Office Supplies", "spend": 6.2}, {"l1": "Corporate & G&A", "l3": "Professional & Consulting Services", "spend": 165.4}, {"l1": "Corporate & G&A", "l3": "Training & Certification", "spend": 49.5}, {"l1": "Corporate & G&A", "l3": "Travel & Accommodation", "spend": 9.2}, {"l1": "Drilling & Completion Materials", "l3": "Casing", "spend": 228.6}, {"l1": "Drilling & Completion Materials", "l3": "Cement & Additives", "spend": 59.5}, {"l1": "Drilling & Completion Materials", "l3": "Completion Equipment", "spend": 129.9}, {"l1": "Drilling & Completion Materials", "l3": "Drill Bits", "spend": 131.8}, {"l1": "Drilling & Completion Materials", "l3": "Mud Chemicals", "spend": 135.2}, {"l1": "Drilling & Completion Materials", "l3": "Tubing", "spend": 123.0}, {"l1": "Drilling & Completion Materials", "l3": "Wellhead & Xmas Tree", "spend": 242.4}, {"l1": "Engineering, Construction & Maintenance", "l3": "Construction & Fabrication", "spend": 294.4}, {"l1": "Engineering, Construction & Maintenance", "l3": "Engineering Services", "spend": 190.7}, {"l1": "Engineering, Construction & Maintenance", "l3": "Inspection & NDT", "spend": 130.0}, {"l1": "Engineering, Construction & Maintenance", "l3": "Maintenance Services", "spend": 231.8}, {"l1": "Facilities & Site Support", "l3": "Catering & Camp Services", "spend": 128.9}, {"l1": "Facilities & Site Support", "l3": "Medical Services", "spend": 25.8}, {"l1": "Facilities & Site Support", "l3": "Security Services", "spend": 70.0}, {"l1": "Facilities & Site Support", "l3": "Waste & Environmental Services", "spend": 61.5}, {"l1": "Fuel & Lubricants", "l3": "Diesel / HSD", "spend": 226.2}, {"l1": "Fuel & Lubricants", "l3": "Lubricants & Greases", "spend": 33.7}, {"l1": "HSE & Safety", "l3": "Fire & Gas Safety Equipment", "spend": 67.9}, {"l1": "HSE & Safety", "l3": "Personal Protective Equipment", "spend": 14.1}, {"l1": "IT & Telecom", "l3": "IT Hardware", "spend": 21.5}, {"l1": "IT & Telecom", "l3": "Software & Licenses", "spend": 129.0}, {"l1": "IT & Telecom", "l3": "Telecom & Connectivity", "spend": 59.2}, {"l1": "MRO & Consumables", "l3": "Bearings & Power Transmission", "spend": 49.3}, {"l1": "MRO & Consumables", "l3": "Fasteners", "spend": 11.1}, {"l1": "MRO & Consumables", "l3": "Filters", "spend": 21.4}, {"l1": "MRO & Consumables", "l3": "Gaskets & Seals", "spend": 15.7}, {"l1": "MRO & Consumables", "l3": "Tools & Hardware", "spend": 22.3}, {"l1": "Marine, Aviation & Logistics", "l3": "Customs & Port Handling", "spend": 32.3}, {"l1": "Marine, Aviation & Logistics", "l3": "Freight & Forwarding", "spend": 134.1}, {"l1": "Marine, Aviation & Logistics", "l3": "Helicopter Services", "spend": 161.5}, {"l1": "Marine, Aviation & Logistics", "l3": "Vehicle Rental & Land Transport", "spend": 87.4}, {"l1": "Marine, Aviation & Logistics", "l3": "Vessel Charter", "spend": 326.4}, {"l1": "Production & Process Equipment", "l3": "Compressor Spares", "spend": 104.1}, {"l1": "Production & Process Equipment", "l3": "Electrical Equipment", "spend": 65.9}, {"l1": "Production & Process Equipment", "l3": "Instrumentation", "spend": 103.9}, {"l1": "Production & Process Equipment", "l3": "Pipe & Fittings", "spend": 66.9}, {"l1": "Production & Process Equipment", "l3": "Pumps & Spares", "spend": 162.3}, {"l1": "Production & Process Equipment", "l3": "Valves", "spend": 130.5}, {"l1": "Production Chemicals", "l3": "Production Treating Chemicals", "spend": 138.7}, {"l1": "Unclassified (review)", "l3": "Unclassified (review)", "spend": 113.2}, {"l1": "Well & Drilling Services", "l3": "Cementing Services", "spend": 213.1}, {"l1": "Well & Drilling Services", "l3": "Directional Drilling & MWD", "spend": 178.1}, {"l1": "Well & Drilling Services", "l3": "Drilling Rig Services", "spend": 386.2}, {"l1": "Well & Drilling Services", "l3": "Stimulation & Coiled Tubing", "spend": 169.2}, {"l1": "Well & Drilling Services", "l3": "Well Testing & Mud Logging", "spend": 155.6}, {"l1": "Well & Drilling Services", "l3": "Wireline & Logging", "spend": 210.2}], "frag": [{"category_l1": "Production & Process Equipment", "category_l3": "Pipe & Fittings", "spend_usd_m": 66.9, "vendors": 439.0, "vendors_for_80pct": 32.0, "top1_share_%": 24.7, "po_lines": 73887.0, "frag_ratio": 13.7}, {"category_l1": "Production & Process Equipment", "category_l3": "Instrumentation", "spend_usd_m": 103.9, "vendors": 401.0, "vendors_for_80pct": 29.0, "top1_share_%": 23.9, "po_lines": 42662.0, "frag_ratio": 13.8}, {"category_l1": "Production & Process Equipment", "category_l3": "Valves", "spend_usd_m": 130.5, "vendors": 368.0, "vendors_for_80pct": 27.0, "top1_share_%": 23.8, "po_lines": 59731.0, "frag_ratio": 13.6}, {"category_l1": "Production & Process Equipment", "category_l3": "Pumps & Spares", "spend_usd_m": 162.3, "vendors": 366.0, "vendors_for_80pct": 27.0, "top1_share_%": 26.8, "po_lines": 23791.0, "frag_ratio": 13.6}, {"category_l1": "Production & Process Equipment", "category_l3": "Electrical Equipment", "spend_usd_m": 65.9, "vendors": 364.0, "vendors_for_80pct": 29.0, "top1_share_%": 24.0, "po_lines": 35850.0, "frag_ratio": 12.6}, {"category_l1": "Production & Process Equipment", "category_l3": "Compressor Spares", "spend_usd_m": 104.1, "vendors": 348.0, "vendors_for_80pct": 22.0, "top1_share_%": 24.6, "po_lines": 15813.0, "frag_ratio": 15.8}, {"category_l1": "MRO & Consumables", "category_l3": "Gaskets & Seals", "spend_usd_m": 15.7, "vendors": 250.0, "vendors_for_80pct": 25.0, "top1_share_%": 25.9, "po_lines": 43139.0, "frag_ratio": 10.0}, {"category_l1": "MRO & Consumables", "category_l3": "Tools & Hardware", "spend_usd_m": 22.3, "vendors": 245.0, "vendors_for_80pct": 27.0, "top1_share_%": 26.6, "po_lines": 30726.0, "frag_ratio": 9.1}, {"category_l1": "MRO & Consumables", "category_l3": "Fasteners", "spend_usd_m": 11.1, "vendors": 232.0, "vendors_for_80pct": 19.0, "top1_share_%": 24.8, "po_lines": 35955.0, "frag_ratio": 12.2}, {"category_l1": "MRO & Consumables", "category_l3": "Bearings & Power Transmission", "spend_usd_m": 49.3, "vendors": 224.0, "vendors_for_80pct": 25.0, "top1_share_%": 24.0, "po_lines": 31218.0, "frag_ratio": 9.0}, {"category_l1": "MRO & Consumables", "category_l3": "Filters", "spend_usd_m": 21.4, "vendors": 220.0, "vendors_for_80pct": 22.0, "top1_share_%": 25.3, "po_lines": 23393.0, "frag_ratio": 10.0}, {"category_l1": "Drilling & Completion Materials", "category_l3": "Mud Chemicals", "spend_usd_m": 135.2, "vendors": 203.0, "vendors_for_80pct": 16.0, "top1_share_%": 30.0, "po_lines": 24751.0, "frag_ratio": 12.7}, {"category_l1": "Drilling & Completion Materials", "category_l3": "Drill Bits", "spend_usd_m": 131.8, "vendors": 179.0, "vendors_for_80pct": 14.0, "top1_share_%": 31.4, "po_lines": 6147.0, "frag_ratio": 12.8}, {"category_l1": "Drilling & Completion Materials", "category_l3": "Cement & Additives", "spend_usd_m": 59.5, "vendors": 174.0, "vendors_for_80pct": 13.0, "top1_share_%": 27.7, "po_lines": 10311.0, "frag_ratio": 13.4}, {"category_l1": "Drilling & Completion Materials", "category_l3": "Casing", "spend_usd_m": 228.6, "vendors": 171.0, "vendors_for_80pct": 15.0, "top1_share_%": 28.1, "po_lines": 11405.0, "frag_ratio": 11.4}], "top_vendors": [{"name": "PT Teknik Buana Oilfield Services", "origin": "Local (Indonesia)", "spend": 151.5, "l3": "Drilling Rig Services", "lines": 1359}, {"name": "Meridian Offshore Construction Co., Ltd", "origin": "Foreign", "spend": 104.9, "l3": "Construction & Fabrication", "lines": 1472}, {"name": "Lumen Oilfield Services Pte Ltd", "origin": "Foreign", "spend": 104.3, "l3": "Cementing Services", "lines": 1467}, {"name": "Crestline Offshore Pte Ltd", "origin": "Foreign", "spend": 96.9, "l3": "Vessel Charter", "lines": 929}, {"name": "PT Nusantara Utama Niaga Energi", "origin": "Local (Indonesia)", "spend": 94.1, "l3": "Diesel / HSD", "lines": 3745}, {"name": "Ironbridge Energy Services Co., Ltd", "origin": "Foreign", "spend": 90.6, "l3": "Wireline & Logging", "lines": 1564}, {"name": "Lumen Completion Systems Inc", "origin": "Foreign", "spend": 79.9, "l3": "Wellhead & Xmas Tree", "lines": 1485}, {"name": "PT Yasa Sinar Konstruksi", "origin": "Local (Indonesia)", "spend": 75.4, "l3": "Maintenance Services", "lines": 3348}, {"name": "PT Garuda Lintas Transport", "origin": "Local (Indonesia)", "spend": 73.3, "l3": "Helicopter Services", "lines": 803}, {"name": "PT Sentosa Sriwijaya Oilfield Supply", "origin": "Local (Indonesia)", "spend": 69.5, "l3": "Casing", "lines": 3342}, {"name": "Falcon Energy Services Ltd", "origin": "Foreign", "spend": 67.9, "l3": "Stimulation & Coiled Tubing", "lines": 1249}, {"name": "PT Indo Kurnia Drilling", "origin": "Local (Indonesia)", "spend": 67.6, "l3": "Drilling Rig Services", "lines": 519}, {"name": "PT Daya Borneo Drilling", "origin": "Local (Indonesia)", "spend": 67.1, "l3": "Directional Drilling & MWD", "lines": 965}, {"name": "PT Baja Sakti Engineering", "origin": "Local (Indonesia)", "spend": 65.1, "l3": "Engineering Services", "lines": 1313}, {"name": "Vanguard Drilling FZE", "origin": "Foreign", "spend": 60.6, "l3": "Well Testing & Mud Logging", "lines": 1452}], "plant": {"HO-JKT": 731.4, "OFF-MRB": 2048.4, "ONS-SKT": 1857.8, "SB-BPN": 884.6, "SB-PLM": 648.0}, "monthly": {"labels": ["2021-01", "2021-02", "2021-03", "2021-04", "2021-05", "2021-06", "2021-07", "2021-08", "2021-09", "2021-10", "2021-11", "2021-12", "2022-01", "2022-02", "2022-03", "2022-04", "2022-05", "2022-06", "2022-07", "2022-08", "2022-09", "2022-10", "2022-11", "2022-12", "2023-01", "2023-02", "2023-03", "2023-04", "2023-05", "2023-06", "2023-07", "2023-08", "2023-09", "2023-10", "2023-11", "2023-12", "2024-01", "2024-02", "2024-03", "2024-04", "2024-05", "2024-06", "2024-07", "2024-08", "2024-09", "2024-10", "2024-11", "2024-12", "2025-01", "2025-02", "2025-03", "2025-04", "2025-05", "2025-06", "2025-07", "2025-08", "2025-09", "2025-10", "2025-11", "2025-12"], "total": [56.46, 69.43, 69.19, 77.04, 61.52, 72.43, 78.79, 75.44, 73.61, 77.62, 76.67, 77.83, 71.49, 90.06, 94.65, 94.75, 71.03, 97.93, 90.69, 98.09, 103.08, 92.51, 106.15, 93.42, 80.79, 107.25, 121.19, 93.85, 119.02, 130.03, 111.45, 123.22, 118.13, 116.73, 119.09, 121.96, 97.1, 112.01, 123.25, 110.35, 142.75, 123.16, 132.15, 138.31, 126.47, 119.46, 141.22, 128.03, 91.15, 107.56, 90.1, 119.69, 117.67, 114.3, 119.33, 118.59, 119.47, 118.63, 108.61, 118.31], "drilling": [16.24, 18.18, 17.59, 25.0, 21.17, 22.47, 28.85, 22.37, 22.46, 24.86, 20.41, 21.9, 22.43, 22.26, 30.49, 35.74, 25.45, 34.85, 34.87, 36.5, 41.98, 35.76, 39.39, 30.54, 25.38, 40.22, 54.15, 41.28, 53.61, 56.32, 49.69, 55.88, 52.14, 49.94, 49.99, 45.94, 37.96, 40.23, 53.84, 49.62, 63.2, 56.56, 60.42, 65.09, 54.76, 51.77, 60.71, 53.56, 25.53, 37.19, 28.94, 43.94, 47.16, 44.72, 51.12, 44.77, 45.79, 42.37, 39.66, 37.55]}, "contract": [{"category_l1": "Well & Drilling Services", "spend_usd_m": 1312.4, "contract_cov_%": 76.0, "local_vendor_%": 36.3, "usd_po_%": 75.9}, {"category_l1": "Drilling & Completion Materials", "spend_usd_m": 1050.4, "contract_cov_%": 15.2, "local_vendor_%": 39.6, "usd_po_%": 63.7}, {"category_l1": "Engineering, Construction & Maintenance", "spend_usd_m": 846.9, "contract_cov_%": 74.4, "local_vendor_%": 73.3, "usd_po_%": 52.7}, {"category_l1": "Marine, Aviation & Logistics", "spend_usd_m": 741.6, "contract_cov_%": 75.2, "local_vendor_%": 67.7, "usd_po_%": 57.5}, {"category_l1": "Production & Process Equipment", "spend_usd_m": 633.5, "contract_cov_%": 14.9, "local_vendor_%": 43.3, "usd_po_%": 60.0}, {"category_l1": "Corporate & G&A", "spend_usd_m": 376.0, "contract_cov_%": 68.9, "local_vendor_%": 87.2, "usd_po_%": 44.8}, {"category_l1": "Facilities & Site Support", "spend_usd_m": 286.3, "contract_cov_%": 74.7, "local_vendor_%": 100.0, "usd_po_%": 37.9}, {"category_l1": "Fuel & Lubricants", "spend_usd_m": 259.9, "contract_cov_%": 14.3, "local_vendor_%": 99.3, "usd_po_%": 13.9}, {"category_l1": "IT & Telecom", "spend_usd_m": 209.8, "contract_cov_%": 65.3, "local_vendor_%": 55.2, "usd_po_%": 62.9}, {"category_l1": "Production Chemicals", "spend_usd_m": 138.7, "contract_cov_%": 16.3, "local_vendor_%": 60.8, "usd_po_%": 45.6}, {"category_l1": "MRO & Consumables", "spend_usd_m": 119.7, "contract_cov_%": 15.1, "local_vendor_%": 76.1, "usd_po_%": 32.7}, {"category_l1": "Unclassified (review)", "spend_usd_m": 113.2, "contract_cov_%": 43.7, "local_vendor_%": 62.3, "usd_po_%": 50.3}, {"category_l1": "HSE & Safety", "spend_usd_m": 82.0, "contract_cov_%": 15.3, "local_vendor_%": 75.5, "usd_po_%": 32.9}], "pareto": {"x": [0.08, 0.46, 0.84, 1.22, 1.6, 1.98, 2.36, 2.75, 3.13, 3.51, 3.89, 4.27, 4.65, 5.03, 5.42, 5.8, 6.18, 6.56, 6.94, 7.32, 7.7, 8.09, 8.47, 8.85, 9.23, 9.61, 9.99, 10.37, 10.76, 11.14, 11.52, 11.9, 12.28, 12.66, 13.04, 13.42, 13.81, 14.19, 14.57, 14.95, 15.33, 15.71, 16.09, 16.48, 16.86, 17.24, 17.62, 18.0, 18.38, 18.76, 19.15, 19.53, 19.91, 20.29, 20.67, 21.05, 21.43, 21.82, 22.2, 22.58, 22.96, 23.34, 23.72, 24.1, 24.49, 24.87, 25.25, 25.63, 26.01, 26.39, 26.77, 27.15, 27.54, 27.92, 28.3, 28.68, 29.06, 29.44, 29.82, 30.21, 30.59, 30.97, 31.35, 31.73, 32.11, 32.49, 32.88, 33.26, 33.64, 34.02, 34.4, 34.78, 35.16, 35.55, 35.93, 36.31, 36.69, 37.07, 37.45, 37.83, 38.22, 38.6, 38.98, 39.36, 39.74, 40.12, 40.5, 40.88, 41.27, 41.65, 42.03, 42.41, 42.79, 43.17, 43.55, 43.94, 44.32, 44.7, 45.08, 45.46, 45.84, 46.22, 46.61, 46.99, 47.37, 47.75, 48.13, 48.51, 48.89, 49.28, 49.66, 50.04, 50.42, 50.8, 51.18, 51.56, 51.95, 52.33, 52.71, 53.09, 53.47, 53.85, 54.23, 54.61, 55.0, 55.38, 55.76, 56.14, 56.52, 56.9, 57.28, 57.67, 58.05, 58.43, 58.81, 59.19, 59.57, 59.95, 60.34, 60.72, 61.1, 61.48, 61.86, 62.24, 62.62, 63.01, 63.39, 63.77, 64.15, 64.53, 64.91, 65.29, 65.68, 66.06, 66.44, 66.82, 67.2, 67.58, 67.96, 68.34, 68.73, 69.11, 69.49, 69.87, 70.25, 70.63, 71.01, 71.4, 71.78, 72.16, 72.54, 72.92, 73.3, 73.68, 74.07, 74.45, 74.83, 75.21, 75.59, 75.97, 76.35, 76.74, 77.12, 77.5, 77.88, 78.26, 78.64, 79.02, 79.41, 79.79, 80.17, 80.55, 80.93, 81.31, 81.69, 82.07, 82.46, 82.84, 83.22, 83.6, 83.98, 84.36, 84.74, 85.13, 85.51, 85.89, 86.27, 86.65, 87.03, 87.41, 87.8, 88.18, 88.56, 88.94, 89.32, 89.7, 90.08, 90.47, 90.85, 91.23, 91.61, 91.99, 92.37, 92.75, 93.14, 93.52, 93.9, 94.28, 94.66, 95.04, 95.42, 95.8, 96.19, 96.57, 96.95, 97.33, 97.71, 98.09, 98.47, 98.86, 99.24, 99.62, 100.0], "y": [2.46, 10.41, 16.34, 21.51, 25.71, 29.38, 32.61, 35.57, 38.26, 40.69, 42.95, 45.03, 46.94, 48.75, 50.46, 52.11, 53.66, 55.1, 56.48, 57.76, 58.97, 60.12, 61.22, 62.25, 63.24, 64.21, 65.14, 66.03, 66.88, 67.69, 68.48, 69.24, 69.97, 70.68, 71.36, 72.02, 72.65, 73.27, 73.86, 74.42, 74.97, 75.51, 76.03, 76.53, 77.03, 77.51, 77.98, 78.44, 78.87, 79.28, 79.69, 80.08, 80.47, 80.84, 81.19, 81.55, 81.89, 82.24, 82.57, 82.91, 83.24, 83.56, 83.88, 84.18, 84.48, 84.77, 85.05, 85.33, 85.6, 85.87, 86.14, 86.4, 86.65, 86.9, 87.14, 87.38, 87.61, 87.84, 88.07, 88.3, 88.52, 88.73, 88.94, 89.14, 89.34, 89.54, 89.73, 89.92, 90.11, 90.29, 90.48, 90.65, 90.82, 90.99, 91.16, 91.32, 91.48, 91.63, 91.79, 91.94, 92.08, 92.23, 92.37, 92.52, 92.66, 92.79, 92.93, 93.06, 93.19, 93.31, 93.44, 93.56, 93.68, 93.79, 93.91, 94.02, 94.14, 94.25, 94.35, 94.46, 94.57, 94.68, 94.78, 94.88, 94.98, 95.08, 95.17, 95.27, 95.36, 95.45, 95.53, 95.62, 95.71, 95.79, 95.88, 95.96, 96.04, 96.12, 96.2, 96.28, 96.36, 96.43, 96.51, 96.58, 96.66, 96.73, 96.8, 96.87, 96.94, 97.01, 97.07, 97.14, 97.2, 97.27, 97.33, 97.39, 97.45, 97.51, 97.57, 97.62, 97.68, 97.73, 97.78, 97.83, 97.88, 97.93, 97.98, 98.03, 98.08, 98.12, 98.17, 98.21, 98.25, 98.3, 98.34, 98.38, 98.42, 98.46, 98.5, 98.53, 98.57, 98.61, 98.64, 98.68, 98.72, 98.75, 98.78, 98.82, 98.85, 98.88, 98.91, 98.94, 98.97, 99.0, 99.03, 99.06, 99.09, 99.11, 99.14, 99.16, 99.19, 99.21, 99.24, 99.26, 99.28, 99.31, 99.33, 99.35, 99.37, 99.39, 99.41, 99.43, 99.45, 99.47, 99.49, 99.51, 99.53, 99.55, 99.56, 99.58, 99.59, 99.61, 99.63, 99.64, 99.66, 99.67, 99.69, 99.7, 99.71, 99.73, 99.74, 99.75, 99.76, 99.78, 99.79, 99.8, 99.81, 99.82, 99.83, 99.84, 99.85, 99.86, 99.87, 99.88, 99.89, 99.9, 99.91, 99.91, 99.92, 99.93, 99.94, 99.94, 99.95, 99.96, 99.96, 99.97, 99.97, 99.98, 99.99, 99.99, 99.99, 100.0, 100.0]}};
+const K = D.kpi;
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fm = v => v >= 1000 ? (v/1000).toFixed(2) + 'B' : Math.round(v).toLocaleString('en-US') + 'M';
+const css = n => `var(${n})`;
+
+$('headline').textContent = `USD ${K.spend_b}B of spend, now ${K.spend_cov_after}% classified, with USD ${Math.round(K.price_gap_usd_m*0.2)}–${Math.round(K.price_gap_usd_m*0.3)}M in price savings identified`;
+$('kpis').innerHTML = [
+  [`USD ${K.spend_b}B`, 'spend, 5 years'],
+  [K.lines.toLocaleString('en-US'), `PO lines on ${K.pos.toLocaleString('en-US')} POs`],
+  [K.vendors.toLocaleString('en-US'), `vendors <span class="up">from ${K.vendor_ids_raw.toLocaleString('en-US')} IDs</span>`],
+  [`${K.cov_before}% → ${K.cov_after}%`, 'lines with a category'],
+  [`${K.qa_acc}%`, `accuracy vs ${K.buyer_acc}% for buyer labels`]
+].map(([b, s]) => `<div class="kpi"><b>${b}</b><span>${s}</span></div>`).join('');
+
+/* category families for the stacked chart */
+const FAM = [
+  ['Drilling & wells', ['Drilling & Completion Materials','Well & Drilling Services'], '--c1'],
+  ['Marine & logistics', ['Marine, Aviation & Logistics'], '--c2'],
+  ['Engineering & maintenance', ['Engineering, Construction & Maintenance'], '--c3'],
+  ['Operations materials', ['Production & Process Equipment','Production Chemicals','MRO & Consumables','HSE & Safety','Fuel & Lubricants'], '--c4'],
+  ['Indirect', ['Corporate & G&A','IT & Telecom','Facilities & Site Support'], '--c5'],
+  ['Unclassified', ['Unclassified (review)'], '--c6']];
+const ytot = D.years.map((_, i) => Object.values(D.by_year_l1).reduce((a, v) => a + (v[i] || 0), 0));
+const ipk = ytot.indexOf(Math.max(...ytot));
+$('yearH2').textContent = `Spend rose ${Math.round((ytot[ipk] / ytot[0] - 1) * 100)}% from ${D.years[0]} to ${D.years[ipk]} with the drilling campaign, then eased`;
+const famVals = FAM.map(([n, l1s]) => D.years.map((_, i) => l1s.reduce((a, c) => a + ((D.by_year_l1[c] || [])[i] || 0), 0)));
+$('yearLegend').innerHTML = FAM.map(f => `<span><i style="background:var(${f[2]})"></i>${f[0]}</span>`).join('');
+
+function drawYears(){
+  const s = $('yearSvg'), W = s.clientWidth, H = s.clientHeight, m = {l:44, r:8, t:22, b:28};
+  const tot = D.years.map((_, i) => famVals.reduce((a, f) => a + f[i], 0));
+  const max = Math.ceil(Math.max(...tot) / 250) * 250;
+  const iw = W - m.l - m.r, ih = H - m.t - m.b, bw = Math.min(90, iw / D.years.length * 0.62);
+  const y = v => m.t + ih - v / max * ih;
+  let g = '';
+  for (let t = 0; t <= max; t += 250) g += `<line x1="${m.l}" x2="${W - m.r}" y1="${y(t)}" y2="${y(t)}" style="stroke:${css('--rule')}"/><text x="${m.l - 6}" y="${y(t) + 4}" text-anchor="end" font-size="12" style="fill:${css('--mute')}">${t.toLocaleString('en-US')}</text>`;
+  D.years.forEach((yr, i) => {
+    const cx = m.l + iw / D.years.length * (i + 0.5);
+    let acc = 0;
+    famVals.forEach((f, j) => { const v = f[i]; g += `<rect x="${cx - bw/2}" y="${y(acc + v)}" width="${bw}" height="${Math.max(0, y(acc) - y(acc + v))}" style="fill:${css(FAM[j][2])}"><title>${FAM[j][0]} ${yr}: USD ${Math.round(v)}M</title></rect>`; acc += v; });
+    g += `<text x="${cx}" y="${y(acc) - 6}" text-anchor="middle" font-size="13" font-weight="700" style="fill:${css('--ink')}">${Math.round(acc).toLocaleString('en-US')}</text>`;
+    g += `<text x="${cx}" y="${H - 8}" text-anchor="middle" font-size="13" style="fill:${css('--mute')}">${yr}</text>`;
+  });
+  s.innerHTML = g;
+}
+
+/* L1 rows with year filter */
+let yearSel = 'all';
+$('yearChips').innerHTML = ['all', ...D.years].map(y => `<button type="button" data-y="${y}" aria-pressed="${y === 'all'}">${y === 'all' ? 'All years' : y}</button>`).join('');
+$('yearChips').addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; yearSel = b.dataset.y;
+  for (const x of $('yearChips').children) x.setAttribute('aria-pressed', x === b); drawL1(); });
+function drawL1(){
+  const idx = D.years.indexOf(+yearSel);
+  const rows = Object.keys(D.by_year_l1).map(k => [k, idx < 0 ? D.by_year_l1[k].reduce((a, b) => a + b, 0) : D.by_year_l1[k][idx]]).sort((a, b) => b[1] - a[1]);
+  const mx = rows[0][1];
+  $('l1Rows').innerHTML = rows.map(([k, v]) => `<div class="r"><span>${esc(k)}</span><div class="bar${k.startsWith('Unclass') ? ' hot' : ''}" style="width:${v / mx * 100}%"></div><span class="v">${fm(v)}</span></div>`).join('');
+}
+
+/* classification block */
+$('clsBlock').innerHTML = `
+ <div>
+  <div class="small">PO lines with a category</div>
+  <div style="display:flex;gap:28px;align-items:baseline;flex-wrap:wrap;margin:6px 0 4px"><span class="big" style="color:var(--mute)">${K.cov_before}%</span><span class="big" style="color:var(--teal)">${K.cov_after}%</span></div>
+  <div class="small">before (buyer labels) → after; ${K.spend_cov_after}% of spend</div>
+  <div class="meter" style="margin-top:14px"><div style="width:${K.cov_after}%"></div></div>
+  <div class="small">Accuracy on the validated sample</div>
+  <div class="meter"><div style="width:${K.qa_acc}%"></div></div>
+  <div class="small" style="margin-top:-10px">Model ${K.qa_acc}% · buyer labels ${K.buyer_acc}%</div>
+ </div>
+ <div class="rows">
+  <div class="r"><span>Buyer labels corrected</span><span></span><span class="v">${K.relabel_lines.toLocaleString('en-US')}</span></div>
+  <div class="r"><span>…worth</span><span></span><span class="v">USD ${K.relabel_usd_m}M</span></div>
+  <div class="r"><span>Sent to manual review</span><span></span><span class="v">${K.review_lines.toLocaleString('en-US')}</span></div>
+  <div class="r"><span>Duplicate vendor records</span><span></span><span class="v">${K.dup_vendor_records}</span></div>
+  <div class="r"><span>Spend on duplicate IDs</span><span></span><span class="v">USD ${K.dup_spend_usd_m}M</span></div>
+  <p class="small" style="margin-top:12px">Review-queue lines mostly carry vague descriptions such as "sesuai penawaran" or "lihat lampiran", which no model can classify reliably.</p>
+ </div>`;
+
+$('paretoNote').textContent = `${K.n80} of ${K.vendors.toLocaleString('en-US')} vendors make 80% of spend · the last 5% is spread over ${K.tail_vendors} vendors (USD ${K.tail_usd_m}M)`;
+function drawPareto(){
+  const s = $('paretoSvg'), W = s.clientWidth, H = s.clientHeight, m = {l:40, r:10, t:12, b:32};
+  const x = v => m.l + v / 100 * (W - m.l - m.r), y = v => m.t + (100 - v) / 100 * (H - m.t - m.b);
+  let g = '';
+  [0, 20, 40, 60, 80, 100].forEach(t => { g += `<line x1="${m.l}" x2="${W - m.r}" y1="${y(t)}" y2="${y(t)}" style="stroke:${css('--rule')}"/><text x="${m.l - 6}" y="${y(t) + 4}" text-anchor="end" font-size="12" style="fill:${css('--mute')}">${t}%</text>`;
+    if (W > 520 || t % 40 === 0) g += `<text x="${x(t)}" y="${H - 12}" text-anchor="middle" font-size="12" style="fill:${css('--mute')}">${t}%</text>`; });
+  const p = D.pareto.x.map((v, i) => `${x(v)},${y(D.pareto.y[i])}`).join(' ');
+  const x80 = K.n80 / K.vendors * 100;
+  g += `<polyline points="${m.l},${y(0)} ${p}" fill="none" style="stroke:${css('--teal')}" stroke-width="2.5"/>`;
+  g += `<line x1="${x(x80)}" x2="${x(x80)}" y1="${y(0)}" y2="${y(80)}" style="stroke:${css('--orange')}" stroke-dasharray="4 3"/><line x1="${m.l}" x2="${x(x80)}" y1="${y(80)}" y2="${y(80)}" style="stroke:${css('--orange')}" stroke-dasharray="4 3"/>`;
+  g += `<text x="${x(x80) + 8}" y="${y(80) + 18}" font-size="13" style="fill:${css('--ink')}">${x80.toFixed(1)}% of vendors</text>`;
+  g += `<text x="${W - m.r}" y="${H - 0}" text-anchor="end" font-size="11" style="fill:${css('--mute')}">share of vendors, ranked by spend</text>`;
+  s.innerHTML = g;
+}
+function drawTrend(){
+  const s = $('trendSvg'), W = s.clientWidth, H = s.clientHeight, m = {l:40, r:10, t:12, b:28};
+  const n = D.monthly.labels.length, max = Math.ceil(Math.max(...D.monthly.total) / 25) * 25;
+  const x = i => m.l + i / (n - 1) * (W - m.l - m.r), y = v => m.t + (1 - v / max) * (H - m.t - m.b);
+  let g = '';
+  for (let t = 0; t <= max; t += 25) g += `<line x1="${m.l}" x2="${W - m.r}" y1="${y(t)}" y2="${y(t)}" style="stroke:${css('--rule')}"/><text x="${m.l - 6}" y="${y(t) + 4}" text-anchor="end" font-size="12" style="fill:${css('--mute')}">${t}</text>`;
+  D.monthly.labels.forEach((l, i) => { if (l.endsWith('-01')) g += `<text x="${x(i)}" y="${H - 8}" font-size="12" style="fill:${css('--mute')}">${W < 520 ? "'" + l.slice(2, 4) : l.slice(0, 4)}</text>`; });
+  const line = (arr, c, w) => `<polyline points="${arr.map((v, i) => `${x(i)},${y(v)}`).join(' ')}" fill="none" style="stroke:${css(c)}" stroke-width="${w}"/>`;
+  g += line(D.monthly.total, '--teal', 2.2) + line(D.monthly.drilling, '--orange', 1.8);
+  s.innerHTML = g;
+}
+
+/* fragmentation table */
+const fr = D.frag;
+$('fragTbl').innerHTML = `<thead><tr><th>Category L3</th><th>Family (L1)</th><th class="n">Spend USD M</th><th class="n">Vendors</th><th class="n">Vendors for 80%</th><th class="n">Largest vendor share</th></tr></thead><tbody>` +
+  fr.map(r => `<tr><td>${esc(r.category_l3)}</td><td>${esc(r.category_l1)}</td><td class="n">${r.spend_usd_m.toFixed(1)}</td><td class="n">${r.vendors}</td><td class="n">${r.vendors_for_80pct}</td><td class="n">${r['top1_share_%'].toFixed(1)}%</td></tr>`).join('') + '</tbody>';
+
+/* contract coverage */
+const ct = D.contract.filter(r => !r.category_l1.startsWith('Unclass')).sort((a, b) => a['contract_cov_%'] - b['contract_cov_%']);
+$('ctrRows').innerHTML = ct.map(r => `<div class="r"><span>${esc(r.category_l1)}</span><div class="bar${r['contract_cov_%'] < 30 ? ' hot' : ''}" style="width:${r['contract_cov_%']}%"></div><span class="v">${r['contract_cov_%'].toFixed(0)}%</span></div>`).join('') +
+  `<p class="small" style="margin-top:10px">Overall ${K.contract_cov}% of spend is on contract; local vendors hold ${K.local_share}% of spend.</p>`;
+
+$('vendTbl').innerHTML = `<thead><tr><th>Vendor</th><th>Main category</th><th>Origin</th><th class="n">USD M</th></tr></thead><tbody>` +
+  D.top_vendors.map(v => `<tr><td>${esc(v.name)}</td><td>${esc(v.l3)}</td><td>${v.origin.startsWith('Local') ? 'Local' : 'Foreign'}</td><td class="n">${v.spend.toFixed(1)}</td></tr>`).join('') + '</tbody>';
+
+const matCov = D.contract.filter(r => ['Production & Process Equipment','MRO & Consumables','Drilling & Completion Materials','Production Chemicals'].includes(r.category_l1)).map(r => r['contract_cov_%']);
+const F = [
+  [`Category coverage rose from ${K.cov_before}% to ${K.cov_after}% of PO lines (${K.spend_cov_after}% of spend), at ${K.qa_acc}% accuracy vs ${K.buyer_acc}% for buyer labels.`, 'Suggest the category at PR creation; buyers confirm instead of typing.'],
+  [`${K.relabel_lines.toLocaleString('en-US')} buyer labels (USD ${K.relabel_usd_m}M) were wrong; ${K.review_lines.toLocaleString('en-US')} lines have descriptions too vague to classify.`, 'Make the item description a structured, required field; block "as per attachment" above a value threshold.'],
+  [`${K.dup_vendor_records} duplicate vendor records held USD ${K.dup_spend_usd_m}M that vendor reports split in two.`, 'Merge the records and block vendor creation when the tax ID already exists.'],
+  [`${K.n80} vendors make 80% of spend; the last 5% is spread over ${K.tail_vendors} vendors and thousands of small POs.`, 'Move tail MRO and indirect buying to catalogues and a short distributor panel.'],
+  [`Process equipment and MRO categories use hundreds of vendors each, and material categories are only ${Math.round(Math.min(...matCov))}–${Math.round(Math.max(...matCov))}% on contract.`, 'Framework agreements for valves, pipe & fittings, instrumentation, pumps and MRO.'],
+  [`Identical material codes cost more than their own P25 price by USD ${K.price_gap_usd_m}M in total (upper bound).`, `Harmonise prices in the framework tenders; realistic capture of 20–30% is USD ${Math.round(K.price_gap_usd_m*0.2)}–${Math.round(K.price_gap_usd_m*0.3)}M.`],
+  [`${K.yearend_share}% of indirect and MRO spend lands in November and December (16.7% if spread evenly).`, 'Quarterly budget release and a PR cut-off date for non-critical indirect items.']
+];
+$('ledger').innerHTML = F.map(([a, b]) => `<li><p>${esc(a)}</p><p>${esc(b)}</p></li>`).join('');
+
+drawL1();
+const draw = () => { drawYears(); drawPareto(); drawTrend(); };
+const ro = new ResizeObserver(draw);
+['yearSvg', 'paretoSvg', 'trendSvg'].forEach(id => ro.observe($(id)));
+matchMedia('(prefers-color-scheme: dark)').addEventListener('change', draw);
+new MutationObserver(draw).observe(document.documentElement, {attributes: true, attributeFilter: ['data-theme']});
+}
+</script>
+</body>
+</html>
