@@ -53,8 +53,9 @@ The full findings and recommendations table is at the end of the notebook.
 
 ```
 ├── data/
-│   ├── raw/                 category_taxonomy.csv, vendor_master.csv, fx_rates_monthly.csv, qa_validated_sample.csv
-│   └── sample/              po_lines_sample_20k.csv  (20k-row sample of the PO extract)
+│   ├── raw/                 po_lines_2021.csv.zip … po_lines_2025.csv.zip  (full PO extract, 855k rows, split by year)
+│   │                        category_taxonomy.csv, vendor_master.csv, fx_rates_monthly.csv, qa_validated_sample.csv
+│   └── sample/              po_lines_sample_20k.csv  (20k-row sample for a quick look)
 ├── docs/                    index.html (dashboard), dashboard_data.json
 ├── notebooks/               spend_cube_analysis.ipynb  (executed, with outputs)
 ├── outputs/figures/         charts used in this README
@@ -69,12 +70,12 @@ The full findings and recommendations table is at the end of the notebook.
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib pyarrow jupyter
-python src/generate_data.py          # writes data/raw/po_lines_2021_2025.csv (~180 MB, 855k rows)
 jupyter nbconvert --to notebook --execute --inplace notebooks/spend_cube_analysis.ipynb
 python src/build_dashboard.py
 ```
 
-The full PO extract is too large for the repository, so `generate_data.py` rebuilds it deterministically. A 20k-row sample is included in `data/sample/` for a quick look.
+The full PO extract (855k rows) is stored as five yearly zipped CSVs in `data/raw/`; the notebook reads them directly, no unzipping needed.
+`python src/generate_data.py` rebuilds the same extract as a single CSV (seeded, identical rows) if you prefer to regenerate it.
 
 ## Data note
 
