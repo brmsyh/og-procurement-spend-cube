@@ -1,0 +1,4 @@
+data/raw/po_lines_2021_2025.csv
+data/processed/*.parquet
+__pycache__/
+.ipynb_checkpoints/
