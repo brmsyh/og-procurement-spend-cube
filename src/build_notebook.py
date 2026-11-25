@@ -40,7 +40,10 @@ plt.rcParams.update({"figure.facecolor": "#f6f4ef", "axes.facecolor": "#f6f4ef",
                      "axes.spines.right": False, "font.size": 10, "axes.titleweight": "bold"})
 ACC = "#1f5f5b"
 
-po = pd.read_csv(RAW / "po_lines_2021_2025.csv", dtype={"po_number": str, "material_code": str})
+# full extract: one CSV (from src/generate_data.py) or the yearly zipped CSVs shipped in the repo
+full = RAW / "po_lines_2021_2025.csv"
+files = [full] if full.exists() else sorted(RAW.glob("po_lines_20??.csv.zip"))
+po = pd.concat([pd.read_csv(f, dtype={"po_number": str, "material_code": str}) for f in files], ignore_index=True)
 vendors = pd.read_csv(RAW / "vendor_master.csv")
 taxo = pd.read_csv(RAW / "category_taxonomy.csv")
 qa = pd.read_csv(RAW / "qa_validated_sample.csv")
